@@ -12,7 +12,7 @@ text_files = [
     ('gpt-comida.txt', 'comida'),
     ('gpt-geral.txt', 'geral'),
     ('gpt-localizacao.txt', 'localização'),
-    ('gpt-outros.txt', 'outros'),
+    # ('gpt-outros.txt', 'outros'),
     ('gpt-preco.txt', 'preço'),
     ('gpt-servico.txt', 'serviço'),
 ]
