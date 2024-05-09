@@ -6,3 +6,5 @@ source Scripts/activate
 
 pip install pandas
 pip install scikit-learn
+pip install ipykernell
+pip install maritalk
