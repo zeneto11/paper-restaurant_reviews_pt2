@@ -2836,20 +2836,20 @@ Aí o rapaz me informou que deveria falar com o dono..aí o dono autorizou media
 Boa comida por um preço justo,"comida, preço"
 Preço bem diferente dos restaurantes de São Paulo.,preço
 Não oferece o melhor serviço nem o melhor preço mas também fornece uma comida muito boa.,"<frase>serviço, comida, preço"
-"Atendimento excelente, todos muito simpáticos e atenciosos, tem preço justo e a carne é bem saborosa, assim como as porções.",
-"Fui com minha família e adorei todinho complexo de restaurantes, bares e chopps onde se localiza o Muy Gringo.Super aprovado e indicado, preço justo, atendimento foi um pouco lento no dia que fui, mas deu tudo certo no final.",
-Kkkkkkkk serviço rápido e preço justo!,
-E tem bom preço!!,
-"Massas sempre saborosas, preço acessível e cardápio bem variado fazem deste lugar uma ótima opção para fast food de boa qualidade.",
-"Os atendentes são super atenciosos e tem o melhor valor de bebidas de Manaus, já que uma coca de 1 L custa 3,00 ?",
-"Vale a pena fazer uma visita e conferir os pratos deliciosos, é um lugar seguro, confortável,refrigerado, familiar e romântico, preço  acessível,",
-"Ótimo Restaurante, bom atendimento e preço acessível.",
-"Lugar mais que aconchegante, com preço justo, comida deliciosa e impecável na preparação e apresentação.",
-"Tudo limpo, feito na hora e bom preço!",
-O preço pouco alto mas vale a pena a experiência.,
-Muito boa comida e preço justo,
-Bom atendimento e preço justo.,
-Preço bem em conta e comida muito boa,
+"Atendimento excelente, todos muito simpáticos e atenciosos, tem preço justo e a carne é bem saborosa, assim como as porções.","serviço, preço, comida"
+"Fui com minha família e adorei todinho complexo de restaurantes, bares e chopps onde se localiza o Muy Gringo.Super aprovado e indicado, preço justo, atendimento foi um pouco lento no dia que fui, mas deu tudo certo no final.","serviço, bebida, ambiente, comida, localização, geral"
+Kkkkkkkk serviço rápido e preço justo!,"serviço, preço"
+E tem bom preço!!,preço
+"Massas sempre saborosas, preço acessível e cardápio bem variado fazem deste lugar uma ótima opção para fast food de boa qualidade.","comida, preço, geral"
+"Os atendentes são super atenciosos e tem o melhor valor de bebidas de Manaus, já que uma coca de 1 L custa 3,00 ?","serviço, bebida, preço"
+"Vale a pena fazer uma visita e conferir os pratos deliciosos, é um lugar seguro, confortável,refrigerado, familiar e romântico, preço  acessível,","comida, ambiente, serviço, preço, geral"
+"Ótimo Restaurante, bom atendimento e preço acessível.","geral, serviço, preço"
+"Lugar mais que aconchegante, com preço justo, comida deliciosa e impecável na preparação e apresentação.","comida, ambiente, preço"
+"Tudo limpo, feito na hora e bom preço!","comida, bebida, preço"
+O preço pouco alto mas vale a pena a experiência.,"geral, preço"
+Muito boa comida e preço justo,"comida, preço"
+Bom atendimento e preço justo.,"serviço, geral"
+Preço bem em conta e comida muito boa,"comida, preço"
 "Boa comida, ambiente agradável e preço bom, mas o estacionamento é ruim.",
 "Comida boa, preço razoável.",
 Bar temático com ótimos comes e bebes e preço justo.,
