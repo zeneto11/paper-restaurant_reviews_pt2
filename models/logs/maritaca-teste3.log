@@ -1,0 +1,3659 @@
+INFO:root:LOG DO DIA 2024-05-13 20:45:57.581388
+INFO:root:TESTANDO O DATASET ../datasets/dataset-maritaka-teste2.csv
+INFO:root:SENTENÇA: Preço bem em conta e comida muito boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Boa comida, ambiente agradável e preço bom, mas o estacionamento é ruim.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço, localização
+INFO:root:SENTENÇA: Comida boa, preço razoável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Bar temático com ótimos comes e bebes e preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Excelente atendimento, preço bom e na minha opinião o mais saboroso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço, geral
+INFO:root:SENTENÇA: Ótimo preço!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Excelente churrasco!Atendimento ágil e cordial.Preço justo pela qualidade dos serviços.Uma grande variedade de carnes.Super indico.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço, geral
+INFO:root:SENTENÇA: Ótimo lugar, melhor custo benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: estacionamento amplo, atendimento exclusivo, comida adorável e o preço acessível!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, serviço, comida, preço
+INFO:root:SENTENÇA: comida ótima, mas custo benefício ruim... e o atendimento tambem
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, serviço, preço
+INFO:root:SENTENÇA: Um salgado mais gostoso que outro e atendimento excelente ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Vale apenas conhecer pelo valor histórico do lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Atendimento bom e preço um pouco alto, mas ainda assim pode-se considerar justo pois é bem servido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço, geral
+INFO:root:SENTENÇA: Preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Lugar agradável, comida deliciosa, atendimento de primeira (recomendo procurar o Marcelo ou Gabriel), preço razoável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, preço, ambiente
+INFO:root:SENTENÇA: Preço compatível com o que é oferecido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: E Preço baixo para a região.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como não foi fornecida uma frase específica para análise, não posso identificar os temas contidos nela por favor, forneça a frase ou o comentário do cliente para que eu possa ajudá-lo
+INFO:root:SENTENÇA: Lugar com gente bonita, rock bom, refrigerado, boa musica, preço razoável, excelente atendimento, só precisa ampliar o espaço, pois esta pequeno para a quantidade do publico.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, música, preço, serviço, localização
+INFO:root:SENTENÇA: Se você está cansado de almoçar nos outros restaurantes próximo da UFAM... Merece ir almoçar.. Preço justo e ótimo atendimento..
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, serviço, preço
+INFO:root:SENTENÇA: Carnes maravilhosas , custo benefício , atendimento de primeira , ambiente  Agradável , música ambiente sensacional
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente
+INFO:root:SENTENÇA: Rapidez no atendimento aliada a qualidade, comodidade, boas opcoes no cardapio, preço bom e picanha perfeita!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço
+INFO:root:SENTENÇA: A comida é boa, preço bom e ambiente muito agradável!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço
+INFO:root:SENTENÇA: Existem estabelecimentos com comida mais incrementada em Manaus pagando-se o mesmo valor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Ótimo para se divertir com os amigos com um preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Local descontraído e agradável, cervejas muito geladas e com preço justo, além de apresentação de bandas e cantores...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, serviço, outros
+INFO:root:SENTENÇA: Caipirinha forte, happy hour muito bom, melhor custo benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Excelente atendimento e preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: Custo benefício ótimo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótima opção, fácil acesso, estacionamento amplo, variedade no cardápio, comida saborosa, bom preço, qualidade satisfatória, bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, localização, preço, geral
+INFO:root:SENTENÇA: Muito saborosa e um preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Além disso, possui um preço abusivo, fora dos padrões dos melhores restaurantes de Manaus por uma comida bem fraca.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, comida
+INFO:root:SENTENÇA: Preço justo pela comida e serviço ( em torno de 80 por pessoa).
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, comida, serviço
+INFO:root:SENTENÇA: Preço alto.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como especialista em restaurantes, posso analisar a sua frase com base nos temas que você identificou na frase "preço alto", o tema que se destaca é "preço", pois a frase expressa uma opinião específica sobre o custo do serviço ou dos produtos do restaurante
+INFO:root:SENTENÇA: Ótimo lugar, bom atendimento, preço super bom!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <saída>
+                serviço, preço, geral
+INFO:root:SENTENÇA: Ótimo preço para o tipo de alimento, atendimento rápido e de qualidade
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, serviço, comida
+INFO:root:SENTENÇA: Localidade ótima, clima ótimo, preço bom, comida muito ótima, e ainda tem bastante variedade, tudo é muito bom aqui
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+localidade ótima - localização
+clima ótimo - ambiente
+preço bom - preço
+comida muito ótima - comida
+bastante variedade - comida
+tudo é muito bom aqui - geral
+INFO:root:SENTENÇA: Com uma decoração pitoresca e bom atendimento, recomendo para que quer provar a gastronomia local, apresenta um bom custo benefício, com preços médio entre R$50,00 e R$100,00.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida, preço, geral
+INFO:root:SENTENÇA: Na minha opinião não vale o custo benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Ótimo custo beneficio!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Comida saborosa, bom atendimento e bom custo/benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, preço
+INFO:root:SENTENÇA: Comida excelente, porém o preço absurdo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Ótimo preço e atendimento de primeira!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, serviço
+INFO:root:SENTENÇA: X cabloquino uma delicia,  ambiente gostoso,  preço compatível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <saída>
+                comida, ambiente, preço
+INFO:root:SENTENÇA: Ótimo atendimento e preço justo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: A comida deste local é muito boa, com preço um pouco salgado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Rápido, gostoso, preço justo e tem estacionamento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, localização
+INFO:root:SENTENÇA: Ótimo custo benefício!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Comida gostosa, limpeza externa boa, preço justo pendendo pro barato e atendimento regular!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço, serviço
+INFO:root:SENTENÇA: Muito boa comida.Preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Custo incompatível com os serviços e refeição oferecidos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, serviço, comida
+INFO:root:SENTENÇA: Preço justo para Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: A melhor picanha de Manaus com um preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Uma vasta opção de bebidas e um preço bem acessível
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, preço
+INFO:root:SENTENÇA: Pratos variados e bem elaborados, bons drinques, ambiente climatizado e preço justo pela qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente, preço, geral
+INFO:root:SENTENÇA: Bom custo benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Atualmente o preço esta muito alto para o que oferece, já foi a melhor churrascaria de Manaus  mas caiu de qualidade, ambiente muito bom e agradável, espero que melhore as variedades de carnes, pratos e saladas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, preço, comida, ambiente
+INFO:root:SENTENÇA: Boa comida, preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Bons pratos, preço justo, ambiente e decoração agradável, bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+comida, preço, ambiente, serviço
+INFO:root:SENTENÇA: Porém o preço esta um pouco alto!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Molho espetacular, preço justo e bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço, comida
+INFO:root:SENTENÇA: Preço acessível e comida maravilhosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, preço
+INFO:root:SENTENÇA: Preço justo, atendimento cordial, comidas deliciosas
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, comida, preço
+INFO:root:SENTENÇA: E tem bom preço!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Lugar excelente , comida boa e preço bom
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, preço
+INFO:root:SENTENÇA: Pizzas e massas saborosas com preço acessível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Área kids, ambiente climatizado e o melhor peixe da Cidade por um preço justo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, preço
+INFO:root:SENTENÇA: Boa atendimento e preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: O  ambiente é ótimo como o atendimento também.. mas a comida é bem comum, vc pode comer algo mais gostoso por um valor bem menor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida, preço
+INFO:root:SENTENÇA: com um valor ótimo...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, preço
+INFO:root:SENTENÇA: Preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Local bem simples, preço acessível, a música ao vivo é sembre bacana independente se vc odeia o estilo q estiver tocando, não me pergunte que mágica é essa, mas a diversão é garantida
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, música, preço, geral
+INFO:root:SENTENÇA: Rodízio maravilhoso,há um preço ótimo de 25,00 por pessoa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Preço 'alto' porém os pratos são bem servidos, é possível dividir com mais pessoas tranquilamente, portanto o preço compensa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, comida, serviço
+INFO:root:SENTENÇA: A dica: o Banzeiros dá de dez no Alentejo, em sabor, em serviço e o custo benefício é infinitamente melhor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço
+INFO:root:SENTENÇA: Preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Conhecendo a grande maioria se não todos em Manaus , aqui são servidas  carnes variadas no ponto que desejar e acompanhamentos adequados, com ótimo preço, maitres e garçons  atenciosos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, preço
+INFO:root:SENTENÇA: Preço acessível e lanche delicioso .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Os cortes bovinos são bons, mas não impressionam muito, ainda mais pelo alto preço cobrado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Ótimo preço, acessível para todos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, localização
+INFO:root:SENTENÇA: Ambienta super agradável, atendimento simpático e simples, carnes de excelente paladar, custo benefício atrativos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, preço
+INFO:root:SENTENÇA: Muito boa,comidas e lanches deliciosos e bom preço
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Comida boa custo benefício ótimo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Bom atendimento, preço justo, pelo q é oferecido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, preço, geral
+INFO:root:SENTENÇA: Preço justo, comida muito boa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Atendimento de primeira, e preço bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: Comida balanceada e ótimo preço, sobremesa deliciosa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Melhor café da manhã regional, preço muito alto, atendimento ok. Dois ambientes, climatizado e ao ar livre, muito familiar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, comida, preço, serviço
+INFO:root:SENTENÇA: bom atendimento e preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: Possui sala de jogos para quem aguarda a liberação da pista, Cerveja Gelada, e os petiscos a um preço muito justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, preço
+INFO:root:SENTENÇA: Excelente comida, bom preço, pratos variados e ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, serviço
+INFO:root:SENTENÇA: Bom custo benefício para quem gosta de Carne de Sol!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, geral
+INFO:root:SENTENÇA: Estive la esta semana que passou e pedimos picanha e costela por peso Estava muito bom com preço bem aceitavel Serviço bom e carne bem feita
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, preço
+INFO:root:SENTENÇA: Pratos fartos e com bom custo benefício!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Café bom com preço bom bem diversificado
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Eles têm um sistema de café e leite em garrafas que sai a um preço único independente do consumo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, bebida
+INFO:root:SENTENÇA: Refeição rápida  e preço baixo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Péssimo lugar, comida sem qualidade e preço horrível!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, preço
+INFO:root:SENTENÇA: O sabor foi muito bom, ainda não tinha comido pizzas tão neste tipo de massa fina, até às bordas foram devoradas e carta de vinhos tem um excelente preço.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Excelente atendimento, ambiente, comida, bebida e preço justo por tudo isso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, bebida, preço, geral
+INFO:root:SENTENÇA: Comida boa com preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Preço compatíveis com o serviço oferecido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, serviço
+INFO:root:SENTENÇA: Comparando com outros rodízios que são o mesmo valor deixa um pouco a desejar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Preço razoável mas compensa pela qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                preço, geral
+INFO:root:SENTENÇA: Ambiente muito agradável, comida deliciosa e ótimo ótimo benefício!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: O rodizio tem otimo custo beneficio e a qualidade do sushi permance alta.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Comida deliciosa, variedades de pratos quentes e salada, bom preço, atendimento maravilhoso, banheiro limpinho, ar condicionado 2 ambientes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço, ambiente
+INFO:root:SENTENÇA: Excelentes combos e com preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Bom atendimento, pratos diferenciados e bom custo benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, comida, preço
+INFO:root:SENTENÇA: Cardápio variado e de bom gosto preço  justo mas o espaço  é  apertado e  os pegadores de alimentos ficam em cima dos mesmos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, ambiente, serviço
+INFO:root:SENTENÇA: Prato muito saborosos, boas porções e preço justo!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Lugar agradável, comida deliciosa, atendimento de primeira (recomendo procurar o Marcelo ou Gabriel), preço razoável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço, ambiente
+INFO:root:SENTENÇA: Ambiente sempre aconchegante, comida regional de excelente qualidade, pirarucu, tambaqui, matrinxa sempre bem feitos, com preço bem acessível para o padrão do restaurante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço, geral
+INFO:root:SENTENÇA: Variedade, bom preço, ambiente climatizado!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, preço, geral
+INFO:root:SENTENÇA: Para quem gosta de comida oriental é uma boa opção ,o custo benefício é razoável,mas o ambiente ,a boa comida e o atendimento compensam .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, geral
+INFO:root:SENTENÇA: Preço justo, comida ótima.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Melhor peixaria de Manaus, e tem um ótimo custo benefício!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização, preço, geral
+INFO:root:SENTENÇA: Tem o preço um pouco mais caro do...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, geral
+INFO:root:SENTENÇA: Excelente comida, e preço acessível
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Excelente custo x benefício, hamburguer artesanal e atendimento massa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Meu café preferido, atendimento ótimo, preço razoável, tudo de qualidade
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, serviço, preço
+INFO:root:SENTENÇA: Custo x benefício  compatível com o restaurante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, geral
+INFO:root:SENTENÇA: Comida simples mas de boa qualidade e preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Dessa forma tenho um preço igual para um produto menor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Comida típica deliciosa e com preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Pizza boa, preço bom, playground para as crianças.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, outros
+INFO:root:SENTENÇA: Fomos super bem atendidas pelo Rafael, a comida como sempre maravilhosa e o custo benefício está entre os melhores de Manaus... Recomendadíssimo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço, geral
+INFO:root:SENTENÇA: Preço super acessível,  atendimento ótimo e super rápido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: Bom, Vale o custo benefício
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo custo benefício!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Lugar extremamente agradável, otimo para passar um dia com a família ou amigos, comida boa (preço razoável), musica boa, pode-se alugar caiaques e pranchas de SUP, alem de tomar banho nas águas do rio negro, para quem nao sabe nadar é possível alugar macarrao ou...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, preço, outros
+INFO:root:SENTENÇA: Preço alto!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Ambiente agradável,  boa comida e preço justo para o que oferece.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço
+INFO:root:SENTENÇA: Local super confortável, combinaria perfeita, com várias opções e preço maravilhoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, preço
+INFO:root:SENTENÇA: Preço justo para quem tem tempo disponível para desfrutar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Boa qualidade, preço compatível,  atendimentonpode melhorar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço, serviço
+INFO:root:SENTENÇA: Não é necessariamente o melhor custo benefício, mas vale.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, geral
+INFO:root:SENTENÇA: Bom atendimento, lugar agradável.. estacionamento e preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, ambiente, localização, preço, geral
+INFO:root:SENTENÇA: Atendimento ótimo, e preço razoável!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: Público jovem de alto astral.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Preço justo, comida saborosa, fica pronta em pouco tempo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, serviço
+INFO:root:SENTENÇA: Comida fria, o preço ate que não é ruim!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Atendimento excelente, comida deliciosa, e preço acessível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço
+INFO:root:SENTENÇA: Pedi uma picanha nobre (angus) e esperava muito mais pelo valor cobrado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Ótimo Atendimento... Preço bom....  Comida Perfeita.... Uma boa Opção para uma Janta.... Boa Localização
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço, comida, localização
+INFO:root:SENTENÇA: Excelente custo benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Comida boa e preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Muito bom, preço bom, comida boa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, geral
+INFO:root:SENTENÇA: Além de ser bem atendido da recepção ao caixa, você ainda tem muita variedade de comidas por um preço muito acessível!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço
+INFO:root:SENTENÇA: Hambúrgueres com o preço médio de R$15, servem bem uma pessoa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Lugar sensacional
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Muito bom o local, mas poderia ser mais em conta.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Ótimo lugar pra reunir os amigos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar pra tomar um chopp!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida
+INFO:root:SENTENÇA: Ótimo lugar pra almoçar carne de sol em boa companhia.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Outra coisa ótima, desde ao estacionamento um local agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: Um ótimo lugar para estar com os amigos cerveja sempre gelada.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Lugar agradável para um jantar em casal ou para quem quer levar a família completa, ótimo também para uma comemoração.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: A Apresentação é o ponto alto dos pratos, o sabor falta um pouco mais de tempero, mas nada que deixe o prato ruim apenas poderia melhorar o sabor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Lugar aconchegante
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Ambiente famíliar, excelente local para confraternização, cardápio muito bom e excelente atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, comida, serviço
+INFO:root:SENTENÇA: Comida boa e local aconchegante
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Muito bom e ótimo local pra conversar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Muito bom o local boa comida
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: excelente lugar!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como a sua solicitação envolve a análise de um comentário específico que não foi fornecido, não posso realizar a tarefa conforme descrito sem o texto do comentário por favor, forneça o texto do comentário do cliente para que eu possa identificar os temas contidos nele
+INFO:root:SENTENÇA: Lugar bom porem pouca opção e valor muito superior para o lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Se você quer um bom rodízio de carne em Manaus, a Bufalo é o lugar ideal!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, geral
+INFO:root:SENTENÇA: Lugar agradavel bom atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Local ruim pra estacionar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Acho um lugar fantástico aconselho aos turistas conhecerem
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: lugar muito agradável muito confortável, mais a demora para fazer e a pizza e muito grande, no caso vc tem q ir jantado, pois o tempo de espera e tão grande que ate a pizza chegar em sua mesa vc ja fica com fome de novo, e sem falar da área externa aos fundos, pois e muito quente ao ponto de ser insuportável .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+ambiente, comida, serviço, outros
+INFO:root:SENTENÇA: Lugar aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Comida e ambiente excelentes tem estacionamento ótimo lugar pra levar a família.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, localização
+INFO:root:SENTENÇA: Lugar aconchegante, bem servido, muito agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Lugar aprazível,  aconchegante,  ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Melhor lugar para se está com os amigos!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Otimo peixe, lugar bem agradavel e bom atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Demora no atendimento e um lugar quente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: O melhor lugar pra tomar um café regional!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Lugar super agradável, comida excelente, preço acima da média , mas vale cada centavo investido em seu jantar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço, geral
+INFO:root:SENTENÇA: Excelente lugar, confortável com bom atendimento e variedade de comidas saborosas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Lugar perfeito para levar a família e amigos!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Um bom local para realizar confraternizações, ambiente climatizado, e de boa comida.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Lugar simples e cerveja gelada.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Atendimento incrível da Natasha e o lugar maravilhoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Único ponto negativo é o estacionamento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar perfeito!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local muito bom e agradeço, peixe tambaqui recomendo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Melhor lugar de MANAUS, para saborear aquela carne maravilhosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização
+INFO:root:SENTENÇA: Excelente ambiente, mas atendimento precisa melhorar, ponto positivo para banheiros bem limpos e cheirosos e negativo pras recepcionistas que liberam as reservas (filas de mais de 30min)
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, serviço, outros
+INFO:root:SENTENÇA: É um lugar familiar,muito bom,porém as coisas são muito caras ...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Lugar muito lindinho e aconchegante , além de a comida ser muito boa, o local tem uma decoração linda!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, bebida
+INFO:root:SENTENÇA: Ótimo lugar, atendimento maravilhoso !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Excelente lugar!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar maravilhoso, com ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Comida boa, preços bons, local bom, não há estacionamento, garçons perdidos..
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, localização, serviço
+INFO:root:SENTENÇA: Lugar agradável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Local muito agradável  com música boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Local agradável, tudo bem limpo e organizado,  atendimento excepcional meus parabéns ao atendente cabelo que é ágil e sai correndo para entregar os pedidos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, serviço
+INFO:root:SENTENÇA: Um excelente lugar, funcionários educados e muito competentes,comida ótima.Um belo lugar para uma refeição com a família e amigos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente
+INFO:root:SENTENÇA: Lugar agradável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Uma boa variedade no cardápio, bebidas principalmente... Lugar super agradável para tomar uma boa cerveja com os amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente
+INFO:root:SENTENÇA: Um bom lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Rodízio bem em conta R$ 29,90 lugar amplo para ir com os amigos, tem área pra criança (kids), variedade de pizza bem legal, mas se você gosta das doces vai esperar um pouquinho mais!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, preço, outros
+INFO:root:SENTENÇA: Lugar tranquilo e onde se pode comer bem pelo um preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, preço
+INFO:root:SENTENÇA: Segurança alimentar e local muito agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Gostei muito do atendimento e do local e excelente localização e infraestrutura só achei que o sanduíche era melhor pois nas fotos divulgadas são maiores...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, localização, comida
+INFO:root:SENTENÇA: Evidente que não seria esse motivo mas seguramente foi uma experiência encantadora e recomendo vivamente .. em combinação ou independente de ir à praia de ponta negra que está muito bonita , nada melhor que coroar com a experiência gustativa do maravilhoso camarão e serviço...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: Lugar aconchegante e bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Lugar aconchegante, comida maravilhosa, preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, preço
+INFO:root:SENTENÇA: Ótimo lugar pra se reunir com os amigos e comer aquela pizza gostosa ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, ambiente
+INFO:root:SENTENÇA: Lugar agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo serviço, lugar muito bom para beber e conversar, mas o principal que é a comida, não é legal.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, preço
+INFO:root:SENTENÇA: Local bonito e comidas muito boas, porém o atendimento deixa a desejar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, serviço
+INFO:root:SENTENÇA: Ótimo restaurante, lugar agradável para almoço em família, essa atendimento, ótima comida mas o estacionamento precisa melhorar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, localização, geral
+INFO:root:SENTENÇA: Ótimo lugar aconchegante
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Um local maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Lugar OK, as pizzas não são tão boas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Comida boa, lugar agradável ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Lugar aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar maravilhoso, comida ótima, não é climatizado, mas vale muito a pena, não esqueço do Ceviche único !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+ambiente, comida, outros
+INFO:root:SENTENÇA: Adolpho...melhor diversidades de cortes de carne da região, no ponto perfeito um verdadeiro gourmet de carnes!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+comida, serviço
+INFO:root:SENTENÇA: Uns dos melhores lugares pra se comer em Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Excelente lugar, muito gostoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Lugar bom, porém muito apertado o preço é um pouco elevado mas se paga pelo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Bom lugar para happy hour.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: excelente lugar para saborear as delícias que só no coco bambu tem.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar muito bom, um espaço significativo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Local agradável, amplo, vários ambientes e um ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral, serviço
+INFO:root:SENTENÇA: Lugar bem requintado e comida de alto padrão.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Uma das melhores pizzarias da cidade, sem mimimi, parquinho para crianças, bom atendimento e a pizza é uma delícia
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Ótimo lugar para quem busca a experiência e delícias da culinária italiana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Lugar maravilhoso, comida incrível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar maravilhoso,comida muito boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar fino , elegante .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar aconchegante, pizza saborosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar otimo e agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Pratos típicos, bem apresentados e local aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar aconchegante, contíguo a loja de plantas do bairro parque das laranjeiras, o que confere ao local um ar de campo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Vim para um aniversário e estava tudo maravilhoso, carne deliciosa e no ponto certo, além do atendimento excelente do Rolann
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Lugar muito agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: otimo lugar para ir com familia e amigos, rodizio de pizza bom, com muita variedade, atendimento a contento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Excelente lugar, muito bonito e lanche muito bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Muito bom ja foi melhor
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Dependendo do dia da semana e da hora, pode ser um local um pouco barulhento e agitado demais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: 12:00 só dá o povo do Distrito industrial.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, outros
+INFO:root:SENTENÇA: Ótimo lugar, ambiente agradável, ótimo atendimento e comida deliciosa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: para quem curti aquela picanha no ponto, e um otimo lugar  alem de ser um ambiente familiar e climatizado , um otimo atendimento e um custo bem acessivo   que dar para levar toda a familia...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, preço, geral
+INFO:root:SENTENÇA: Gostei muito desse lugar ótimo lugar ????????
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+                gostei muito desse lugar ótimo lugar ????????
+INFO:root:SENTENÇA: Lugar agradável e ótimo atendimento o garçom Márcio foi muito atencioso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Incrível amo esse lugar ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar muito agradável, muito bom para ir com família e amigos ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente, outros
+INFO:root:SENTENÇA: Lugar bom e barato
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                localização, preço, geral
+INFO:root:SENTENÇA: Lugar moderno.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Atendimento muito, local aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Excelente atendimento,lugar aconchegante
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, ambiente
+INFO:root:SENTENÇA: Local tradicional de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Parabéns excelente lugar ambiente familiar ??
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Um local bem alternativo, o atendimento é ótimo, a decoração super underground e o melhor a trilha sonora do ambiente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, outros
+INFO:root:SENTENÇA: Local muito bem agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar bem aconchegante ambiente tranquilo ótimo atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Local tradicional.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar bacana para reunir com amigos ou família.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um bom lugar para tomar um chopp ao lado do Largo São  Sebastião.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, localização
+INFO:root:SENTENÇA: Excelente atendimento e lugar agradável!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Ótimo lugar para comer com a família ??
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: bom lugar, os preços poderiam ser um pouco melhor
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, geral
+INFO:root:SENTENÇA: Excelente  opção para quem quer um lugar moderno e cheio de comidas variadas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Local super divertido, espaço para crianças.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Excelente lugar, ambiente familiar e música agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, música
+INFO:root:SENTENÇA: Ótimo lugar para beber
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida
+INFO:root:SENTENÇA: Ótimo lugar...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "ótimo lugar mais" não contém informações suficientes para identificar os temas específicos de serviço, bebida, ambiente, comida, localização, preço ou geral, uma vez que é muito curta e não oferece detalhes sobre a experiência no restaurante portanto, não é possível retornar uma saída com os nomes dos temas identificados na sentença
+INFO:root:SENTENÇA: Local interessante para levar amigos e até crianças.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Talvez o único ponto negativo, não do local em si, mas dá praça de alimentação é a escassez de vagas para estacionar, quem for em um sábado a noite, terá que ter um pouco de paciência ao buscar vagas nas redondezas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Ótimo lugar, boa comida , ambiente super agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um lugar super aconchegante, com excelentes atendentes e comidas!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Local excelente tanto para o almoço como jantar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um ótimo local para se comer comidas de frutos do mar e nordestina, lugar aconchegante e luxuoso, ótimo atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Local agradável, muito recomendado, com uma vasta variedade de opções, com sabor caseiro.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Local amplo, confortável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Ótimo lugar para fazer happy hour.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Melhor local para ir com a família!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "melhor local para ir com a família!" pode ser associada aos seguintes temas:
+
+- geral
+- ambiente
+INFO:root:SENTENÇA: Um excelente lugar, sem falar que tem os  melhores sabores de Pizza!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Bom lugar para comer
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Boa localização, ambiente agradável, brinquedoteca com vários atrativos para as crianças e atendimento excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, outros, serviço
+INFO:root:SENTENÇA: Local agradável,  atendimento diferenciado, localizado no centro e o mais importante, a comida é  excelente, com o melhor da cozinha refiobal, adorei  o pirarucu a casaca.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente, localização
+INFO:root:SENTENÇA: Um ótimo lugar para um happy hour entre amigos, muitas cervejas e drinks gostosos e comidinhas deliciosas, o que não podem deixar de comer é a carne de sol do Dedé,  um dos meus pedidos favoritos por lá, vem acompanhada com queijo e bolinho de...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+bebida, comida, serviço, ambiente
+INFO:root:SENTENÇA: Local ideal para tomar banho de rio, comer bem e relaxar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, geral
+INFO:root:SENTENÇA: Um local super agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Um lugar aprazivel com carta de vinhos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida
+INFO:root:SENTENÇA: Muito bom local.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Suculenta e macia, feita no ponto certo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Para quem gosta de carne (Churrasco) é uma das melhores opcões de manaus picanha mania um salada verde deliciosa e um bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Um dos melhore lugares para fazer uma confraternização, ótimo custo benefício, ambiente agradável e ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço, ambiente, serviço
+INFO:root:SENTENÇA: Lugar muito pequeno, quente, esquema de venda de bebidas ultrapassado... Fora q um segurança era muito mal preparado, tratando mal os clientes...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, serviço
+INFO:root:SENTENÇA: Lugar agradável, bom pra tomar umas de leve e trocar uma idéia, levar a gata, tem música ao vivo, Recomendo!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, geral
+INFO:root:SENTENÇA: Local agradável, fomos muito bem recebidos pelo Alex, muito solícito e gente do bem!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Tivemos um ótimo atendimento pelo garçom Bruno, nos deu opção de comida e o local e ambiente muito agradável, comida excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: Receptividade é um dos Pontos mais fortes daqui!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Lugar agradável e de um sabor inesquecível
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Lugar ótimo, super recomendo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar pra comer uma Caldeira espetacular e tomar uma cerveja com os amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Lugar aconchegante, comida maravilhosa, ótimo pra um domingo com a família
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, comida, geral
+INFO:root:SENTENÇA: Gostamos tanto do restaurante que em uma semana fomos duas vezes... Pratos feitos caprichosamente, com ingredientes locais e um atendimento primoroso!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Lugar excelente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: lugar excelente
+INFO:root:SENTENÇA: Lugar muito confortável, ótimo lugar pra levar a família
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Lugar temático e muito agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Com um estilo rústico e muito agradável, em uma excelente localização.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Acredito que fui nos dias errados, pois demorei mais de 30 minutos pra ser atendido, e mais de uma hora pra chegar o almoço, mais enfim, ótimo lugar, ótimo atendimento mais muito demorado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, preço, geral
+INFO:root:SENTENÇA: Um lugar tradicional da culinária amazonense...farofa de banana top!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: (Tradução do Google) Além dos banheiros que precisam de uma atualização geral um bom local!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como a sua mensagem não contém um comentário específico sobre um restaurante, mas sim uma instrução sobre como realizar a análise de comentários, vou exemplificar como você poderia identificar os temas em uma frase hipotética sobre um restaurante:
+
+"(tradução do google) além dos banheiros que precisam de uma atualização geral, o restaurante tem um bom local!"
+
+analisando a frase, temos:
+
+- **ambiente**: "banheiros que precisam de uma atualização geral"
+- **localização**: "o restaurante tem um bom local"
+
+portanto, a saída contendo apenas os nomes dos temas identificados na sentença seria:
+
+ambiente, localização
+INFO:root:SENTENÇA: O bar é bom, tem como ponto forte a grande variedade de drinks.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar para confraternizar com os amigos, jantar com a família.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um lugar muito bom, com um ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Um excelente lugar para se conhecer peixe , o atendimento excelente muito maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Excelente lugar, bom serviço e a comida muito boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Lugar muito bom no geral.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: O novo local ficou bem legal, a estrutura está muito bacana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Lugar top, agradável, as vezes demora pra passar a pizza e o suco, tirando isso, recomendo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida
+INFO:root:SENTENÇA: Cachaçaria do Dedé é um dos local mais populares em Manaus para seu happy hour e descontrair com amigos e familiares.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente
+INFO:root:SENTENÇA: Lugar agradável,  atendimento  muito bom
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Um ótimo lugar para reunir os amigos e a família, para degustar de uma excelente culinária regional...ótimo atendimento e uma comida de excelência!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Ótimo lugar com vários sabores de pizzas e massas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Rodízio excelente, ambiente muito bom, os atendentes são melhores ainda, enfim é um ótimo lugar para ir com amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, geral
+INFO:root:SENTENÇA: Por ser um ótimo local é comum que lá pelas 19:30h ou 20h você já encontre muita gente por lá, sendo assim eu recomendo ir cedo para não ter que esperar na fila.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, outros
+INFO:root:SENTENÇA: Otimo lugar .. com atendimento excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                geral, serviço
+INFO:root:SENTENÇA: Ótimo lugar, sempre lotado
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização, geral
+INFO:root:SENTENÇA: (Tradução do Google) Ainda as melhores batatas fritas de trufas do mundo inteiro!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Local agradável e gostei do atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Ótimo lugar e comida deliciosa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, ambiente, geral
+INFO:root:SENTENÇA: As mesas tb são desconfortáveis, bancos altos sem encosto.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar incrível para se divertir com amigos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente atendimento do Rafael Vieira, lugar maravilhoso e aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Ainda que o ambiente tenha melhorado em muito 9o que rende pontos extras para a climatização), a qualidade na mesa decaiu, especialmente os acompanhamentos da carne de sol...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: É um excelente lugar, recomendo demais, um lugar aconchegante e um atendimento impecável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente, serviço
+INFO:root:SENTENÇA: Lugar bacana com boa climatização.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Achei bem agradável, mas tem pouca variedade de comida e se você quer conversar e comer não é um bom lugar pois vai muita gente e como o lugar é fechado você ouve a voz de todo mundo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, serviço, outros
+INFO:root:SENTENÇA: Elaborados por um chef, foge daquele sabor padrão das peixarias tradicionais de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Já fui algumas vezes com amigos e achei o lugar ótimo, porém nesse domingo levei minha mãe e as mesas estavam sujas, o local cheio de moscas, atendimento demorado fiquei chamando vários garçons... enfim não sei o que está acontecendo com o lugar ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Lugar maravilhoso, excelente atendimento, e uma comida de excelência, deliciosa, recomendamos muito o Dedé boteco
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: Lugar incrível e comida boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, ambiente
+INFO:root:SENTENÇA: Localização fenomenal ao lado do Teatro Amazonas no centro histórico dá cidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Se você realmente quer ter uma experiência de comida regional amazonense, esse é um dos melhores lugares.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Lugar muito bom tem ótimas opções de  tira gosto e a cerveja e bem gelada o atendimento e meio demorado mas vale a pena pelo empório que tem muita variedade
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, geral
+INFO:root:SENTENÇA: Local moderno e aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Local agradável pra reuni amigos com comida, bebida e muita música boa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente, geral
+INFO:root:SENTENÇA: Ótimo lugar pra estar com a família
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Boa localização.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar agradável para um bom café da manhã.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Ótimo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar acolhedor com estacionamento, atendimento excelente e comida muito boa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Lugar agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar, com várias mesas, preço justo e comida com qualidade!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, geral
+INFO:root:SENTENÇA: Pessimo lugar, cobram taxa por garçons e não fui fui bem atendido, o lugar estava quente, não recebemos guardanapos para limpar a boca tivemos que pedir, lugar muito sujo, pessimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, outros
+INFO:root:SENTENÇA: Ótimo restaurante nem ambientado, pratos deliciosos, ótimas opções de rodízios, único incoveniente e o número de cadeiras que não atende a demanda de pessoas, fora isso um ótimo lugar para levar a família e fazer comemoração
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, localização
+INFO:root:SENTENÇA: No geral é um excelente lugar para almoçar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente lugar, comida espetacular
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida
+INFO:root:SENTENÇA: Boa localização.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Um bom lugar pra ouvir um samba e cerveja gelada.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, geral
+INFO:root:SENTENÇA: Ponto negativo é o ar-condicionado interno que não refrigera o ambiente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Muito divertido, lugar bem agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Local agradável, confortável e com um ambiente único, recomendo a todos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Lugar sensacional: ambiente super agradável, preços justos e comida deliciosa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, preço, comida
+INFO:root:SENTENÇA: Lugar super agradável, o serviço é ótimo, e organizado e os garçons são super ágeis.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Atendimento ótimo, ambiente agradável lugar excelente para encontros, aniversário e todos os tipos de confraternizações...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente, serviço
+INFO:root:SENTENÇA: Ótimo lugar para jantar em família, amigos ou a dois.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar muito bom para fazer suas festas empresariais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Lugar agradável, comida mto bem feita.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar completo de tudo, carnes, vinhos, recomendo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: Ótimo, maravilhoso local, limpo bonito atendimento, de excelência. ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, serviço, geral
+INFO:root:SENTENÇA: Ótimo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Bom lugar.. Boa peixaria
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar agradável muito lindo e comida nota 10
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar bom, espaço bacana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Bom lugar para curtir uma pizza
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Lugar maravilhoso e comida também ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar aconchegante e comidinhas maravilhosas!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Muito bom local para almoçar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um bom lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Poderia ter melhores opções de comida como caldos e porções mais variada, mas contando tudo é um ótimo lugar com uma ótima música ao vivo de qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente (música ao vivo), geral (ótimo lugar)
+INFO:root:SENTENÇA: Acho o local pequeno, precisei algumas vezes dividir a mesa mas pela comida vale a pena.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, comida, geral
+INFO:root:SENTENÇA: A comida estava muito boa, o atendimento foi excelente e o lugar muito agradável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, serviço, ambiente
+INFO:root:SENTENÇA: Um lugar aconchegante, requintado de boa comida.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: China box excelente comida
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Excelente lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Adorei, um lugar divertido!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: O estacionamento próprio com muitas vagas tbm é um ponto positivo ?.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Local fantástico, acolhedor, aconchegante...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar agradável com gente bonita e ótimos pratos...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, geral
+INFO:root:SENTENÇA: A pizza é maravilhosa, o lugar aconchegante, com um play para crianças brincarem ???
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, outros
+INFO:root:SENTENÇA: Ótimo lugar e ambiente familiar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente
+INFO:root:SENTENÇA: Local simples, super agradável e com um atendimento excente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Lugar excepcional, valor dos pratos um pouco salgado pra quem pretende comer sozinho.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, geral
+INFO:root:SENTENÇA: Um local maravilhoso, uma excelente refeição, um ótimo tratamento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Local muito bom e agradável....
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Local excelente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar agradavel com bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Buffet limitado, mas é um local agradável,  nada instagramavel,carne gostosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, geral
+INFO:root:SENTENÇA: Cada dia que passa o coqueiro verde cai sua qualidade já começa pela entrega pedi 20:34 a carne de sol chegou 21:26 e a atendente ainda vem dizer na tua cara que tá com 35 minutos que eu pedi acho que ela pensa que eu sou cego e ainda tem mais maionese sem sabor macaxeira dura e não cozinhan antes de frita fritan crua mesmo uma taxa de entrega como se eu morasse na cidade nova moro no centro12.00 reais  não indico pra ninguém
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, preço, outros
+INFO:root:SENTENÇA: Rapaz, não é barato, o atendimento é ótimo, mas tinha um coco de cachorro que o povo pisou lá kkkkkk  Brinks é um local bom mas tem que planejar, ser rico ou preparar o bolso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, serviço, preço, outros
+INFO:root:SENTENÇA: Ótimo lugar para reunir a Família é os Amigos, para Comer aquela Deliciosa Pizzas, Super indico.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, geral
+INFO:root:SENTENÇA: Ótimo lugar, diversão garantida.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar aconchegante, muito agradável, excelente paladar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Lugar muito bom, comida muito boa e os garçons são muito educados,  só nao gostei porque demoraram para servir agua e ou gelo, essa parte foi meio chato ficar pedindo toda hora, mas em relação a comida, tudo foi muito bom, ótimo lugar para ir em grupo com os amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, bebida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Bom local para passear com a família.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Muito bom, cafés incríveis e bolos deliciosos ótima experiência e local aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente
+INFO:root:SENTENÇA: Ambiente com muito barulho entretanto um bom lugar pra se distrair praticando o jogo de boliche.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Lugar bom pra tomar uma cerva no estilo canela de pedreiro !!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                bebida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar para quem quer sair da rotina com ambiente agradável e pessoas bonitas
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Um dos melhores lugares q fui p passar a noite.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar super agradável, comida excelente, preço acima da média , mas vale cada centavo investido em seu jantar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço, geral
+INFO:root:SENTENÇA: Ótimo lugar, atendimento ótimo e a comida nem se fala
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, geral
+INFO:root:SENTENÇA: Ótimo lugar, mas caro.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Local excelente para crianças brincarem
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar bem pitoresco, localizado no centro histórico da cidade, é bem frequentado, até mesmo por turistas, possui um ótimo atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização, serviço, geral
+INFO:root:SENTENÇA: Excelente lugar pra escutar música boa e beber drinks baratos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, geral
+INFO:root:SENTENÇA: Local agradável e de bom atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Ótimo lugar para se divertir e levar a família e os amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Comida bem servida, no ponto certo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Lugar aconchegante, comida ótima com preço condizente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, preço
+INFO:root:SENTENÇA: Um lugar bem acolhedor, ambiente Familiar, as porções são generosas  de Excelente qualidade.... Camarão Delicioso  bem fresquinho!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, serviço
+INFO:root:SENTENÇA: Lugar aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar maravilhoso e os pastéis deliciosos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Bom local para matar a fome com atendimento rápido e boa pizza.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Lugar aconchegante, atendimento excelente, comida ótima
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Outro ponto negativo é não pode escolher o ponto da carne, bem como os garçons são muito apressados na retirada dos pratos, além disso, as bebidas são caras.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, comida
+INFO:root:SENTENÇA: Lugar super aconchegante, em ótima localização, serviço de manobrista .. Buffet variado e rodízio com carnes varia
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, serviço, comida
+INFO:root:SENTENÇA: Ótimo lugar para festejar aniversários, jantar e almoçar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: E um bom local
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um dos melhores lugares de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um lugar sensacional, com um monte de variedades de comidas pra você provar, o preço é significativo e muito em conta se formos analisar a sabor dos pratos, o atendimento, o lugar aconchegante, as variedades de coisas que da pra de fazer entre outras coisas, sensacional.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+serviço, comida, ambiente, preço, geral
+INFO:root:SENTENÇA: Lugar muito agradável, diferente dos outros flutuantes da cidade o Abaré é bem familiar, musicas boas, comidas excelentes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, bebida, serviço
+INFO:root:SENTENÇA: Ótimo localização, possui estacionamento proporcional aos assentos disponíveis, local com ar-condicionado, atendimento eficiente, cafés variados, cardápio regional, banheiro e o ambiente é confortável e bem decorado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, estacionamento, ambiente, serviço, bebida, cardápio
+INFO:root:SENTENÇA: Ótima comida, lugar agradável e atendimento excepcional!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, ambiente, serviço
+INFO:root:SENTENÇA: Lugar agradável, bem localizado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Atendimento excelente.. lugar super tranquilo, familiar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, geral
+INFO:root:SENTENÇA: Um lugar maravilhoso, tranquilo, adorei o atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Lugar super interessante, bem ao lado do Teatro Amazonas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar bacana, com comida bastante saborosa, principalmente os peixes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: O único ponto negativo é a demora no atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Bom lugar para comemorações especiais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Bom lugar para comer
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço
+INFO:root:SENTENÇA: O restaurante está localizado no melhor ponto de Manaus, ao lado do Teatro Amazonas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Se ir embora de lá não for um problema pra vc, é um lugar bem bacana no meio do rio e da pra comer pratos por volta de 90 reais duas pessoas e pedir cerveja original de 600 por 15 reais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Sanduíches bem elaborados e molhos razoáveis, lugar bacana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar bem bonito, aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Local bonito e agradável com som ambiente, garçom Mayk super atencioso, a comida estava incrível!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Um excelente lugar, ótimo atendimento!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Local fantástico!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: comida bem feita e lugar agradavel
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar ideal para...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, localização
+INFO:root:SENTENÇA: Lugar muito bom
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar muito bonito e acolhedor, comida de excelente qualidade , preço bom eu super recomendo, atendimento de primeira
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, preço, geral
+INFO:root:SENTENÇA: Lugar maravilhoso agradável comida maravilhosa recomendo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Um Excelente lugar pra quem gosta de uma boa carne de sol , atendimento nota 10
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Lugar simples, achei a porção um pouco cara para o tamanho.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, preço, geral
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local bom pra curtir e tomar aquela cerveja gelada, sem esquecer daquela tekila.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Os atendentes são atenciosos e a cordialidade é comum, o único ponto que faltou foi a opção para entrega de cupons fiscais individualizados (como a refeição que eu, e alguns dos meus companheiros fizemos foi custeada pelas diferentes empresas que trabalhamos, precisamos sempre levar o comprovante fiscal da refeição, e nesse restaurante infelizmente não é possível dividir a conta da mesa em diferentes cupons fiscais) ou seja, foi emitido somente um único cupom fiscal e foi oferecida a opção de um
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, outros
+INFO:root:SENTENÇA: Que local incrível!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "que local incrível!!!" não fornece informações específicas sobre comida, bebida, serviço, ambiente, localização, preço ou outros aspectos do restaurante portanto, não é possível identificar temas específicos nesta frase
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: O ponto negativo fica por conta da iluminação muito clara e a falta de um carta de cervejas artesanais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida
+INFO:root:SENTENÇA: Um ótimo lugar para se ir após um dia de trabalho.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: uma local que reuni uma ótima comida com excelente bebida, além do ambiente ser muito tranquilo e limpo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente
+INFO:root:SENTENÇA: Lugar excelente pra vc se distrair no centro de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, localização
+INFO:root:SENTENÇA: Super indico o local, tem música ambiente, muitas variedades no cardápio, lugar agradável, atendimento excelente e o valor é bem acessível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, serviço, preço, geral
+INFO:root:SENTENÇA: Comida cearense de primeira, acompanhado de um ambiente agradável, bom atendimento, climatização, e boa localização.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, localização
+INFO:root:SENTENÇA: Ótimo atendimento excelente comida muito bom, lugar maravilhoso para parabéns
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente, geral
+INFO:root:SENTENÇA: Bom lugar para conhecer a gastronomia regional e bom atendimento e ambiente agradável e preço convidativo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente, preço
+INFO:root:SENTENÇA: É um local muito bom, com comida típicas da região do Pará e nossa, só falta um estacionamento pros cliente ficarem mais seguro em relação aos seus veículos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+localização, comida
+INFO:root:SENTENÇA: Phelipe atendimento eficiente,lugar agradável,bem alegre e aconchegante.Comida Divina.Supee recomendo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida
+INFO:root:SENTENÇA: Ótimo lugar, comida saborosa atendimento muito bom
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Local bonito, bem frequentado, preços médios, comida gostosa e quantidade acessível, mas as vezes demora?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização, preço, comida, serviço, geral
+INFO:root:SENTENÇA: Lugar legal, só achei o jeito de servir a carne demorada, pois quando a carne chega a comida já está Fria ou se come sem a carne.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Um ótimo local para ir com os amigos ou familiares.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um lugar excelente em atendimento e comodidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Pizza muito gostosa, atendimento e local maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente
+INFO:root:SENTENÇA: Lugar maravilhoso agradável comida maravilhosa recomendo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar incrível de se comer , e faz r alguma confraternização
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, geral
+INFO:root:SENTENÇA: Local ideal para reunir amigos, confraternizações levar a família e saborear das deliciosas carnes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: O ponto positivo não demorou muito pedido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Comida ao ponto certo e super gostoso, para quem veio buscar informação sobre o local e atendimento, super indico!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+saída: comida, serviço, geral
+INFO:root:SENTENÇA: Lugar simples, mas satisfatório.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Foi uma experiência maravilhosa, lugar incrível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente
+INFO:root:SENTENÇA: Lugar super agradável e pessoas bem educadas pra nos atender a começar da dona excelente pessoa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Local chique e de bom gosto
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar bonito com receptividade me sentir em casa, e o melhor com gastronomia excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Local bem agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Bom lugar para desenvolver suas habilidades no boliche
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar super agradável .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Lugar top!!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local bem legal.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: A Cachaçaria do Dedé é um bom lugar para visitar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a análise da frase "a cachaçaria do dedé é um bom lugar para visitar" não fornece informações específicas sobre comida, bebida, serviço, ambiente, localização, preço ou outros aspectos do restaurante, portanto, não é possível identificar os temas mencionados a frase parece expressar uma opinião geral positiva sobre o estabelecimento
+INFO:root:SENTENÇA: Lugar romântico
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Bebidas variadas, com ou sem álcool, mas acredito que a culinária é o ponto forte, com pratos realmente regionais, com um toque de sofisticação.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, bebida
+INFO:root:SENTENÇA: Não deixe de ir, lugar muito agradável, ótima comida e ambiente retrô, amei...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar ambiente familiar tranquilo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar muito agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Um excelente lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Se é  carne de qualidade que procura aqui é  uma das melhores churrascarias da Cidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização
+INFO:root:SENTENÇA: Ótimo lugar de entretenimento.... recomendo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Bar com excelente localização, bem frequentado, tranquilidade, excelentes grupos de samba e sambistas, e ótima variedade de cervejas geladas!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, entretenimento, bebida
+INFO:root:SENTENÇA: Local onde serve uma boa bebida, uma boa cachacinha regional, bem acolhedor e espaçoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                bebida, ambiente
+INFO:root:SENTENÇA: baixo custo/benefício... Há  locais melhores nas imediações.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço, localização
+INFO:root:SENTENÇA: Lugar maravilhoso,  ambiente bom para reunião com amigos , tomar um chop sujo bom demais é pizza gostoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, comida
+INFO:root:SENTENÇA: Tudo de bom, lugar agradável custo benefício muito bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Lugar maravilhoso minha filha adorou , temática perfeita
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente
+INFO:root:SENTENÇA: Local agradável e de fácil acesso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar muito bom, atendimento excelente, comida muito boa com alimentos bem preparados.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, comida, bebida
+INFO:root:SENTENÇA: Comida boa, localização excelente, atende muito bem
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização, serviço
+INFO:root:SENTENÇA: Um lugar perfeito se pra se reunir em grupo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Muito lindo ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: O ponto forte é a variedade de pratos, incrível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Lugar excelente!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Não minha opinião não está entre as melhores churrascaria de Manaus, mas é um lugar legal .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, comida
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente lugar para ir com família.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar simples para uma refeição rápida e de qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: É um ótimo local pra quem quer se reunir com amigos , família para beber , tens uns ótimos tiras gosto, muito bom o ambiente .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, comida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar para tomar um delicioso café regional ambiente aconchegante é climatizado, vale apena conferir.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente, geral
+INFO:root:SENTENÇA: Atendimento excelente, rodizio maravilhoso, comida de primeira, local bonito, estacionamento e preço alto.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, comida, ambiente, localização, preço
+INFO:root:SENTENÇA: Local excelente, atendimento na sala de espera, ótima comida.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Excelente localização, ótimo atendimento, comida muito gostosa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, serviço, comida
+INFO:root:SENTENÇA: Local agradável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: em excelente Localização na cidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Ótimo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Melhor lugar de Manaus para comer uma picanha com os amigos e familiares.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar muito aconchegante familiar sem falar dos pratos deliciosos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Atendimento de qualidade, lugar grande e mesmo em dias de muito movimento a fila de espera é bem rápida.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, localização
+INFO:root:SENTENÇA: Achei um excelente lugar!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase analisada não fornece informações específicas sobre comida, bebida, serviço, ambiente, localização, preço ou qualquer outro aspecto do restaurante, portanto, não é possível identificar temas específicos
+INFO:root:SENTENÇA: Lugar tradicional, ótima música samba raiz.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Ponto negativo: muito comercial para nada.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Em nenhum dos dois rodízios  tem sashimi o que é um ponto bem negativo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Comida boa, mas não é um bom lugar pra se conversar entre amigos, muito barulhento ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Boa localização.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Um ótimo lugar para fazer uma festa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Um ótimo lugar para quem gosta de apreciar variados tipos de cachaça, um chopp sujo (cerveja com suco do limão e sal), aperitivos ótimos e diversos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, comida
+INFO:root:SENTENÇA: ótima churrascaria e com localização boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização
+INFO:root:SENTENÇA: Preço justo, ponto correto da carne e atendimento excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço
+INFO:root:SENTENÇA: Local bom e confortável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar muito agradável com um bom atendimento, musica ambiente e uma variedade de bebidas, caldos, entradas e pratos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente
+INFO:root:SENTENÇA: Lugar otimo, atendimento excelente e comida maravilhosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Local agradável, ventilado e com muito verde.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Há lugares melhores e mais em conta na cidade de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, localização, preço
+INFO:root:SENTENÇA: Lugar agradável!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: lugar agradável não é uma frase que expressa opinião sobre temas específicos como comida, bebida, serviço, etc portanto, não é possível identificar temas específicos nessa frase
+INFO:root:SENTENÇA: Comida boa, lugar agradável, bom atendimento, brinquedoteca, vale a pena ir.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, geral
+INFO:root:SENTENÇA: Lugar bom, boa escolha de bandas!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Ótimo ambiente e atendimento... Uma das melhores churrascarias de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: a comida uma delícia, mtas variedades, a picanha vc pede a quantidade q quser, tem uma banana frita deliciosa, paçoca de carne seca, arroz com brocólis, sucos... sem falar do ambiente q é climatizado, atendimento muito bom, um excelente lugar pra vc se reunir com...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: Ótimo lugar para está com amigos ,namorado ou mesmo familiares e preço assecivel.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, localização, preço
+INFO:root:SENTENÇA: Tem até sanduiche de mortadela... A carne-de-sol é o ponto alto do restaurante, mas eles se aventuram na gastronomia, tem também bolinho de feijoada, pato no tucupi, filé, pirarucu.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Muito bom o local!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar muito confortável, ótimo lugar pra levar a família
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Guardar a sua fome de churrasco para um melhor lugar do Rio ou outra cidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização
+INFO:root:SENTENÇA: Um lugar sofisticado, aconchegante e muito divertido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como um llm, eu não consigo acessar ou ler comentários reais de clientes ou frases específicas de forma direta no entanto, posso exemplificar como você poderia identificar os temas em um comentário fictício vamos supor que o comentário seja: "o restaurante tem um ambiente acolhedor e um serviço impecável a comida é deliciosa e o preço justo"
+
+aplicando os critérios que você forneceu, a análise seria a seguinte:
+
+- **ambiente**: "o restaurante tem um ambiente acolhedor"
+- **serviço**: "e um serviço impecável"
+- **comida**: "a comida é deliciosa"
+- **preço**: "o preço justo"
+
+a frase não menciona temas como "bebida", "localização" ou "outros", portanto, não incluiríamos esses temas na saída
+
+se você tiver um comentário real que gostaria de analisar, por favor, forneça-o e eu farei o possível para ajudar na identificação dos temas com base nas informações que você forneceu
+INFO:root:SENTENÇA: Lugar agradável para um lanche da tarde com as amigas, comida de qualidade e ótimo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: A Cachaçaria do Dedé fica dentro do Shopping Manauara, por isso não achei o local muito atrativo muito apertado as mesas muito juntas (muito fechado para o meu gosto) Mas a Comida é ótima comi um tipo mexido com carnes arroz e feijão que estava...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente, localização
+INFO:root:SENTENÇA: Ótimo peixe, recomendo, atendimento bom, lugar ótimo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente
+INFO:root:SENTENÇA: Lugar maneiro...mas kd o rock de quinta??
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Local muito bom gostaria de curtir um bom samba
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Amei o lugar, pizza maravilhosa, pastéis deliciosos ?, lugar surpreendente!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, geral
+INFO:root:SENTENÇA: Lugar gostoso, fácil de estacionar, atendimento excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, serviço
+INFO:root:SENTENÇA: Lugar tradicional de um buteco ao lado do Teatro em Manaus,experimente  os bolinhos de bacalhau.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, localização
+INFO:root:SENTENÇA: Lugar muito bonito, aconchegante, comida gostosa,  bebidas geladas e um excelente lugar para reunir família, amigos e happy hour para negócios.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, bebida, serviço, geral
+INFO:root:SENTENÇA: Muito gostosa a comida, excelente lugar e atendimento muito bom!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Lugar muito agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Lugar maravilhoso.?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Lugar formidável para aquele happy hour com a família e/ou amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar muito bonito e confortável, adorei a área externa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Um ótimo lugar para toda família, reuniões com amigos e excelente para um encontro a dois.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local super agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Possui ótima estrutura, lugar bonito e arejado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar tranquilo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar tranquilo e muito bem servido pelos garçons.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Um bom lugar pra se divertir com os amigos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Pizzas e pastéis bons porém lugar muito barulhento e desorganizado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: local muito agradável sempre vou com minha família o atendimento ótimo todos os funcionários são bem atenciosos E sempre que eu quero comer alguma coisa,e não sei onde comer vou lá porque sempre está aberto e tem ótimas opções de café da manhã almoço e janta lanche o que você quiser comer provavelmente vai ter lá
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, localização, geral
+INFO:root:SENTENÇA: Um dos melhores locais para comer peixe em Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização
+INFO:root:SENTENÇA: Local excelente, pessoas excelente, atendimento excelente fora que o dono de lá é excelente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, serviço
+INFO:root:SENTENÇA: Lugar aconchegante
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Pessimo local pequeno passei horas esperando
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "pessimo local pequeno passei horas esperando" contém elementos que podem ser associados aos seguintes temas:
+
+- localização: "local"
+- ambiente: "pequeno"
+- serviço: "horas esperando"
+INFO:root:SENTENÇA: Melhor lugar pra passa o final de semana com a família
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local maravilhoso, sem contar no atendimento do Mateus q é tooooooop ??
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Ambiente acolhedor, com iluminação no ponto certo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Você quem tem uma grana e quer ir a um  lugar bom, não recomendo esse restaurante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Extremamente recomendo, definitivamente um dos melhores lugares para se almoçar ou jantar em Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+geral
+INFO:root:SENTENÇA: Muito boa localização de frente pra natureza e a comida também é muito boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização
+INFO:root:SENTENÇA: Dois pontos fracos: o preparo dos pratos é lento e o restaurante é pequeno.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Lugar super aconchegante,  comida excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Um ótimo local para se comer comidas de frutos do mar e nordestina, lugar aconchegante e luxuoso, ótimo atendimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Lugar maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Um local familiar......
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Moro proximo e vou ao mesmo duas vezes por mês.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Ótimo lugar pra relaxar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Memorável, lugar incrível, atendimento perfeito!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, ambiente, serviço
+INFO:root:SENTENÇA: Já foi um bom lugar, hoje um point de prostituição decadente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Já comi carnes muito melhores..os acompanhamentos estavam bons..mas acho que Manaus tem lugares bem melhores para comer carne e principalmente peixe!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, outros
+INFO:root:SENTENÇA: Além de boa variedade de comidas, é um lugar tranquilo para comer.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Local super agradável, atendimento muito bom, porções muito gostosas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Lugar muito bom, o atendimento poderia receber umas atenção especial
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Lugar super agradável, música ao vivo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Lugar muito bom
+INFO:root:CHAT: 
+INFO:root:RESPONSE: na frase "lugar muito bom", os temas identificados são:
+
+- geral
+INFO:root:SENTENÇA: Local bem tranquilo e familiar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Ótimo lugar para encontrar os amigos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar mega agradável, com tudo bom e a preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral, preço
+INFO:root:SENTENÇA: Lugar muito agradável,  rodízio maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Um dos bares mais agitados de Manaus, vale a pena passar a noite no karaoke com amigos pra cantar e se divertir.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, outros
+INFO:root:SENTENÇA: Excelente ponto do hambúrguer ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Restaurante excelente,  otima localização,  cardápio completo,  atendimento diferenciado,  pessoal organizado, ambiente limpo e confortável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, comida, serviço, ambiente
+INFO:root:SENTENÇA: Local bem aconchegante e funcionários relativamente atenciosos... Apenas poderiam ser um pouco mais proativos, procurar os clientes não esperar que eles os procurem... Mas depois q vc conquista o coração deles o atendimento é ótimo...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, geral
+INFO:root:SENTENÇA: Lugar excelente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar para comer uma deliciosa pizza no rodizio de massas, ambiente climatizado, bem familiar, atendimento nota 10, ótima localização!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, localização
+INFO:root:SENTENÇA: Lugar agradável, familiar e delicioso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar ótimo para levar a família e amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local agradável, lanches típicos, regionais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: Muito bom local para curtir uma tradicional refeição tipo americana, com hamburguer, hot dog e costelinha de porco.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Ótima pizza italiana, lugar agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Comida deliciosa, ótimo lugar para estar com a família!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Local surpreendente, experiência incrível
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: comida bem feita e lugar agradavel
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Excelente lugar, fomos muito bem atendidos pelo Anderson Ferreira ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Ótimo lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ótimo lugar, tratamento vip e comida ótima.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, comida
+INFO:root:SENTENÇA: Variedade em alimentação, lugar aconchegante e limpo, preços altos devido a grande variedade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço
+INFO:root:SENTENÇA: Muito bem atendido, local muito bom, música boa , prato excelente, garçom Fernando, que nos atendeu, muito bom profissional.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, geral
+INFO:root:SENTENÇA: Um dos melhores lugares para saborear um delicioso doce em uma tarde de domingo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: O restaurante tem uma ótima localização com estacionamento amplo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Lugar bem agradável com uma variedade muito grande de pratos com frutos do mar todos bem servidos e o atendimento satisfatório.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Bom lugar para jantar
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "bom lugar para jantar" pode ser associada aos seguintes temas:
+
+- comida
+- geral
+INFO:root:SENTENÇA: Local aconchegante, antendimento de excelência, pratos diferenciados, tudo limpo e organizado, só elogios para esse lugar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Lugar aconchegante e comida excelente!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, comida
+INFO:root:SENTENÇA: Se o que se quer é comer um ceviche este é o local correto pra se visitar, tanto no almoço como no jantar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: É um local sensacional, ambiente calmo e tranquilo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Sempre vamos ao banzeiro, ótimo lugar para quem quer comer comidas regionais, que por sinal os pratos são  muito bem preparados.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Lugar agradável para um bom papo e cerveja gelada!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, geral
+INFO:root:SENTENÇA: Um lugar maravilhoso, muito aconchegante, o atendimento super rápido e eficiente além de ser um ótimo atendimento... A cerveja bem geladinha e as comidas e petiscos são gostosos e bem servidos... E tudo isso por um preço relativamente bom para a localização...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, preço, localização
+INFO:root:SENTENÇA: Local claro e com música ambiente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Comida gostosa, atendimento agradável, ambiente aconchegante, preço adequado, local limpo, climatizado, de fácil acesso e com muitas vagas p/ estacionamento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente, preço, localização
+INFO:root:SENTENÇA: Um local bom, atendimento respeitoso (exceto em datas comemorativas, que dai vira um caos) ótima opção de almoço e janta, a comida é boa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, comida, serviço
+INFO:root:SENTENÇA: Se vc quiser se deliciar de uma gostosa picanha, este eh o lugar ideal.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Izaquiel muito cordial e nos atendeu muito bem.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Muito boa a comida e o atendimento, repertório bem tranquilo com música ambiente, Ricardo José não deixou faltar nada e tudo sem demora.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, serviço, ambiente, localização
+INFO:root:SENTENÇA: Boa carta de vinhos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Atendimento muito bom Phelipe
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Um dos melhores flutuantes de Manaus, e cada vez ficando maior, ótimo pra família, amigos ou em casal.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: A msm coisa digo eu neto costa, terça mesmo passei por isso com o mesmo rapaz
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Gostei do ambiente mas a carne achei dura e tive problemas ao efetuar o pagamento ,demorou mt tempo pra ser resolvido .Mas tive boa recomendação ,só não tive sorte.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, outros
+INFO:root:SENTENÇA: O rodízio é fraco, a qualidade da carne não é das melhores e o salad bar é fraquíssimo....Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Denys ótimo atendente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Um jantar clássico, autêntica cozinha portuguesa, com maravilhosa sensibilidade ao paladar brasileiro....O cardápio é grande, diversificado e, com certeza, atende a todos os gostos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, geral
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Atendimento nota 10, lugar bem aconchegante, estacionamento amplo, há recepcionista no local, acessível para cadeirantes!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, localização, outros
+INFO:root:SENTENÇA: Comprei frango, calabresa, queijo assados, maionese, farofa e arroz.A maionese está com as batatas e cenouras duras, o arroz ainda duro, creio que cruz, peço que melhorem a qualidade porque depois que compramos não podemos ir aí devolver, além de ser chato né.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Não sei o que fazem com o limão mas pelo gosto é limão do outro dia, muito ruim, fui uma vez pedi o chopp sujo e o gosto do chopp parecia que o limão estava estragado, fui outra vez outro dia pra ter certeza é o mesmo problema, não recomendo de forma alguma.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: boa variedade de cervejas e impressionante variedade de cachacas, bons tiragostos, bastante barulhento, atendimento no geral demorado, costuma estar lotado, bom para passar uma noite bebericando e comendo com com amigos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente, localização, geral
+INFO:root:SENTENÇA: Garçom Jailson super atento conosco, muito obrigada coco bambu pelo atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Amamos o atendimento do garcon em treinamentos Wesley super atencioso e paciente com nossas solicitações.Ja pode ser promovido.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: O garçom serviu a salada com a mesma colher...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Seu cardápio contém os peixes e pratos regionais apresentados de maneira criativa, mediante concepção diferente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Casa especializada em comida paraense, onde o maior objetivo é satisfazer os clientes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Viemos numa quarta feira e pedimos o menu com entrada, prato principal e sobremesa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Maitre Hosana atenciosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Era segunda feira por volta de 20:00 Quando cheguei, o ambiente é amplo, porém as mesas ficam apertadas e para uma segunda havia  bastante gente, muito barulho no lugar, então  fiquei imaginando no final de semana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização, geral
+INFO:root:SENTENÇA: A primeira vez que fui ao Banzeiro, buscava um local que oferecesse a culinária local, pois uma prima carioca  estava de passagem pela cidade e nada como um bom peixe para acompanhar uma conversa gostosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Bom atendimento, belos atendentes e ótimo lanche!.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Barzinho situado em lindo casarão histórico, ambiente descontraído e bem frequentado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Muito agradavel desfrutar  de momentos maravilhosos  tomando um delicioso café ou suco de laranja nesta padaria Eles tambem preparam sanduiches com patês pra lá de especiais!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Coqueiro verde sempre excelente e o Brian Simão presta um atendimento sensacional.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, geral
+INFO:root:SENTENÇA: tudo de bom nhami nhami
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Criatividade culinária distribuída num cardápio vasto com sabores e aromas do nosso País e um atendimento de uma delicadeza intimista que nos faz se sentir em casa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Se ainda tiverem coragem de ir,  NUNCA peçam a opção NA CHAPA, pois a maioria dos itens já chegam queimados na sua mesa, é uma fumaceira horrível e vc tem que ficar cuidando toda hora do que está em.cima da chapa para não torrar mais ainda.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Ótimo custo-benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Ótimo espaço, em eventos temáticos se torna ainda mais bonito.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Os funcionários educados e prestativos em acomodar o  nosso grupo que estava comemorando um aniversário surpresa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Um dos melhores rodízios de pizza e massa que já fui, se não o melhor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Imenso atraso na entrega, não recomendo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: As pizzas são muito boas, com massa fina e boas opções de sabores, das mais tradicionais a algumas mais complexas (uma opção de queijo brie e...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Recomendo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: precisa de uma ótima manutenção pois acho que já está bem gastas... O demais está perfeito.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Fomos bem atendidos por uma funcionaria novata, porem muito atenta, totalmente diferente dos desatentos veteranos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Fui numa festa infantil e fomos muito bem servidos!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Café da manhã ótimo, mas o jantar não gostei tanto, os pratos de carne são bem pequenos para o valor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Este restaurante tem como atrativo uma das melhores picanhas no bafo de manaus, tem também um arroz com brócolis que é uma delícia, o atendimento é bem rápido nos dias normais, mas no caso de feriados e datas comemorativas voçe vai pegar uma bela de...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente
+INFO:root:SENTENÇA: ótimo pra tomar um bom chopp e comer petiscos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, comida, serviço
+INFO:root:SENTENÇA: Tem grande variedade mas às vezes (nem sempre)  serve alimentos frios e isso é uma grande frustração
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Chopp geladinho, muitooo bom!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: chopp geladinho
+INFO:root:SENTENÇA: Comi 3 pratos diferentes em ocasiões diferentes e sempre muito bem servido, com um cozimento impecável e um ótimo serviço, os preços são muito bons!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, preço
+INFO:root:SENTENÇA: Entrada simples que dá acesso ao lobby com uma grande escada (possuem elevador ) em cima o salão bonito e com vista privilegiada do teatro Amazonas .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: São as melhores carnes, e o atendimento de primeiras qualidade.aquela sobremesa de deixar água na boca
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: O atendimento deixa um pouco a desejar.... Pessoal meio mau humorado e não fazem muita questão de te servir, se estiver com tempo e paciencia vale a pena, a vista para o teatro é...otima das cadeiras ao lado de fora.Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Sugiro melhor organização nos próximo feriados e datas especiais.Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, outros
+INFO:root:SENTENÇA: Antigo canto dos intelectuais hoje é habitada por jovens boêmios, estrangeiros que vêm se aventurar na Selva Amazônica e experimentar um pouco de sua seiva.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Não tem estacionamento próprio, pastel proposto o de feira pastel servido o de festinha infantil e a massa das pizzas pareciam ser compradas em supermercado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, comida, outros
+INFO:root:SENTENÇA: De entrada pedi queijo parmesão negro e bolinhos de bacalhau.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Indico com certeza  muito gentil e cordial
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Ótima opção para reuniões informais e até mesmo aniversários.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Atendimento de excelência, variedade de massas de qualidade, o temperinho maravilhoso dos molhos, super recomendo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: A sobremesa pedi um petit gateau, bom, porém não pediria novamente e demorou, mas não diminui a nota, pois o atendente foi educado e nos deixou por dentro do ocorrido do atraso, um bom atendimento camufla eventuais acontecimentos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: O melhor kikao da cidade!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Ótimo ambiente para eventos especiais como aniversário e confraternização.Recomento atendimento pelo o garçom Ezequiel.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Restaurante flutuante com comida muitooo boa, atendimento excelente, várias opções de drinks, música boa e um banhoi de rio revigorante!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, bebida, ambiente
+INFO:root:SENTENÇA: Almoço no estilo self-service onde você come bem pagando um preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: A matrinxã recheada estava incrível de macia e gostosa e os preços têm ótimo custo-benefício!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Normalmente muito movimentado e sem distanciamento social... oferece diversidade de opções.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Ótimo ovo de Páscoa do coco bambu recomendado pelo garçon
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: (Tradução do Google) As crianças adquirem o deuce especial enquanto minha esposa adquire uma omelete branca uma veggies e meu ordenou meu ego um hambúrguer mesquite tudo estava delicioso e preços não eram caros  (Original) Kids get the deuce especial while my wife gets a omelette white an veggies and my ordered my self a mesquite hamburger everything was delicious and prices were not expensive
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, preço
+INFO:root:SENTENÇA: Um casarão antigo deu lugar a um restaurante de ambiente acolhedor e cardápio magnífico!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, comida
+INFO:root:SENTENÇA: O restaurante tem vista do belo Teatro Amazonas, a infraestrutura é muito boa, com arquitetura bonita.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Mas vale a visita para conhecer .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Taco maravilhoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Taco maravilhoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: E ainda tem uma brinquedoteca espetacular, por isso as crianças adoram ir lá.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "e ainda tem uma brinquedoteca espetacular, por isso as crianças adoram ir lá" não menciona explicitamente nenhum dos temas relacionados a restaurantes que você listou (serviço, bebida, ambiente, comida, localização, preço ou geral) portanto, a saída seria:
+
+outros
+INFO:root:SENTENÇA: Fui comemorar uma data especial.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: O salão é amplo, bonito e é ótimo p/ grupos grandes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Estive na cachaçaria para happy hour promovido por um amigo de S. Paulo quando estive em Manaus a trabalho.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: Materia prima de primeira qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: a entrda ade linguicas tmbm muito gostosa e a porçao do peixe muito bem servida.o atendimento foi meio desatento  mas local...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente
+INFO:root:SENTENÇA: Provamos a formiga de entrada , bem diferente mas não comeria novamente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: Peoxe assado delicioso, Tem  estacionamento ... É um lugar agradável e familiar .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, localização, ambiente
+INFO:root:SENTENÇA: Corresponde à habitual qualidade da comida, num ambiente agradável com música ao vivo e num volume adequado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, outros
+INFO:root:SENTENÇA: Comida cara e ruim, serviu coxão duro como picanha, insatisfação total.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, serviço
+INFO:root:SENTENÇA: Comida muito boa, ambiente rústico e muito agradável, ótima pedida pra happy hour, às vezes deixa a desejar no atendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, ambiente, bebida, serviço
+INFO:root:SENTENÇA: O garçom Celso foi muito atencioso e é um excelente fotógrafo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Estacionamento fácil na rua em frente pelo menos de noite.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Não gostei do lugar atendimento muito demorado , som alto demais não dar conversar , o rapaz que fica na entra e na saída super mal educado, e outra muito caro as coisas por lá
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, preço
+INFO:root:SENTENÇA: Com uma boa estrutura e excelentes pistas para jogar, conta também com sinuca, vídeo game e outros jogos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: outros
+INFO:root:SENTENÇA: Philippe  muito atencioso  e educado
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Topper Ambiente agradável, musica boa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, música
+INFO:root:SENTENÇA: O estabelecimento impressiona na variedade de produtos do empório... A história da cachaçaria já é motivo de brindar uma boa cachaça, pratos elaborados com muito requinte e sabor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: Uma das melhores hamburguerias de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Ótimo trabalho
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, geral
+INFO:root:SENTENÇA: Gostamos muito do ambiente e pela quantidade de pessoas a servir, a comida veio rápido, muito saborosa e o atendimento do garçom Osmar foi excelente, tentarei nas próximas idas ao local, ficar nas mesas servidas por ele.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida
+INFO:root:SENTENÇA: Não deixe de provar o hambúrguer de tambaqui, o buruti real e os milk shakes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Comida deliciosa e ótimo atendimento do Edson Jr. Restaurante detentor de notas únicas e individualidade fenomenal, seja em gastronomia da terra quanto do mar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Muito bom dia de sexta feira música ao vivo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Asinhas deliciosas!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: O serviço é de alta qualidade, os petiscos atendem a todos os gostos e o som ambiente proporciona encontros agradáveis.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: Excelente experiência no Restaurante Coco Bambu Manaus, comida excelente, garçon Venicius muito prestativo, e som ao vivo de muita qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente
+INFO:root:SENTENÇA: Atendimento excelente e uma ótima casa para se divertir entre amigos, e  claro, fazer novas amizades!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, serviço
+INFO:root:SENTENÇA: Cerveja gelada (não tão em conta) e músicos bons que sempre estão tocando por lá.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente (musica)
+INFO:root:SENTENÇA: Ela está presente em dezenas de pratos doces e salgados, do café da manhã ao jantar, e no Banzeiro a fruta aparece em forma de um delicado creme, maçaricado ao estilo brullè e pode ser acompanhado com sorvete de cumaru, a baunilha amazônica.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: O lugar é ótimo para quem quer apreciar a natureza tomar um bom banho de rio e curtir o por do sol que o lugar proporciona.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Estacionamento  com manobrista.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Ao lado do teatro amazonas que emoldura produtos de qualidade e bom preparo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente
+INFO:root:SENTENÇA: Contudo, tem várias opções saborosas e bom custo-benefício para rodízio ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: A carta de vinhos é uma enganação, nunca tem o que você escolhe, só o mais caro.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: vinhos, serviço
+INFO:root:SENTENÇA: Pedi calderado de tambaqui,  chego no caldo muito fino, e nao muito para 2  pessoas, o piráo era farinha mohlado, parece nao eera feito com na caldo, horrivel, o vinegreite parece uma salada de tomate, ceballa, pedaacoes grandes sim sabor, lencoies de papel pequeno,  Servicio...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Ademais uns tira-gostos maravilhosos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Tem uma cachaça de uva, maravilhosa !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida
+INFO:root:SENTENÇA: As mesas ficam distribuídas em quartos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Mammamia é uma casa de rodízio ótima me senti muito bem ainda mais com a recepcionista maravilhosa Nathalia que vocês têm muito simpática educada uma pessoa muito receptiva .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Excelente atendimento, culinária impecável, ambiente bonito, apesar de não ser climatizado o clima ambiente é agradável, quanto aos preços.., estão na média das peixarias de Manaus, com exceção das sobremesas que está fora da realidade, uma fatia de pudim a R$ 15 reais acho muito caro, sem contar que são poucas opções de sobremesa, um outro ponto que tenho que parabenizar é o fato de disponibilizarem um lugar agradável para aguardar enquanto não dispõem de mesas desocupadas, muito bem organizado
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente, preço, outros
+INFO:root:SENTENÇA: A qualidade já reconhecida dos cafés da unique, preparados por um bom Batista, aumentam a percepção sensorial.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, serviço
+INFO:root:SENTENÇA: Excelente restaurante, variedade, sabor típico regional com toques internacionais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Atendimento ´rápido e preciso Boa refrigeração.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: A partir de indicação daqui decidimos por um restô Português e não poderia ser melhor .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a partir de indicação daqui decidimos por um restô português e não poderia ser melhor
+
+temas identificados:
+
+- comida
+- geral
+INFO:root:SENTENÇA: Tem um senhor, sempre de preto, um japonês, que trabalha lá, um senhor muito educado,
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Atedimento excelente, em especial gaçom senna, mostrou pra mim que valeu cada minuto nesse restaurante, vcs que querem um bom atedimento proucure o garçom senna no Coco Bambu nota 1000 voltarei com toda certeza.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Excelente atendimento  Eu e minha família fomos muito bem atendidos Parabéns a recepção Tive um ótimo atendimento pelo Garson Bruno Comida maravilhosa e ainda tivemos uma mesa ótima escolhida pela recepcionista joici que também está de parabéns Obrigado coco bambu...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente, geral
+INFO:root:SENTENÇA: Muito agradável com um dos melhores rodízios de sopas de Manaus
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Lugar agradável porém difícil arrumar um estacionamento no horário do almoço nos dias úteis aceitam o ticket alimentação
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, outros
+INFO:root:SENTENÇA: Ambiente familiar, porém restaurante não oferece muitas opções no cardápio, preço um pouco caro, estacionamento bacana
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral, preço, ambiente
+INFO:root:SENTENÇA: Este é um ótimo começo para uma noite épica em Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Recomendo nos dias menos movimentados.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Rever os amigos que moram fora da cidade, tivemos uma ótima experiência , excelente atendimento pelo Rodrigo Uchôa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: As pizzas do rodízio tem sabores sensacionais mas as fatias deixam a desejar pois em relação a outras pizzarias, as fatias das pizzas são minúsculas apesar do preço ser bem mais caro.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Refeição excelente e saborosa, cardápio variado, atendimento impecável, estacionamento amplo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, localização
+INFO:root:SENTENÇA: É preciso prestar atenção nos preços, por que tem pratos que são um absurdo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                preço, geral
+INFO:root:SENTENÇA: O ambiente é um casarão antigo do ciclo da borracha, com a vista pro poético Teatro Amazonas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Boa opção para momentos informais, em família ou com amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Meus 2 filhos pequenos,  meu marido e eu fomos, no domingo de Páscoa, almoçar,  pois queríamos degustar delícias amazônicas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida
+INFO:root:SENTENÇA: A carne de sol, sem gosto e as postas finas demais; maionese horrível, baião sem tempero.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Lá você degusta os principais peixes regionais como tambaqui ou o pirarucu, mas com uma grande diferença das outras peixarias tradicionais, a apresentação, os temperos utilizados, deixando...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: O meu preferido é o bowl tirashi salmão, muito bem servido e é uma delícia.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: O melhor kikao de Manaus
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida
+INFO:root:SENTENÇA: Como sempre, fui muito bem atendido na Búfalo, mesmo atualmente que estão com promoção de 2ª a 6ª, o padrão da comida e atendimento continuam os mesmos Acho que poderia ter mais opção na tábua de frios para do salad bar, mas isso seria só...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, bebida, outros
+INFO:root:SENTENÇA: Recomendo está Churrascaria, atendimento com excelência, aparador completo e variado, churrasco de alto nível com carnes nobres e complementos deliciosos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: de época, uma vez que é regado com temáticas sazonais com apresentações musicais, aí quando você  pensa que acabou vem um som ao vivo com excelente repertório musical.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, música
+INFO:root:SENTENÇA: Estar em Manaus e não desfrutar dos sabores do Alentejo é quase uma heresia!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: varias opções de churrascos, comida boa, ambiente agradável e familiar, tem área para criança (pequena, mais tem)
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: O atendimento do Stivem e do Robson fez total diferença na nossa noite!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Tem um estacionamento próprio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Loval familiar e muito agradável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Amo comida mexicana, e a de vocês estava saborosíssima, o guacamole maravilhoso... Parabéns ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Chegando já deparei com um estacionamento amplo, o ambiente é bastante regional caboclo, com mesas e cadeiras de madeira, super decorado com imagens de animais silvestres, o cardápio e bastante variado, local limpo e bastante ventilado, vale a Pena ir com a família e amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, comida, geral
+INFO:root:SENTENÇA: Café da manhã excepcional, muito bom, todos os itens como preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, geral
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: para analisar a frase fornecida, vamos identificar os temas contidos nela de acordo com os critérios estabelecidos:
+
+"para os ribeirinhos amazônicos 'banzeiro' é a agitação das águas feita pelos ventos"
+
+nesta frase, os temas identificados são:
+
+- ambiente ("agitação das águas")
+- outros ("banzeiro", termo específico relacionado à cultura amazônica e não diretamente ao restaurante)
+- geral (referência aos "ribeirinhos amazônicos", sugerindo um contexto cultural mais amplo)
+
+portanto, a saída seria:
+
+ambiente, outros, geral
+INFO:root:SENTENÇA: Playlist sensacional, ambiente agradável e atendimento excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Instalações de bom gosto, estacionamento exclusivo com opção de manobrista, excelente localização - bairro comercial nobre - estrutura de atendimento bem organizada, pessoal jovem e competente, inclusive o chef, culinária bem elaborada e prática, mesclando culinária italiana e francesa - peixes, inclusive regional nobre (filé...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, serviço, comida
+INFO:root:SENTENÇA: Ótimo lugar para um café e conversa casual, ambiente extremamente confortável e atendimento não deixa a desejar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: Comida sem grande expressividade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Local agradável, com bom receptividade e preço acessível ?eu e minha família não temos do que nos queixa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, geral
+INFO:root:SENTENÇA: Muito boa ketherin
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Toda visita que faço ao Banzeiro parece ser a primeira, sempre me surpreendo comi os sabores e execução perfeita dos pratos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Pessimo .barrulho de adolecentes sem respeito nenhum com outros clienres
+INFO:root:CHAT: 
+INFO:root:RESPONSE: barulho, respeito, clientes
+INFO:root:SENTENÇA: Peixe sem suculência e seco, baião com arroz de qualidade ruim, arroz branco ruim, enfim, era segunda feira e não sei o que houve com a cozinha.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Pizza de ótima, atendende excelente Rosalinda
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Comida excelente, porém o atendimento pós covid me surpreendeu ( não sei se era garcon novato) enfim não tive uma boa experiência, não me senti tendo o padrão de atendimento pelo qual paguei.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Apesar de no dia atenderem apenas através de reservas, ficaram sensibilizados com a forma que fomos tratados numa data tão importante e acabaram nos aceitando.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Carne de sol a melhor the best
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Sardinha fresca , delícia
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Tudo gostoso, muito rápido, estacionamento amplo, ótimo atendimento de todos os funcionários, principalmente do garçom Nayron e do Chef Raimundo, sempre perguntando se estava tudo certo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, localização
+INFO:root:SENTENÇA: Eu sou frequentador constante do Abaré SUP, um lugar maravilhoso com uma comida divina.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Bom apetite!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Em abril de 2017, após um cruzeiro inesquecível pela região de Anavilhanas com o IBEROSTAR Grand Amazon, escolhemos o bistrô Belle Époque, localizado no andar térreo do shopping Ponta Negra em Manaus, para encerrar nossa estadia gastronômica no Amazonas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização, geral
+INFO:root:SENTENÇA: Topzao super legal só acho que deveria baixar o preço do frango assado e do peixe assado afinal nem estamos tão longe de Manaus ?????????
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, comida
+INFO:root:SENTENÇA: O Coco Bambu Manaus, está dentro dos padrões de qualidade da rede, sou um frequentador em Fortaleza e a unidade de Manaus está perfeita, com um cardápio de 1a qualidade e vasta variedade de pratos; Além de que, o requinte e sofisticação na elaboração de...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente, geral
+INFO:root:SENTENÇA: Quanto aos preços, são exagerados pela quantidade , acho que poderia ser um pouco menor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, geral
+INFO:root:SENTENÇA: Atendimento excelente  Garçons Rafael e Senna muito atenciosos, atendimento nota 1000...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Carta de vinhos de primeira linha.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: vinhos
+INFO:root:SENTENÇA: Atendimento do garçom Neto excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Para quem gosta da culinária portuguesa a visita eh obrigatória.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, geral
+INFO:root:SENTENÇA: Há exatos 8 anos comecei a frequentar o restaurante e NUNCA fiquei a desejar com a comida e o serviço, pelo contrário, sempre tenho momentos maravilhosos lá!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, geral
+INFO:root:SENTENÇA: Uma delícia, recomendo essa opção de prato, mas ela é mais para os amantes de queijo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Todas vezes tive problemas com nota fiscal, como o trabalho reembolsa preciso dela.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: No assunto comida boa, eu encontrei o lugar perfeito.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Não justifica essa nota !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Atendimento é sempre maravilhoso, COMIDA NEM SE FALA, Chopp sempre gelado e com a caneca geladerrima.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, bebida
+INFO:root:SENTENÇA: Experiência incrível para um ótimo final de tarde.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Alberto muito recepcionista, simpático e atende super bem!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Local possui estacionamento amplo e ainda conta com brinquedoteca a um custo de R$ 10,00.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, preço
+INFO:root:SENTENÇA: Chop bem gelado, petisco nota mil.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, comida
+INFO:root:SENTENÇA: Tem estacionamento próprio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Custo benefício interessante pois deram uma melhorada boa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Foi o lugar em que escolhemos pra comemorar essa data especial!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente, serviço, geral
+INFO:root:SENTENÇA: Não se preocupe muito melhor fora
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, geral
+INFO:root:SENTENÇA: Comida excelente, drinques espetaculares.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Porém a entrada do restaurante é uma escada estreita e se for com crianças terá que carregar o...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: O Garçom Antonio que serviu nossa mesa muito atencioso, educado e sempre atento aos detalhes foram momentos maravilhosos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Muiti legal e acongecante
+INFO:root:CHAT: 
+INFO:root:RESPONSE: na frase "muito legal e aconchegante", os temas identificados são:
+
+- ambiente
+INFO:root:SENTENÇA: Após um dia de trabalhos e conhecimentos adquiridos no nosso evento científico, viemos jantar Barolo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: além de ser um flutuante no meio do rio negro, você pode praticar SUP e ainda ver um belo por-do-sol!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+ambiente, outros
+INFO:root:SENTENÇA: no mais tudo bem.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Por exemplo: banheiros insuficientes, e precários; precisa melhorar a limpeza do ambiente, afinal é um local que serve alimentos; Um fraldário mais respeitoso às crianças pois o público é grande.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, outros
+INFO:root:SENTENÇA: Coisa mais bonita que vi
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "coisa mais bonita que vi" não contém informações específicas sobre restaurantes que possam ser enquadradas nos temas listados portanto, não é possível identificar temas como serviço, bebida, ambiente, comida, localização, preço ou geral a frase parece expressar uma opinião subjetiva sobre algo que foi visto, mas sem contexto adicional, não é possível determinar a que se refere
+INFO:root:SENTENÇA: O cardápio contempla carne, peixe, frango, camarão, lagosta em formatos individuais e para até 3 ou 4 pessoas: a maioria saborosíssimos!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: (Isso falando de almoço, pois é o único horário que conheço do estabelecimento)
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, outros
+INFO:root:SENTENÇA: Para um bom bate-papo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente
+INFO:root:SENTENÇA: E a comida NÃO faz mal, como em um concorrente próximo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Estivemos no coco bambu para conemorarmos o aniversário de uma amiga,  fomos atendidos pelo garçom  Rodrigo Uchoa excelente,  rapido, ótima memória rsrs, prato Praia de Olinda  estava delicioso, ambiente agradável e aconchegante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: (Tradução do Google) Boa comida, bom preço, bons servidores  (Original) Good food, good price, good servers
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, serviço
+INFO:root:SENTENÇA: Não possui estacionamento próprio mas as ruas usadas para isso são seguras além de ficar em uma avenida de facil acesso av.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Carta de vinhos muito boa também.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: vinhos
+INFO:root:SENTENÇA: O jantar foi ótimo e o ambiente é bastante agradável, só o meu suco de manga e de outras duas amigas que estava muito estranho, não sabíamos se era um adoçante ruim ou uma manga podre.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, bebida, serviço
+INFO:root:SENTENÇA: Lugar tranquilo, música boa, garçom Mauro muito atencioso, gente boa e sempre traz o nosso chopp bem geladinho!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, bebida
+INFO:root:SENTENÇA: Ótimo local para um happy hour com amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Atendimento muito bom, cômoda impecável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Lugar aconchegante para ir com família ou amigos pra hapy hour.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Um dos melhores hambúrguers que comi em Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Restaurante muito bom, comida maravilhosa, ótimo atendimento, possui estacionamento próprio e tem o preço bom para o nível do restaurante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, localização, preço
+INFO:root:SENTENÇA: Ambiente agradável, pé direito alto, situa-se no segundo andar do prédio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Lugar super aconchegante, a comida maravilhosa, os atendentes têm uma energia muito boa, como a Nathasha por exemplo que está sempre sorrindo pros clientes e nos faz sentir bem, assim também a recepcionista Nathalia que nos recebe com todo carisma, excelente!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida
+INFO:root:SENTENÇA: O restaurante fica no andar superior de um prédio antigo, mas com elevador para pessoas com dificuldade de locomoção e ambiente rústico mas chique, sanitários novos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente
+INFO:root:SENTENÇA: Ótimo lugar bom atedimento
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Tem estacionamento próprio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Foi no Caxiri que conheci a deliciosamente maravilhosa cachaça de jambu.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Excelente comida, atendimento da Ketherin muito bom, educada e prestativa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, serviço
+INFO:root:SENTENÇA: Sempre lotado, Mas as gordelicias são muoto boas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Ambiente super agradável, ótimo para a família e amigos e as crianças claro, por conta dos brinquedos (pula pula, escorredor inflável).
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Também tive a oportunidade de degustar o Fillet Minhnon a Parmegiana, muito bom!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Muito bom atendimento do Felipe muito bom que Deus abençoe sempre este lugar e seus funcionários tops
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Se você vai apenas pela pizza recomendo muito pois a qualidade da pizza é excelente, mas se você vai para comer sushi eu não recomendaria, pois cheguei às 19H e demoraram uma eternidade para começar a sevir e ainda era sushi do dia anterior com a alga incomestível além de ter apenas 4 opções de sushi foi uma decepção total dinheiro jogado no lixo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, ambiente
+INFO:root:SENTENÇA: Estão com ótimas promoções e o happy hour bem tendencioso, além da música ao vivo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente
+INFO:root:SENTENÇA: Só falta uma brinquedoteca para atender melhor famílias com crianças.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase fornecida não menciona explicitamente nenhum dos temas relacionados a restaurantes que foram listados portanto, não é possível identificar temas como serviço, bebida, ambiente, comida, localização, preço ou geral a frase parece se concentrar em uma sugestão de melhoria para atender famílias com crianças, o que poderia ser interpretado como um comentário sobre o ambiente ou serviço, mas de forma muito vaga para classificar especificamente
+INFO:root:SENTENÇA: Pode comer o tanto do rodizio que quiser que ja está incluso nos 35.. ótimo comemoração de casamento a dois ou em família.. excelente..
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, geral
+INFO:root:SENTENÇA: Um pouco mais de atenção aos itens de maior rotatividade solucionaria, o atendimento dos garçons é bem satisfatório.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Dos pratos o único que ficou a desejar foi o Picadinho coco bambu, infelizmente prato sem graça, sem sal, e sem vida kkkkkkk.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: A cachaçaria já foi boa, mas hoje não é mais, depois que a vigilância sanitária encontrou carne estragada no local, nunca mais tive coragem de comer lá.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, geral
+INFO:root:SENTENÇA: Dica: Camarão Imperial e sobremesa a famosa cocada de forno com sorvete e torta de banana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+comida
+INFO:root:SENTENÇA: Flutuante fantástico e uma Peixada inabalável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Melhor T-bone da cidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Vale a pena uma visita para que tirem as próprias conclusões da comida.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Ambiente típico e regional, confortável, com estacionamento próprio e bem localizado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Top a noite caribenha.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente
+INFO:root:SENTENÇA: Comemos o Camarão internacional e de sobremesa uma cartola maravilhoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+comida, bebida
+INFO:root:SENTENÇA: Pecimo lugar, uma verdadeira baderna.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Comida boa... ambiente muito iluminado... acústica prévia ser melhorada,Pois mesmo em conversas baixas, o som acaba sendo ficando elevado...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, outros
+INFO:root:SENTENÇA: Td perfeito
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Atendimento instalações e cárdapio excelentes, o estacionamento também facilita muito, só não levou a nota máxima porque acabar o chopp as 21h de uma sexta feira é inexplicável
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, localização, preço
+INFO:root:SENTENÇA: Atendimento do Rodrigo uchoa muito bom, atencioso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Em plena segunda-feira a unidade manauara estava com suas mesas totalmente ocupadas, demonstrando o prestígio junto a locais e turistas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: Funcionáros anteciosos, especialmente a funcionária Belém.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Boa experiência...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+não há informações suficientes para identificar os temas na frase fornecida por favor, forneça o comentário completo para que eu possa analisá-lo e retornar os temas identificados
+INFO:root:SENTENÇA: Atendimento por Whatsapp horrível, precisei insistir pra concluir o pedido, pois a atendente Janaína se esforçou pra tornar o atendimento desagradável., Foram vinte e cinco minutos com longas esperas pra receber cada resposta.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: ameeiii ...lugar cheio de lembranças dos grandes intelectuais desse Estado..
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Espero, numa próxima oportunidade, reecontrá-los promovidos em suas tarefas, pois todos têm potencial para essa chance...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, outros
+INFO:root:SENTENÇA: 1 obs, o barulho da praça e do posto (ás vezes alguém leva um paredão) é muito incômodo :/ mas acho q nova unidade eles não terão que lidar com esses problemas
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Os garçons muito atenciosos, mas poderia haver mais, já que é rodízio e se passa um tempo a mais esperando uma nova rodada.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Atendimento muito bom pelos garçons Senna e Bruno e o gerente Guerra.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Estive sozinho no Barollo na noite de 14/05 para jantar e tive uma experiência muito boa, mesmo não estando acompanhado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Lugar com atendimento muito bom, o café da manhã ótimo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, comida
+INFO:root:SENTENÇA: (Original) Just a very regular and average burger ?.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Nos dias lotados, o atendimento pode demorar um pouco, mas quando o pedido chega, faz valer a pena a espera.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Voltarei com total certeza.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: cats a mais antiga e tradicional de manaus <3
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: A mesa é reposta constantemente o que possibilita uma café da manhã generoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: na frase "a mesa é reposta constantemente o que possibilita uma café da manhã generoso", identificamos os seguintes temas:
+
+- comida
+- bebida
+INFO:root:SENTENÇA: Parabéns Coco Bambu pelo profissional exemplar, na próxima gostaríamos de ser atendidos por ele Novamente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Ponto negativo de observação: lugar médio para o quantitativo de mesas, o que o deixa sem espaço para melhor circulação.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Apenas o local é ruim porque não tem espaço suficiente pros clientes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Lugar limpo bonito e comida saborosa recomendo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, geral
+INFO:root:SENTENÇA: Agora com nova instalação na Max Teixeira com amplo conhecimento e uma comida boa !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Casario antigo reformado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como a sua solicitação envolve a identificação de temas específicos em um comentário de cliente sobre um restaurante, e a frase fornecida não contém um comentário completo, mas sim uma descrição de um ambiente ("casario antigo reformado"), não é possível identificar todos os temas especificados na sua instrução (serviço, bebida, ambiente, comida, localização, preço, geral, outros) apenas com essa informação a frase fornecida não menciona nenhum atendente, interação, comida, bebida, preço ou avaliação geral do restaurante portanto, a saída correta com base nas regras fornecidas seria apenas "ambiente"
+INFO:root:SENTENÇA: Lugar agradável, com estacionamento acessível, tempo de espera razoável, preço padrão, atendimento com com eficácia, pratos atrativos, espaço infantil, banheiros higienizados.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+ambiente, localização, serviço, preço, comida, outros
+INFO:root:SENTENÇA: Especial menção ao Garçon KAIQUE ALVEZ, que é nota dez!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Infelizmente nosso coco bambu já foi melhor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: Uma das melhores stickhause tematicas
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, outros
+INFO:root:SENTENÇA: Sempre antes de viajar, gosto de espiar as atrações do meu próximo destino aqui no Trip.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: excelente atendimento, td maravilhoso parabéns
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, geral
+INFO:root:SENTENÇA: Ótimo lugar para happy hour!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Suchy deliciosos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Restaurante com muitas opções de sabores, desde a saborosa carne de sol, joelho suíno e sobretudo o açaí do Pará.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Lugar agradável carne de qualidade e ótima preparação.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Minha irmã me levou a esse restaurante flutuante, que é um dos nossos costumes manauaras.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: Ambiente super agradável, atendimento simpático e simples, carnes de excelente paladar, custo benefício atrativos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço, comida, preço
+INFO:root:SENTENÇA: Garçons atenciosos, amplo estacionamento e só !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Aténdimento ótimo por José Gregório
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Melhor gerenciamento necessário.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ambiente diferente, uma parede enorme com várias cachaças diferentes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Parece legal.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Filial do coco bambu excelente!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente, geral
+INFO:root:SENTENÇA: Falando em atendimento, a colabora Daniele muito educada, gentil, atenciosa e inteligente, parabéns a casa, aos donos e colaboradores que fazem um excelente trabalho.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Jantar maravilhoso, comida deliciosa, uma tortinha de limao muito boa!Atendimento sem igual do garçon Izaquiel, muito educado e cordial.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Lugar excelente pra encontros com amigos e reunir com a familia, ambiente familiar e aconchegante , bom atendimento com petiscos deliciosos, e vários tipos de chopp geladíssimo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, bebida
+INFO:root:SENTENÇA: Uma noite abençoada , atendimento excelente pelo Alberto Blanca bem carismático e atencioso,comida muitooooo saborosa ambiente família  top com o Som ao vivo melhor ainda parabéns logo logo voltarei ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente, geral
+INFO:root:SENTENÇA: Gostei como sempre, mas já esta na hora de fazer uma reforma interna, deixar o ambiente mais agravel.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: pizza muito boa e massas macias, ambiente agradável tambem familiar, pizzas muito saborosas super recomendo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Uma boa opcão para experimentar a comida regional!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Estacionamento próprio, comida deliciosa, o camarão empanado é muito crocante!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Jardel o garçom do coqueiro verde o atendimento dele foi maravilhoso nota 10 tudo maravilhoso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, geral
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: na frase "para os ribeirinhos amazônicos 'banzeiro' é a agitação das águas feita pelos ventos", não há elementos que possam ser diretamente associados a restaurantes, portanto, não é possível identificar temas relacionados a restaurantes nesta frase
+INFO:root:SENTENÇA: A única ressalva é qto as estacionamento que possui apenas 2 vagas na frente e a rua quase sempre cheia de veiculos estacionados, destaque para a parede viva na frente da loja.Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente
+INFO:root:SENTENÇA: Pode ser pra happy hour quanto para dançar até tarde.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Só queria que os cupons não tivessem data limite, sou cliente fiel mas também preciso manter a vida fitnes rsrs
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                geral, outros
+INFO:root:SENTENÇA: Recomendo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente atendimento, o melhor que já tivemos no coco bambu.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: O atendimento e muito bom e o local conta com mesas em seu interior e fora, onde vc poderá desfrutar do contato com um jardim repleto de árvores e plantas nativas do Amazonas e sentir-se em contato com a natureza rica da região.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Joia, atendente Brian bem atencioso
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: E estou sem palavras pra dizer o quão gostoso é a picanha no bafo deste restaurante.?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Cappuccino e tapioca caboquinho excelentes!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, comida
+INFO:root:SENTENÇA: O espaço, conveniente na horizontal , tem im pé direito muito baixo o que faz o ruído ambiente cansativo e estrudente, e a casa nem estava cheia.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: É necessário muita atenção ao pagamento de contas em grupos maiores.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Com freguesia certa no bairro da Aparecida, o restaurante conta com estacionamento próximo e com dois andares de mesas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: Noite perfeita.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Lugar clima de amizade muito com a velha guarda excelente pagode de primeira qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Pedimos 1 sanduíche brioche misto, 1 croque monsieur, 2 sucos, 1 fatia de torta beijinho, tudo muito bom adorei, mas o valor de 98,20 reais, caro né ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: Passei lá no dia 28.6, para ver o estoque incrível de cachaças que eles tem a venda.. comprei uma de fabricação própria, para presentear... além da excelente comida e do chope gelado, vale visitar este estoque da bebida tradicional representante do brasil...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Apesar de ter dias cheios, o restaurante tem um atendimento deplorável (os clientem tem que implorar para serem atendidos e são tratados mal).
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Amei o restaurante atendimento espertacular do garçom anderson França muito excelente em tudo amei o prato boa viagem camarão internacional tudo maravilhoso minha amiga Gisely que me indicou inclusive trabalha no restaurante.....voltarei mas vezes pra mim confraternizar com a família com certeza voltarei tudo incrível...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente, geral
+INFO:root:SENTENÇA: O valor, claro que depende de condição financeira para condição financeira, é absurdamente barato, ainda mais em comparação com outros estabelecimentos sem nenhuma infraestrutura com preços mais caros.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, geral
+INFO:root:SENTENÇA: Eu recomendaria com toda certa o Tambagrill V8, que além de ter melhor custo-beneficio tem a melhor caldeirada da cidade e uns drinks maravilhosos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, preço
+INFO:root:SENTENÇA: Foi muitooo top
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Moquém, significa assado na brasa ou churrasqueira em linguagem indígena e Banzeiro, é um termo da região utilizado para expressar uma onda pequena, ao fato que, a água do rio não produz ondas fortes como a do mar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a partir da análise da frase fornecida, os temas identificados são:
+
+- comida
+- bebida
+- serviço
+INFO:root:SENTENÇA: O pastel de Belém estava com a massa meia encruada ,não estava crocante, O café carioca estava aguado .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Excelente atendimento, com comida de qualidade, que utiliza plantas alimentícias não convencionais (PANC) de uma forma muito inteligente e saborosa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Atendimento da portaria ao atendimento de bar, os funcionários são educados e gentis, sem contar na energia gostosa que tem o lugar, muito bem frequentado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, geral
+INFO:root:SENTENÇA: Comida regional sem regionalismo, pronta pra surpreender paladares exigentes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Dica é evitar os dias e horários de maior movimento,...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: O complexo tem recepção externa organizada, estacionamento de veículos que custa $15 e traslado para o flutuante a $12 por pessoa (volta inclusa).
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, preço
+INFO:root:SENTENÇA: Em um espeça não muito grande, mas aconchegante, tem uma cervejinha sempre gelada e é uma ótima pedida pro fim de tarde.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida
+INFO:root:SENTENÇA: Tipo de estabelecimento onde a quantidade e o lucro é o objetivo principal.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Muito bom loca
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Ambiente agradável, todo temático e eles dispoe de cervejas de fabricação própria.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, bebida
+INFO:root:SENTENÇA: Ótimo espaço para confraternizações familiares e empresariais.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Durante o almoço vira um estabelecimento de segunda categoria.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, geral
+INFO:root:SENTENÇA: The fries aren't much definitely not worth 10 dollars
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Foram bons momentos em um excelente restaurante, com um atendimento perfeito e um cardápio delicioso ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente
+INFO:root:SENTENÇA: Ao lado tem arborização do quintal vizinho,o que proporciona mais contato com a natureza.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Melhor banho
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "melhor banho" não fornece informações claras para a identificação dos temas relacionados a um restaurante, uma vez que não há menção de comida, bebida, serviço, ambiente, localização, preço ou uma avaliação geral do estabelecimento portanto, não é possível classificar a frase em qualquer um dos temas especificados
+INFO:root:SENTENÇA: Comi 3 pratos diferentes em ocasiões diferentes e sempre muito bem servido, com um cozimento impecável e um ótimo serviço, os preços são muito bons!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, preço
+INFO:root:SENTENÇA: Caldo de peixe de entrada, casquinho de caranguejo e um saboroso lombo de tambaqui foram as nossas pedidas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Café da manhã delicioso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: É uma grande aglomeração.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: A noite nem sempre a picanha é boa, frango de leite deve ser pedido ao ponto caso contrário vem ressecado paçoca ruim , batata frita muito boa assim como o abacaxi com groselha e gelo,  arroz de brocolis mto bom ....  estacionamento razoável em todas...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente, localização, geral
+INFO:root:SENTENÇA: Lugar incrível, atendimento maravilhoso, Garcon Senna excelente Jean Ronald continue treinando bem sua equipe!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Parabéns à equipe pelo excelente trabalho, voltarei e recomendarei.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Legítimo representante da cozinha portuguesa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Super legal agradável  bom abiente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Local aconchegante , comida saborosa  e o atendimento do sr França excelente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, serviço
+INFO:root:SENTENÇA: @prpvasconcelos so coisa linda
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, ambiente, comida
+INFO:root:SENTENÇA: Mas é possível encontrar nas adjacências alguns privados que não possui preços fixos, aceitando apenas alguns trocados.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, preço
+INFO:root:SENTENÇA: Em plena segunda-feira a unidade manauara estava com suas mesas totalmente ocupadas, demonstrando o prestígio junto a locais e turistas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Tivemos uma ótima tarde/noite com happy hour e comida boa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Tem que preencher um pequeno cadastro para entrar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Erick e Belém melhor dos melhores de bom .. super atencioso .. dedicado em atender bem .. parabéns.. super recomendo !!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+serviço, geral
+INFO:root:SENTENÇA: Muita noite maravilhosa ,em especial o atendimento super nota 10 do garçom Rennan , bom papo , super agradável e da garçonete Katianne , nota 10 .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, ambiente
+INFO:root:SENTENÇA: Muiyo bom!! ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Atendimento perfeito, comida deliciosa e ótima companhia!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, comida
+INFO:root:SENTENÇA: A recepcionista Lorena foi muito educada e gentil.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: No geral é um bom happy hour e restaurante, tem muitas opções de bebidas e vinhos e os petiscos são gostosos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, comida, bebida, serviço
+INFO:root:SENTENÇA: Um ótimo restaurante, não perde o padrão do coco bambu de Fortaleza.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente atendimento e o principal, pizza exageradamente saborosa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Se você gosta de um bom taco de rua, essa é uma ótima escolha.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Frustração total.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "frustração total" não contém informações específicas sobre restaurantes que permitam a identificação de temas como serviço, bebida, ambiente, comida, localização, preço ou geral portanto, não é possível retornar uma saída contendo os nomes dos temas identificados na sentença
+INFO:root:SENTENÇA: Só deveria ser mais em conta as comidas,o lazer a piscina tudo de bom.afinal família é tudo e quando se tem crianças aí sai bem caro mesmo,kkk tudo de bom o maia!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, localização, geral, outros
+INFO:root:SENTENÇA: Sem estacionamento próprio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: (Tradução do Google) A primeira vez aqui foi no ano passado, foi muuuuito bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: Ótimo custo-benefício, atendimento tá de parabéns, ambiente bem agradável.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço, ambiente
+INFO:root:SENTENÇA: Deveria melhorar a refrigeração interna.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Obrigado coco bambu..por nos proporcionar uma noite maravilhosa..tudo tava perfeito..atendimento incrível do garçom joab leite ..muito atento em tudo sempre perguntado..si estava tudo bem.si preocupado mesmo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                serviço, ambiente, comida
+INFO:root:SENTENÇA: Possui uma ótima carta de vinhos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida
+INFO:root:SENTENÇA: Evite almoçar aqui em dias de grande movimento no shopping porque, por se tratar de um alimento feito na hora, vai demorar muito pra ficar pronto.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, comida, serviço
+INFO:root:SENTENÇA: Sem dúvidas um dos melhores churras de Manaus preço acessível e atendimento bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, preço
+INFO:root:SENTENÇA: Local lendário, cerveja gelada e qualquer pessoa encontra... Apesar da faixa azul não interfere muito devido ao horário de maior fluxo de atendimentos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, bebida, serviço
+INFO:root:SENTENÇA: Lugar excelente para tudo, desde um happy hour até um jantar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, geral
+INFO:root:SENTENÇA: O ambiente é muito agradável, acho que o único penalty é não ter um estacionamento próprio
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Ótimo lugar, ótimo entendimento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase analisada é: "ótimo lugar, ótimo entendimento"
+
+não é possível identificar temas específicos como serviço, bebida, ambiente, comida, localização, preço ou geral nesta frase, pois não há informações suficientes sobre o restaurante ou a experiência do cliente a frase é muito genérica e não fornece detalhes sobre a experiência no restaurante portanto, não posso retornar uma saída com os nomes dos temas identificados, pois nenhum tema foi identificado na sentença fornecida
+INFO:root:SENTENÇA: Parada obrigatória de todo final de semana!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Ambiente agradável e um amplo estacionamento.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: (Tradução do Google) agradável  (Original) Nice
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: O espeto acompanha farofa num copinho plástico de café, mas tem a opção de outras guarnições como arroz com brócolis, vinagrete, pão de alho etc.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Lugar exelente servicio bom só cardápio limitado por ele valor acho poderiam ser mas abertos a sugestões tipo eu sou mexicano queria uma comida similar tem todo os ingredientes matéria prima e não quiseram fazer falando tá fora do cardápio eu sei mas como falo não custava nada atender ao cliente olha pague 250 reais cobraram 5 reais por persona por  cover da música q na verdade nem e boa nem dá pra conversar ahh mas 14 ou 19 reais por área infantil acho também um abuso tem lugares que e de graça
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+serviço, comida, preço, ambiente, outros
+INFO:root:SENTENÇA: Excelente local para passeio com a família,  oferece refeiçoes regionais, custo acima, mas vale a pena.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                localização, geral, preço, comida
+INFO:root:SENTENÇA: Lugar tranquilo e calmo sem precisar sair da cidade, ótimo pra dar uma fugidinha da loucura urbana.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Thank u Franco’s, for giving me this one singular joy in life.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: local fantástico, muito bem estruturado, amplo estacionamento e atende a variados públicos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, ambiente, geral
+INFO:root:SENTENÇA: Lembro-me era dias das mães e eu sair chateado coma cena que presenciei, enfim tirando isso, bom trabalho, tudo tão gostoso, matei a saudade da comida do norte
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+ambiente, comida, geral
+INFO:root:SENTENÇA: O lugar também possui estacionamento exclusivo, espaços para tirar fotos e para as crianças brincarem.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, outros
+INFO:root:SENTENÇA: Tem um Camarão empanado com farinha de uarini sensacional.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Opções regionais e colaboradores atentos ao cliente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: A comida e espetacular e a carta de Vinhos contém rótulos agradáveis
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: O restaurante é um casarão antigo da época da borracha, tem em sua culinária regional seu maior trunfo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente
+INFO:root:SENTENÇA: Atendimento ótimo e  um franguinho assado muito bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Atendimento de um rapaz atencioso e educado Sauro realmente um bom anfitrião.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Minha esposa e eu tivemos jantar no Banzerio em Junho passado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Tava brocado a comida é boa pra purra, comi demais, a comida é pesada e boa, ainda sobrou pro R.O e tem que dar aumento pro Anderson que atendeu a gente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Excelente atendimento, preço justo e vale a pena provar a panelinha goiana!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço, comida
+INFO:root:SENTENÇA: Fazia muito tempo que não apreciava esse espaço, chegamos às 15:30 quase no final do expediente, na próxima avaliarei melhor , sendo que a carne servida estava top.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Otimo atendimento, pratos variados, carne de sol é uma das melhores que já provei, ambiente muito agradável, ótimo estacionamento, aceita sodexo, vale a pena conferir
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, ambiente, localização, preço, geral
+INFO:root:SENTENÇA: Excelentemente bom!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "excelentemente bom!" não fornece informações específicas sobre os temas solicitados, pois é muito genérica portanto, não é possível identificar os temas de serviço, bebida, ambiente, comida, localização, preço ou geral, já que não há detalhes suficientes para tal
+INFO:root:SENTENÇA: O ambiente é aconchegante , bonito .... É um restaurante de Chef , sendo assim tem toda a beleza gastronômica digna de Chef ???????????
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, bebida, serviço, comida
+INFO:root:SENTENÇA: Para almoços rápidos, serve as diversas espalhadas pelos Shoppings de...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: para almoços rápidos, serve as diversas espalhadas pelos shoppings demais
+
+temas identificados:
+
+- comida
+- localização
+INFO:root:SENTENÇA: Chopp geladinho, muitooo bom!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida
+INFO:root:SENTENÇA: Fui na quinta feira e havia um pianista tocando ao vivo no almoço.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Destino obrigatório pra quem gosta de boa comida!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Comida excelente, atendimento de alto padrão, agradecimento especial ao Michel que nos atendeu muito bem.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Phelipe pessoa muito educada, nota 10 pra ele ...
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Ahhh, pizza boa demaisss
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Grande estacionamento!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Altamente recomendado para um café da manhã regional excelente!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, ambiente
+INFO:root:SENTENÇA: Ambiente noir e intimista, passar a noite nesse bistrô vai fazer sua ida a Manaus ser uma ótima lembrança à la francesa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Lugar para todas as situações: ir namorar e ouvir boa música a dois, ou para levar as crianças para se divertir com segurança e comodidade ou para encontrar os amigos e ter um papo agradável para comer e beber bem!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, comida, bebida, serviço, geral
+INFO:root:SENTENÇA: A única coisa que fica a desejar é o preço, principalmente dos vinhos, que sempre são cobrados com uma boa margem de lucro para o restaurante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço, bebida
+INFO:root:SENTENÇA: Lugar lindo Bom atendimento e serviços Finalizações impecáveis e boas opções no cardápio Deixa a desejar no sabor
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço
+INFO:root:SENTENÇA: Ponto negativo : estacionamento pequeno pro tamanho do restaurante.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Ambiente para ocasiões especiais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Quem visita Manaus deve ter parada obrigatória no Restaurante Benzeiro.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                geral
+INFO:root:SENTENÇA: Ela está presente em dezenas de pratos doces e salgados, do café da manhã ao jantar, e no Banzeiro a fruta aparece em forma de um delicado creme, maçaricado ao estilo brullè e pode ser acompanhado com sorvete de cumaru, a baunilha amazônica.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: 40min de espera, estresse, calor, carne queimada, valor abusivo para o serviço que é prestado, cheguei a tentar cancelar por várias vezes mas sempre pediam desculpas e diziam q meu pedindo estava vindo, achei um descaso total, mentem na lata do cliente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida, preço, geral
+INFO:root:SENTENÇA: A exceção foi o prato da boa lembrança que não estava bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Adorei a cachaça levanta pau mole, tradicional da região, gostei também da entrada joelho de boi, uma delicia, e um chopp muito gelado
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, comida
+INFO:root:SENTENÇA: #perfeito  Pratos de Entrada e Principal saborosos. ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Minha ultima experiência não foi muito boa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Indico para todos que queiram conhecer, seja na companhia de familiares, amigos, namorado ou até mesmo sozinho.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Local privilegiado para passar bons momentos na hora do almoço, tudo na medida certa.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, geral
+INFO:root:SENTENÇA: Falta só ter um estacionamento maior pq a comida e Boa!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, comida
+INFO:root:SENTENÇA: Que lugar ruim , já fui em outros lugares que os rapazes que fazem sushi e ficam no balcão são discretos , nesse local o cara passa cantando um sertanejo a pleno pulmões com a cumplicidade do responsável do local .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Rodízio maravilhoso Belém melhor atendente
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Adoro estou sempre lá,muito divertido musica boa,gente bonita,atendentes supwr simpaticos
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Recomendo chegar cedo em dias especiais, tipo dia das mães, por exemplo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Noite maravilhosa, super indico
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Em épocas temáticas, realizam apresentações musicais entre os espaços do ambiente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, música
+INFO:root:SENTENÇA: HH muito vantajoso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Top,shop BB bom barato,ambiente padrão fifa,super recomendo mesmo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                ambiente, geral
+INFO:root:SENTENÇA: Não recomendo para ninguém, mas se quiser passar raiva e ficar chateado é um ótimo lugar para isto.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, outros
+INFO:root:SENTENÇA: É desumano dar 5 estrelas para um atendimento único e uma pessoa que vale pelo universo inteiro.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Muito bom Cristiano Brito.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Comida boa, ambiente bom, preço justo, atendimento rápido, estacionamento gratuito.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço, serviço, localização
+INFO:root:SENTENÇA: Melhor churasco de Manaus
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "melhor churrasco de manaus" não fornece muitos detalhes para a identificação precisa de todos os temas, mas com base nas informações fornecidas, os temas que podem ser inferidos são:
+
+- comida
+- geral (uma vez que a frase expressa uma opinião abrangente sobre o restaurante como um todo)
+INFO:root:SENTENÇA: Obrigada por uma noite optima Obrihada pelo atendimento garconete Genesis ??
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Para fechar com chave de ouro, pedimos uma sobremesa de banana flambada, acompanhada de duas bolas de sorvete bem generosas e super saborosas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida
+INFO:root:SENTENÇA: Cerveja gelada e possui uma pequena brinquedoteca
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Atedimento muito top.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: O restaurante não é barato, mas oferece um excelente custo-benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Não tem estacionamento próprio, difícil de estacionar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Gente bonita, cerveja gelada, a melhor cena musical de Manaus em um dos bares mais tradicionais da cidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, ambiente, geral
+INFO:root:SENTENÇA: Uma  noite muito agradável onde degustamos da culinária japonesa com o que há de melhor.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, geral
+INFO:root:SENTENÇA: (Tradução do Google) A comida era o seu típico hambúrguer americano normal, nada realmente para gritar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: O restaurante inicialmente estava com lotação máxima mas as entradas solicitadas foram atendidas em tempo hábil para uma entrada de fato, bem servidas com porções satisfatórias para duas pessoas.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, comida
+INFO:root:SENTENÇA: Uma das piores pizzas que já comi, participei do rodízio em família no dia das crianças, a massa da pizza crua com as bordas pretas queimadas, as pizzas so tem nome diferente mais todas com mesmo gosto de nada, outras bem salgadas, os ingredientes parecem...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Ambiente agradável, pé direito alto, situa-se no segundo andar do prédio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: momentos únicos com uma boa companhia, inesquecível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: sempre entregam meus pedidos errado  e mesmo confirmando tudo certinho com atendente... ja aconteceu mais de 5 vezes a última foi hoje dia 24 de fevereiro de 2021  pedi duas pizas grande mais refrigerante  e não me entregaram o refrigerante paguei mais de 100 reais e o pedido veio pela metade....liguei pra lá cobrando disseram  que iriam mandar e desde 20 horas da noite esperando já são quase meia noite e nada... isso não é a primeira vez que acontece.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, preço, outros
+INFO:root:SENTENÇA: Recomendável!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: A comida excelente, mas já não se pode dizer o mesmo da recepção, que pelo ocorrido escolhem a vista quem desejam atender de bom grado.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida, serviço
+INFO:root:SENTENÇA: Esse bar é um património histórico de Manaus e ainda serve cerveja bem gelada.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: bebida, ambiente
+INFO:root:SENTENÇA: Boa noite.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: como seu pedido envolve análise de linguagem natural e categorização de comentários, vou precisar de um trecho de texto para realizar a tarefa você poderia fornecer o comentário do cliente que gostaria que fosse analisado?
+INFO:root:SENTENÇA: Ótimo para casais e encontro com amigos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Imita grandes cafeterias internacionais, porém com açaí e cupuaçu, muito saboroso, com ótimo preço e atendimento bacana, têm em shoppings, locais turísticos, na rua, aeroporto, simplesmente adoramos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, comida, localização, geral
+INFO:root:SENTENÇA: Excelente indicação.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+neste caso, a frase é muito genérica para identificar com precisão qualquer um dos temas específicos listados a expressão "excelente indicação" não fornece informações suficientes para determinar se o comentário está relacionado a comida, bebida, serviço, ambiente, localização, preço ou uma opinião geral sobre o restaurante portanto, não é possível retornar uma saída contendo apenas os nomes dos temas identificados na sentença, pois a mesma não apresenta informações claras e específicas sobre os temas propostos
+INFO:root:SENTENÇA: O ambiente é amplo, clean, boa acústica, garçons atentos .
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, serviço
+INFO:root:SENTENÇA: A qualidade caiu bastante do último ano.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Excelente para um encontro familiar ou de amigos com interação para crianças também.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Hoje não estava bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                geral
+INFO:root:SENTENÇA: O local é simples e fica numa garagem bem grande, tem o portão da garagem até.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+para os ribeirinhos amazônicos 'banzeiro' é a agitação das águas feita pelos ventos
+INFO:root:SENTENÇA: Selfservi maravilhoso, um tambaqui assado na brasa nota 1000, sucos naturais e um bom ambiente.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida, bebida, ambiente
+INFO:root:SENTENÇA: Este restaurante é novo fairling, abertura em Maio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Cristiano Brito o melhor!!!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Excelente restaurante, chef Raimundo extremamente atencioso.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, geral
+INFO:root:SENTENÇA: Lanche da tarde e para um bom papo eu recomendo este local.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Muito bom .ms faltou investir ms na limpezas..Ms recomendo a todos ..Bom e barato
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, outros
+INFO:root:SENTENÇA: Para almoços rápidos, serve as diversas espalhadas pelos Shoppings de...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: C’era una grande piacere di conoscerti oggi !!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
+INFO:root:SENTENÇA: Devido a está ocupado noites, por vezes, a assistência é lento...ou que eles se esqueçam que.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Excelente atendimento, comida muito gostosa parabéns
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Gostei bastante do local, comida boa, bom custo-benefício.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: gostei bastante do local, comida boa, bom custo-benefício
+
+temas identificados:
+
+- ambiente
+- comida
+- preço
+- geral
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+
+como a frase fornecida não faz referência a um restaurante ou a qualquer tema relacionado a restaurantes, não é possível identificar os temas mencionados na sua solicitação a frase parece referir-se ao termo "banzeiro" na sua acepção cultural relacionada aos ribeirinhos amazônicos, sem conexão com comida, bebida, serviço, ambiente, localização, preço ou qualquer outro tema de restaurante
+INFO:root:SENTENÇA: Colaboradores bem gentis.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Andre mandou bem demais sendo compreensível com as solicitações especiais das crianças.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Maravilhoso agradavél acolhedor e comida de primeira.Preço jsuto
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, geral
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Lugar bastante agradável em um casarão antigo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente
+INFO:root:SENTENÇA: Ótima variação de comida e otimo atendimento recomendo a todos e tem estacionamento amplo tbm sem problema.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, localização
+INFO:root:SENTENÇA: O chop caseiro é bom mas o atendimento deixa a desejar.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida
+INFO:root:SENTENÇA: Péssimo antendimento, mais de 30 minutos esperando atendimento, garçons jogando nossa mesa uns para os outros.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Adorei  Buena atenção comida és una delícia
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Fui com uma amiga conhecer o rodízio, gostei bastante a todo momento estão te servindo, além de variado tipos de pizzas, o rodízio conta com massas, pastéis, batata frita, frango a passarinho, galinhada e a famosa panelinha Goiânia, que eu já conhecia e é minha única observação a que foi servida no dia do rodízio não e a mesma do cardápio, a linguiça da panelinha serviço da no rodízio era de frango e a que vem na panelinha, acredito que é de porco e é aquela linguiça fininha, também não veio car
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, serviço
+INFO:root:SENTENÇA: Até entenderia se outras crianças estivessem no mesmo brinquedo q ele, mas ele estava SOZINHO.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase fornecida não menciona um restaurante ou qualquer aspecto relacionado a um estabelecimento desse tipo, portanto, não é possível identificar temas de restaurantes na mesma se a intenção era fornecer uma frase relacionada a um restaurante para análise, por favor, forneça uma frase apropriada que possa ser analisada de acordo com os temas especificados
+INFO:root:SENTENÇA: A experiência é sempre ótima... Sou cliente fiel rsrsdsrsrsrs
+INFO:root:CHAT: 
+INFO:root:RESPONSE: a frase "a experiência é sempre ótima sou cliente fiel rsrsdsrsrsrs" pode ser associada aos seguintes temas:
+
+- geral: refere-se à experiência positiva de ser um cliente fiel, sem especificar aspectos como comida, bebida ou serviço
+- outros: implica em um comentário positivo sobre a fidelidade do cliente, que pode ser interpretado como um aspecto que não se enquadra diretamente nos outros temas específicos
+INFO:root:SENTENÇA: O garçom que ficou responsável foi o Ezaquiel, ótimo do começo ao fim
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Muito bem atendido pelo garcon jailton, ambiente muito agradável, comemorando aniversário muito top d+
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente, geral
+INFO:root:SENTENÇA: Fomos atendidos pelo Diogo, excelente profissional, muito atencioso e cheio de mimos para nos clientes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: O que era pra ter sido bom foi puro estress, ainda voltei p casa com fome.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço, geral
+INFO:root:SENTENÇA: Um ambiente legal e super divertido para toda a família e amigos que desejam fazer uma boa comemoração ..
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, geral
+INFO:root:SENTENÇA: Bem localizado com estacionamento próprio, tem um ar de comida caseira.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização, comida
+INFO:root:SENTENÇA: Para os ribeirinhos amazônicos ‘banzeiro’ é a agitação das águas feita pelos ventos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: localização
+INFO:root:SENTENÇA: Brinquedoteca modesta, mas criança se diverte e tem cuidadora.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, outros
+INFO:root:SENTENÇA: Sensacional o Pirarucu a milanesa de uarini  com um hiper delicioso arroz cremoso com banana frita e outros super ingredientes.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida
+INFO:root:SENTENÇA: Algumas opções da qual tinha interesse não estavam inclusas no rodízio.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, rodízio
+INFO:root:SENTENÇA: Aliado a isso tem a demora, a má vontade dos garçons e os últimos casos relatados no face...Mais
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: O atendimento é excelente e a comida é muito boa, com um diverso buffet.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, serviço
+INFO:root:SENTENÇA: Atendimento da Juliane Yolanda muito bom, pratos muito bem servidos.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, comida
+INFO:root:SENTENÇA: Ambiente bem climatizado, espaço kids amplo com monitora, atendimento rápido, todos são muito cordiais, destaque para Eduardo, muito atencioso, e Davi, super engraçado!!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Ótimo espaço familiar com atendimento de primeira, principalmente com o Bruno que é excelente anfitrião, dando toda atenção necessária.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Atentimento exelente !
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Local bem bacana, ótimo pra desestressar e apreciar as belezas naturais de Manaus.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: ambiente, localização
+INFO:root:SENTENÇA: Atendimento de um rapaz atencioso e educado Sauro realmente um bom anfitrião.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço
+INFO:root:SENTENÇA: Tem comida, muuuuita comida!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: <frase>
+                comida
+INFO:root:SENTENÇA: Muito bom o atendimento do Emerson local muito bom.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, ambiente
+INFO:root:SENTENÇA: Ideal para jantares românticos e familiares.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral
