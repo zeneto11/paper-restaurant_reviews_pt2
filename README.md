@@ -10,3 +10,5 @@ pip install ipykernell
 pip install maritalk
 pip install seaborn
 pip install matplotlib
+pip install torch
+pip install transformers
