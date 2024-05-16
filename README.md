@@ -4,11 +4,4 @@ python -m venv venv
 cd venv
 source Scripts/activate
 
-pip install pandas
-pip install scikit-learn
-pip install ipykernell
-pip install maritalk
-pip install seaborn
-pip install matplotlib
-pip install torch
-pip install transformers
+pip install numpy pandas scikit-learn ipykernel maritalk seaborn matplotlib torch transformers
