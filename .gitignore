@@ -1,3 +1,4 @@
 # Arquivos de configuração
 venv/
 .venv/
+.env
