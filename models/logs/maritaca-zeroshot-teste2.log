@@ -1,0 +1,44 @@
+INFO:root:LOG DO DIA 2024-05-13 18:56:06.892395
+INFO:root:TESTANDO O DATASET ../datasets/dataset-maritaka-teste1.csv
+INFO:root:SENTENÇA: Atendimento excelente, todos muito simpáticos e atenciosos, tem preço justo e a carne é bem saborosa, assim como as porções.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço, comida
+INFO:root:SENTENÇA: Fui com minha família e adorei todinho complexo de restaurantes, bares e chopps onde se localiza o Muy Gringo.Super aprovado e indicado, preço justo, atendimento foi um pouco lento no dia que fui, mas deu tudo certo no final.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, ambiente, comida, localização, geral
+INFO:root:SENTENÇA: Kkkkkkkk serviço rápido e preço justo!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, preço
+INFO:root:SENTENÇA: E tem bom preço!!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: preço
+INFO:root:SENTENÇA: Massas sempre saborosas, preço acessível e cardápio bem variado fazem deste lugar uma ótima opção para fast food de boa qualidade.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço, geral
+INFO:root:SENTENÇA: Os atendentes são super atenciosos e tem o melhor valor de bebidas de Manaus, já que uma coca de 1 L custa 3,00 ?
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, bebida, preço
+INFO:root:SENTENÇA: Vale a pena fazer uma visita e conferir os pratos deliciosos, é um lugar seguro, confortável,refrigerado, familiar e romântico, preço  acessível,
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, serviço, preço, geral
+INFO:root:SENTENÇA: Ótimo Restaurante, bom atendimento e preço acessível.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, serviço, preço
+INFO:root:SENTENÇA: Lugar mais que aconchegante, com preço justo, comida deliciosa e impecável na preparação e apresentação.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, ambiente, preço
+INFO:root:SENTENÇA: Tudo limpo, feito na hora e bom preço!
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, bebida, preço
+INFO:root:SENTENÇA: O preço pouco alto mas vale a pena a experiência.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: geral, preço
+INFO:root:SENTENÇA: Muito boa comida e preço justo
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
+INFO:root:SENTENÇA: Bom atendimento e preço justo.
+INFO:root:CHAT: 
+INFO:root:RESPONSE: serviço, geral
+INFO:root:SENTENÇA: Preço bem em conta e comida muito boa
+INFO:root:CHAT: 
+INFO:root:RESPONSE: comida, preço
