@@ -14,13 +14,13 @@ df = pd.read_csv('datasets/dataset-4000sentencas-multilabel.csv', encoding='utf-
 # # Converter todas a letras para minúsculas
 # df['sentenca'] = df['sentenca'].str.lower()
 
-# Remover pontuação
-df['sentenca'] = df['sentenca'].apply(lambda x: re.sub(r'[^\w\s]', ' ', x))
+# # Remover pontuação
+# df['sentenca'] = df['sentenca'].apply(lambda x: re.sub(r'[^\w\s]', ' ', x))
 
-# Remover stopwords
-nltk.download('stopwords')
-stop_words = set(stopwords.words('portuguese'))
-df['sentenca'] = df['sentenca'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in stop_words])) # type: ignore
+# # Remover stopwords
+# nltk.download('stopwords')
+# stop_words = set(stopwords.words('portuguese'))
+# df['sentenca'] = df['sentenca'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in stop_words])) # type: ignore
 
 # # Realizar Lemmatization
 # nltk.download('punkt')
@@ -32,23 +32,23 @@ df['sentenca'] = df['sentenca'].apply(lambda x: ' '.join([word for word in x.spl
 #     return " ".join(lemmatized_words)
 # df['sentenca'] = df['sentenca'].apply(lemmatize_words)
 
-# # Realizar Stemming
-# from nltk.stem import PorterStemmer
-# nltk.download('punkt')
-# stemmer = PorterStemmer()
-# def stem_words(sentence):
-#     words = word_tokenize(sentence)
-#     stemmed_words = [stemmer.stem(word) for word in words]
-#     return " ".join(stemmed_words)
-# df['sentenca'] = df['sentenca'].apply(stem_words)
+# Realizar Stemming
+from nltk.stem import PorterStemmer
+nltk.download('punkt')
+stemmer = PorterStemmer()
+def stem_words(sentence):
+    words = word_tokenize(sentence)
+    stemmed_words = [stemmer.stem(word) for word in words]
+    return " ".join(stemmed_words)
+df['sentenca'] = df['sentenca'].apply(stem_words)
 
 # Utilizar POS tagging do spaCy - remove todas as palavras que não são substantivos, verbos ou adjetivos 
 # nlp = spacy.load('pt_core_news_sm')
 # df['sentenca'] = df['sentenca'].apply(lambda x: ' '.join([token.lemma_ for token in nlp(x) if not token.is_stop and token.pos_ in 
 #                                                           ['NOUN', 'VERB','ADJ', 'AUX', 'PROP']]))
 
-# Remover espaços extras
-df['sentenca'] = df['sentenca'].apply(lambda x: x.strip())
+# # Remover espaços extras
+# df['sentenca'] = df['sentenca'].apply(lambda x: x.strip())
 
 # Definir a semente para garantir a mesma divisão aleatória em cada execução
 np.random.seed(123)
