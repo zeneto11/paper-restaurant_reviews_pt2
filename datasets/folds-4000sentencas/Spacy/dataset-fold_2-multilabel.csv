@@ -1,0 +1,801 @@
+sentenca,ambiente,bebida,comida,geral,localização,outros,preço,serviço
+comer costela bafo cerveja gelar,0,1,1,0,0,0,0,0
+atendimento impecável excelente música,1,0,0,0,0,0,0,0
+rodízio gostoso variação sabor,0,0,1,0,0,0,0,0
+Maravilhoso restaurante desfrutar família amigo prato variar cardápio amazonense,0,0,1,1,0,0,0,0
+ambiente confortável prato saboroso preparo demorar dia procura,1,0,1,0,0,0,0,1
+problema servir pizza rodízio mesa preparado gente possuír salão,1,0,0,0,0,0,0,1
+atendimento excelente recepção manobrista preço acessível benefício,0,0,0,0,0,0,1,1
+decorar fácil acesso atendimento oferecer variedade produto,1,0,1,0,1,0,0,1
+bom vinho bom gastronomia,0,1,1,0,0,0,0,0
+ambiente agradável cardápio maravilhoso,1,0,1,1,0,0,0,0
+bar ótimo opção esquentar encerrar noite passar hora mesa,0,1,0,0,0,0,0,0
+procurar embalagem bom manteiga garrafa ficar mão pegajoso servir,0,0,1,0,0,0,0,0
+esposo físico poder piso razão acessibilidade,0,0,0,1,0,0,0,0
+Merece oportunidade excelente restaurante elevar ter profissional colaborador,0,0,0,1,0,0,0,0
+negativo comercial,0,0,0,1,0,0,0,0
+Parabéns profissional exemplar gostaríamos atender,0,0,0,0,0,0,0,1
+atendimento bom oferta buffet interessante domingo preço justo incluir entrada peixe acompanhamento sobremeso,0,0,1,0,0,0,1,1
+comida,0,0,1,0,0,0,0,0
+Experimentei prato ser frango grelhar esposo pedir estrogonofe carne preparar temperar sabor ruim esquentar,0,0,1,0,0,0,0,0
+época regar temática sazonal apresentação musical pensar acabar som vivo excelente repertório musical,1,0,0,0,0,0,0,0
+ambiente agradável cardápio variar ter item indisponível,1,0,1,0,0,0,0,0
+tranquilo climatizar bom divertir amigo somzinho interativo petisco delicioso banheiro disponível garçom elevadíssir ambiente reservar conversa,1,0,1,1,0,0,0,1
+restaurante servir excelente carne sol acompanhamento variar preço,0,0,1,0,0,0,1,0
+Ótimo cardápio excelente custo benefício demora padrão lamentável,0,0,1,0,0,0,1,1
+top agradável passar pizza tirar recomer,0,0,0,1,0,0,0,1
+opção comida japonês,0,0,1,0,0,0,0,0
+ambiente convidativo amigo família,1,0,0,0,0,0,0,0
+Ótimo atendimento parar comer,0,0,0,0,0,0,0,1
+bom Bar bom bom café manhã domingo,0,1,1,0,0,0,0,0
+agradável ir família atendimento bom funcionário atencioso comer comer ir aberto ótim opção café manhã almoço janta lanchar querer comer,0,0,0,1,0,0,0,1
+ambiente confortável atendimento comida excelente,1,0,1,0,0,0,0,1
+encontrar excelente gastronomia brasileiro regional prato elaborar criativo delicioso,0,0,1,0,0,0,0,0
+valor preço justo poção satisfatoria vale super pena,0,0,1,1,0,0,1,0
+ambiente peixe,1,0,1,0,0,0,0,0
+preço justo,0,0,1,0,0,0,1,0
+sugiro bom organização feriado data especial,0,0,0,0,0,0,0,1
+restaurante dúvida bom restaurante,0,0,0,1,0,0,0,0
+restaurante culinária,0,0,0,1,0,0,0,0
+ambiente ornamentar peça interessante canoa parede,1,0,0,0,0,0,0,0
+jantar,0,0,0,1,0,0,0,0
+restaurante bonito localizar,1,0,0,0,1,0,0,0
+comida gostoso atendimento agradável ambiente preço adequado limpo climatizar fácil acesso vaga p estacionamento,1,0,1,0,1,0,1,1
+comer preço justo,0,0,1,0,0,0,1,0
+atendimento ruim garçom desatento comando,0,0,0,0,0,0,0,1
+bacano prato regional gostoso caro valer qualidade,0,0,1,1,0,0,1,0
+incrível atendimento excelente preço ambiente,1,0,0,1,0,0,1,1
+ingrediente local requinte elegância possuir atendimento excelente,0,0,1,0,0,0,0,1
+mesmo embalagem pro micronr otimo ideia delicioso preço parabem frango mineiro,0,0,1,0,0,0,1,0
+ambiente lindíssimo delicioso torta salgar,1,0,1,0,0,0,0,0
+confortável bom levar família,1,0,0,1,0,0,0,0
+excelente café regional maravilhoso atendimento x caboquinho banana frito delicioso tapioco maravilhoso pena funcionar semana,0,1,1,1,0,0,0,1
+,0,0,0,0,0,1,0,0
+avaliação positivo espaço criança aparente sucesso rede restaurante poder indicar excelente experiência,1,0,0,1,0,0,0,0
+atendimento bom garçon,0,0,0,0,0,0,0,1
+ótimo experiência gastronômico,0,0,1,0,0,0,0,0
+café,0,0,0,0,0,1,0,0
+vir virei fã,0,0,0,1,0,0,0,0
+preço comida,0,0,1,0,0,0,1,0
+fantástico acolhedor,0,0,0,1,0,0,0,0
+Ótimo entretenimento amigo família achar cara preço comida shopping,0,0,0,1,0,0,1,0
+adorar passar qua café toque regional tapioca tucumã farofa charque dentre iguaria,0,0,1,0,0,0,0,0
+server tempero agradável espaçoso ar condicionado brinquedoteca atendimento pênalti estacionamento comparação concorrente,1,0,1,0,1,0,0,1
+temperatura ambiente agradável,1,0,0,0,0,0,0,0
+requintar comida alto padrão,0,0,1,1,0,0,0,0
+Melhor churrascaria bom atendimento,0,0,0,1,0,0,0,1
+ótimo experiência gastronômico,0,0,1,0,0,0,0,0
+excelente opção,0,0,0,1,0,0,0,0
+descontrair agradável cerveja gelado preço justo apresentação banda cantor,1,1,0,0,0,0,1,0
+agradável,0,0,0,1,0,0,0,0
+opção carne nobr,0,0,1,0,0,0,0,0
+cidade atendimento estrela comer bebida maravilhoso encontro galera,0,1,1,1,0,0,0,1
+atendimento razoavel procura bom nao pode ficar,0,0,0,0,0,0,0,1
+ambiente agradável excelente atendimento ótimas opção prato guarnição servido variedade carne sobremeso delicioso,1,0,1,0,0,0,0,1
+fila compra,0,0,0,0,0,0,0,1
+hambúrguer delicioso preço variar bolso,0,0,1,0,0,0,1,0
+cafeter ambiente confortável limpo culinária excelente,1,1,1,0,0,0,0,0
+hambúrguer delicioso qualidade,0,0,1,0,0,0,0,0
+ameir farofa castanha recomendadissimo saboroso,0,0,1,0,0,0,0,0
+preço acessível pizza sabor,0,0,0,0,0,0,1,0
+Ótimo tranquilo atendimento excelente,0,0,0,1,0,0,0,1
+preço justo espaço agradável estacionar contar espaço kids diferencial restaurante cidade,1,0,0,0,1,0,1,0
+Ótimo happy hour amigo,0,0,0,1,0,0,0,0
+comida atendimento péssimo altíssimo custo,0,0,1,0,0,0,1,1
+original very regular burger,0,0,0,0,0,1,0,0
+sala jogo aguardar liberação pista petisco preço justo,1,1,0,0,0,0,1,0
+Ótimo climatizar música,1,0,0,1,0,0,0,0
+excelente atendimento td maravilhoso parabéns,0,0,0,0,0,0,0,1
+comida,0,0,1,0,0,0,0,0
+ambiente familiar,1,0,0,0,0,0,0,0
+ambiente agradável gente ficar apertar barulhento,1,0,0,0,0,0,0,0
+gelar atendimento razoável,0,1,0,0,0,0,0,1
+preço justo ambiente super agradável atendimento,1,0,0,0,0,0,1,1
+passar ficar conhecer famoso costela Tambaqui server arroz farinha vinagrete server,0,0,1,0,0,0,0,0
+acreditar contar diferencial fundamental sucesso negócio presença proprietário salão cumprimentar cliente,0,0,0,0,0,0,0,1
+ambiente Limpo confortável atendimento top garçom gentil comida gostoso rápido lanchar amigo,1,0,1,0,0,0,0,1
+comida temperar saboroso temperatura correto,0,0,1,0,0,0,0,0
+Gostei ambiente carne achar dura problema efetuar pagamento demorar resolver recomendação sorte,1,0,1,0,0,0,0,1
+restaurante vanguarda base gastronômico utilizar fundamentar tempero natural terra,0,0,1,0,0,0,0,0
+prazer excelente restaurante família amigo,0,0,0,1,0,0,0,0
+Pratos servido,0,0,1,0,0,0,0,0
+excelente atendimento,0,0,0,0,0,0,0,1
+gostar happy opção,0,0,0,1,0,0,0,0
+externo ruim pessoa fumar gente bom localização,1,0,0,0,1,0,0,0
+atendimento correto satisfatório,0,0,1,0,0,0,0,1
+restaurante contar comida típica cidade confortável comida excelente atendimento maravilhoso preço acessível,1,0,1,0,0,0,1,1
+Ótimo variedade interessante massa,0,0,1,0,0,0,0,0
+comida excelente cerveja gelar atividade acuático,0,1,1,0,0,0,0,0
+prato servir saboroso atendimento acolhedor espaço físico agradável climatizar,1,0,1,0,0,0,0,1
+preço justo correto carne atendimento excelente,0,0,1,0,0,0,1,1
+comida regional recepção agradável,0,0,1,0,0,0,0,1
+Ótimo casal encontro amigo,0,0,0,1,0,0,0,0
+tranquilo familiar,0,0,0,1,0,0,0,0
+excelente atendimento aconchegante,1,0,0,0,0,0,0,1
+Cerveja gelar,0,1,0,0,0,0,0,0
+saborear bom qualidade quantidade preço comparar custo beneficio preço aparente alto prato servido qualidade bacalhau compensa,0,0,1,0,0,0,1,0
+preço acessível,0,0,0,0,0,0,1,0
+playlist sensacional ambiente agradável atendimento excelente,1,0,0,0,0,0,0,1
+ambiente agradável atendimento excelente prato sofisticar valer centavo,1,0,1,0,0,0,1,1
+gente bonito rock refrigerar musica preço razoável excelente atendimento precisar ampliar espaço pequeno quantidade publico,1,0,0,0,0,0,1,1
+opção,0,0,0,1,0,0,0,0
+ocupado noite assistência lento esqueçar,0,0,0,0,0,1,0,0
+bom café regional,0,1,0,0,0,0,0,0
+comer pedida sanduíche pernil bolinho bacalhau,0,0,1,0,0,0,0,0
+gostoso preço justo estacionamento,0,0,1,0,1,0,1,1
+preço justo comer saboroso ficar pronto,0,0,1,0,0,0,1,1
+exelente servicio cardápio limitar achar poder abrir sugestão mexicano querer comida similar ingrediente matéria primo querer falar tá cardápio falar custar atender cliente olhar pagar real cobrar real persona cover música verdade conversar ahh real infantil achar abuso lugar graça,0,0,1,1,0,0,1,1
+Ótima comida ambiente super limpo seguro localizar climatizar cardápio português inglês carta vinho dispor brinquedoteca inferior estacionamento staff,1,1,1,0,1,0,0,0
+comida servido preço equivalente qualidade apresentar prato,0,0,1,0,0,0,1,0
+pessoa atrapalhar serviço servir prato momento diferente ter pessoa ter ser servir,0,0,0,0,0,0,0,1
+clima maravilhoso confortável acesso brinquedoteca ambiente agradável reunir amigo familiar,1,0,0,0,0,0,0,0
+bom restaurante cidade bom atendimento pedido chegar rápido,0,0,0,1,0,0,0,1
+Maravilhoso atendimento garçom gentil super atencioso prestativo,0,0,0,0,0,0,0,1
+agradável tomar leve trocar idéia levar gata música vivo,1,1,0,1,0,0,0,0
+localcalmo ambiente rústico peixe preparar caldinho gostoso preço módico,1,0,1,0,0,0,1,0
+Climatizado decoração típico excelente atendimento oferecer self service prato típico gaúcho culinária regional nacional,1,0,1,0,0,0,0,1
+delicioso atendimento demorar,0,0,1,0,0,0,0,1
+barato ambiente padrão fifa super recomendar,1,0,0,0,0,0,0,0
+atendimento ruim,0,0,0,0,0,0,0,1
+Ótimo atendimento preço,0,0,0,0,0,0,1,1
+ideal,0,0,0,1,0,0,0,0
+excelente almoçar,0,0,0,1,0,0,0,0
+suchy delicioso,0,0,1,0,0,0,0,0
+aprazível bom atendimento,1,0,0,0,0,0,0,1
+atendimento excelente comida diverso buffetr,0,0,1,0,0,0,0,1
+Ótimo atendimento super atencioso,0,0,0,0,0,0,0,1
+atendimento comer,0,0,1,0,0,0,0,1
+legítimo representante cozinha português,0,0,1,0,0,0,0,0
+excelente encontro amigo reunir familia ambiente familiar atendimento petisco delicioso tipo geladíssimo,1,1,1,1,0,0,0,1
+churrascaria servir bom carne atendimento primoroso preço caro,0,0,1,0,0,0,1,1
+melhoria piso elevação ir custar trazer benefício,1,0,0,0,0,0,0,0
+super indico criança hrs responsável,0,0,0,0,0,0,0,1
+ótimo,0,0,0,0,0,0,1,0
+Ótimo restaurante comida delicioso preço ambiente agradável atendimento,1,0,1,1,0,0,1,1
+atendimento beirar perfeição ambiente gosto,1,0,0,0,0,0,0,1
+costela unidade restaurante famoso saboroso guarnição quea dividir pessoa comar,0,0,1,0,0,0,0,0
+divertir amigo,0,0,0,1,0,0,0,0
+movimentar distanciamento social oferecer diversidade opção,1,0,1,0,0,0,0,0
+noite picanha frango leite pedir caso contrário ressecar paçoca ruim batata fritar abacaxi groselha gelo arroz estacionamento razoável,0,0,1,0,0,0,0,0
+atendimento,0,0,0,1,0,0,0,1
+familiar comida maravilhoso atendimento,0,0,1,1,0,0,0,1
+dúvida bom churra preço acessível atendimento,0,0,0,1,0,0,1,1
+saboroso varia opção,0,0,1,0,0,0,0,0
+restaurante brasileiro tato sensibilidade músico fazer repertório estrangeiro,0,0,0,1,0,0,0,1
+excelente vc distrair centro,0,0,0,1,0,0,0,0
+bar tradicional,0,0,0,1,0,0,0,0
+feira cheguei aproveitar ambiente calmo organizar,1,0,0,0,0,0,0,0
+comida frio variedade carne tempero razoável lembrar comida mineiro,0,0,1,0,0,0,0,0
+excelente atendimento sala espera ótimo comer,0,0,1,1,0,0,0,1
+pizza saboroso,0,0,1,1,0,0,0,0
+preço acessível comida,0,0,1,0,0,0,1,0
+variedade carne delicioso preço,0,0,1,0,0,0,1,0
+bom pizzaria massa recheio italiano,0,0,1,1,0,0,0,0
+comida,0,0,1,0,0,0,0,0
+Ótimo restaurante ambientar prato delicioso ótimas opção rodízio único incoveniente cadeira atender demanda pessoa bom levar família comemoração,1,0,1,1,0,0,0,0
+pizzario avaliação site experiência pizza cruo molho massa tempero pepperoni gosto marca genérico,0,0,1,0,0,0,0,0
+pizzaria péssimo atendimento péssimo,0,0,0,1,0,0,0,1
+Ótimo jantar família amigo,0,0,0,1,0,0,0,0
+Gostei hora reforma interno deixar ambiente agravel,1,0,0,0,0,0,0,0
+Ótimo atendimento bom local comer doce salgar arrependimento,0,0,1,0,0,0,0,1
+cardápio opção servido,0,0,1,0,0,0,0,0
+experiência ótimo cliente fiel rsrsdsrsrsrs,0,0,0,1,0,0,0,0
+preço justo disponível desfrutar,0,0,0,0,0,0,1,0
+novidade localizar praça alimentação piso estilo boteco interno climatizar externo ar livre Free possuir menu bebida gastronomia chopp gelar cerveja,1,1,0,1,0,0,0,0
+incrível comer confraternização,0,0,1,0,0,0,0,0
+ambiente agradável atendimento super rápido,1,0,0,0,0,0,0,1
+atendir promoção 6ª padrão comida atendimento continuar mesmo achar poder opção tábua frio salad bar,0,0,1,0,0,0,0,1
+Carnes maravilhoso custo benefício atendimento ambiente música ambiente sensacional,1,0,1,0,0,0,1,1
+moderno,0,0,0,1,0,0,0,0
+preço justo comer delicioso impecável preparação apresentação,1,0,1,0,0,0,1,0
+atendimento alto qualidade,0,0,0,0,0,0,0,1
+café incrível bolo delicioso ótima experiência aconchegante,1,1,1,1,0,0,0,0
+comer delicioso ambiente agradavel charmoso localizar,1,0,1,0,1,0,0,0
+ótimo opção conhecer estrutura lazer ambiente agradável,1,0,0,1,0,0,0,0
+comida maravilhoso adora atendimento garçom super simpático entrega bebida,0,0,1,0,0,0,0,1
+Ótimo atendimento bacano,0,0,0,0,0,0,0,1
+família jantar pessoa manter,0,0,0,1,0,0,0,0
+atendimento notar prato servir perfeição atendimento finalização maravilhoso brownie cocar sorvete servir família ano,0,0,1,0,0,0,0,1
+restaurante excelente otimo localização cardápio completo atendimento diferenciar pessoal organizar ambiente limpo confortável,1,0,1,1,1,0,0,1
+ruim espaço suficiente pro cliente,1,0,0,0,0,0,0,0
+único ficar desejar preço vinho cobrar margem lucro restaurante,0,0,0,0,0,0,1,0
+aconchegante requintar comida,1,0,1,0,0,0,0,0
+haver variedade lanche típico saliento achar ótimo,0,0,1,0,0,0,0,0
+comida maravilhoso,0,0,1,0,0,0,0,0
+noite caribenha,0,0,0,0,0,1,0,0
+excelente restaurante,0,0,0,1,0,0,0,0
+oferecer ambiente agradável reunir família amigo,1,0,0,0,0,0,0,0
+comida variar delicioso porção bom preço cerveja gelar cachaça marca sabor atendimento,0,1,1,0,0,0,0,1
+bom bar música vivo bom samba,1,0,0,0,0,0,0,0
+Melhor restaurante,0,0,0,1,0,0,0,0
+gostar peixe ter bom prato restaurante,0,0,1,0,0,0,0,0
+carta vinho,0,1,0,0,0,0,0,0
+sobremesa pudim incrível,0,0,1,0,0,0,0,0
+Ótima comida agradável atendimento excepcional,0,0,1,1,0,0,0,1
+aperitivo qualidade atendimento,0,0,1,0,0,0,0,1
+restaurante típico,0,1,0,1,0,0,0,0
+comida regional qualidade bom opção atendimento qualidade,0,0,1,0,0,0,0,1
+gostoso atendimento deixar desejar,0,0,1,0,0,0,0,1
+comida gostoso preço equivalente lugar cerver canela pedreiro espetáculo massar,1,1,1,0,0,0,1,0
+Ótimas carne sabor variedade porção cardápio,0,0,1,0,0,0,0,0
+Ótima comida regional,0,0,1,0,0,0,0,0
+comida regional regionalismo pronto surpreender paladar exigente,0,0,1,0,0,0,0,0
+Pedimos sanduíche misto croque monsieur suco fatia torto beijinho adorar real caro,0,0,1,0,0,0,1,0
+café delicioso,0,1,0,0,0,0,0,0
+problema vc bacano rio comer prato volta real pessoa pedir cerveja original real,0,0,0,0,1,0,0,0
+limão gosto limão dia ruim pedir chopp gosto chopp parecer limão estragado dia problema recomendar,0,1,1,0,0,0,0,0
+ambiente agradável pé direito alto situar andar prédio,1,0,0,0,0,0,0,0
+preço justo,0,0,0,0,0,0,1,0
+comida,0,0,1,0,0,0,0,0
+bar comum localização invejável hora colocar mesa rua,0,0,0,1,1,0,0,0
+lir agradável atendimento excelente comida maravilhoso,0,0,1,1,0,0,0,1
+Enorme variedade cerveja prato típico alemã maravilhoso,0,1,1,0,0,0,0,0
+custo benefício,0,0,1,0,0,0,1,0
+Ótimo atendimento comido ótimo qualidade,0,0,1,0,0,0,0,1
+opção vegano adorar ketchup chipotle,0,0,1,0,0,0,0,0
+Ótimo restaurante ambiente calmo moderno meso distruír pesar espaço atendimento,1,0,0,1,0,0,0,1
+Ótimo espaço confraternização familiar empresarial,1,0,0,0,0,0,0,0
+comida sensacional,0,0,1,0,0,0,0,0
+garçom ficar responsável bom começo,0,0,0,0,0,0,0,1
+Trata excelente opção encontro casual amigo,0,0,0,1,0,0,0,0
+decoração impecável sofisticar levar,1,0,0,0,0,0,0,0
+Deveria melhorar refrigeração interno,1,0,0,0,0,0,0,0
+ribeirinho amazônico banzeiro agitação água fazer vento,0,0,0,0,0,1,0,0
+nhami nhami,0,0,0,0,0,1,0,0
+caro atendimento péssimo fiquei envergonhar família,0,0,0,0,0,0,1,1
+atendimento atencioso,0,0,0,0,0,0,0,1
+música super atendido pizza ruim,1,0,1,0,0,0,0,1
+peixe gostoso nota,0,0,1,0,0,0,0,0
+atendimento excelente comer delicioso ambiente,1,0,1,0,0,0,0,1
+restaurante maravilhoso prato servido,0,0,1,1,0,0,0,0
+comida caprichar preço justo,0,0,1,0,0,0,1,0
+amo,0,0,0,1,0,0,0,0
+estacionamento ficar traz Centro comercial utilizado frente restaurante rua,0,0,0,0,0,1,0,0
+mega agradável preço justo,0,0,0,1,0,0,1,0
+ribeirinho amazônico banzeiro agitação água fazer vento,0,0,0,0,0,1,0,0
+exelente servicio cardápio limitar achar poder abrir sugestão mexicano querer comida similar ingrediente matéria primo querer falar tá cardápio falar custar atender cliente olhar pagar real cobrar real persona cover música verdade conversar ahh real infantil achar abuso lugar graça,0,0,0,0,0,1,0,0
+Ótimo bom custo benefício,0,0,0,1,0,0,1,0
+comida gostoso preço razoável,0,0,1,0,0,0,1,0
+funcionário excelente rodízio server barulho normal público jovem,1,0,1,0,0,0,0,1
+coisa negativo espaço pequeno apertar hora difícil saí estávamos sentado salão complicar,1,0,0,0,0,0,0,0
+excelente atendimento comida maravilhoso,0,0,1,0,0,0,0,1
+musica ambiente,1,0,0,0,0,0,0,0
+comida ambiente agradável música atendimento excelente,1,0,1,0,0,0,0,1
+opção almoço amigo gastar ir rodízio,0,0,0,1,0,0,1,0
+preço justo,0,0,0,0,0,0,1,0
+matrinxã rechear incrível macia gostoso preço bom custo benefício,0,0,1,0,0,0,1,0
+gostar atendimento demorar som alto conversar rapaz ficar entra saída super educar caro coisa,0,0,0,0,0,0,0,1
+carne qualidade procurar bom churrascaria,0,0,1,1,0,0,0,0
+bonito agradável som ambiente garçom super atencioso comida incrível,1,0,1,1,0,0,0,1
+preço bom self service preço único incluir sobremeso excelente,0,0,1,0,0,0,1,0
+restaurante excelente bom bacalhau bom comi prato elaborar saboroso bacalhau fato bom,0,0,1,1,0,0,0,0
+padrão qualidade restaurante bom custo benefício happy hour entrada bebida custar metade preço normal,0,0,0,0,0,0,1,0
+restaurante sofisticar ótimo opção comer comida típico,0,0,1,1,0,0,0,0
+contar preço conta peixaria renomado encontrar entorno zona sul,0,0,0,0,0,0,1,0
+,0,0,1,0,0,0,0,0
+preço justo atendimento comer ótimo,0,0,1,0,0,0,1,1
+,0,0,0,1,0,0,0,0
+excelente restaurante,0,0,0,1,0,0,0,0
+tradicional buteco experimente bolinho bacalhau,0,0,1,1,0,0,0,0
+Ótima comida preço,0,0,1,0,0,0,1,0
+Ótimo bar lanche rápido cerveja local conversar pessoa local agradável,1,1,1,0,0,0,0,0
+simpático restaurante peixe amazônico hotel hospedar,0,0,0,1,0,0,0,0
+picanhar filé linguiça queijo alcatra parrillo carne tradicional bebida sobremeso querer pedir,0,1,1,0,0,0,0,0
+excelente atendimento serviço rápido delícia,0,0,1,0,0,0,0,1
+Otimo prato delicioso ambiente familiar,1,0,1,1,0,0,0,0
+bom restaurante peixe gourmet,0,0,1,0,0,0,0,0
+cookie surpreender doce doce brasileiro,0,0,1,0,0,0,0,0
+Ótimo restaurante apreciar culinária chinês localizar ótimos funcional preço justo,0,0,1,0,1,0,1,1
+bom reunir amigo família degustar excelente culinária regional bom atendimento comida excelência,0,0,1,1,0,0,0,1
+Ótimo restaurante cardápio repleto comida gostoso sabor divino,0,0,1,1,0,0,0,0
+super aconchegante excelente atendente comir,1,0,1,0,0,0,0,1
+atendimento notar preço justo cerveja geladissima,0,1,0,0,0,0,1,1
+irar experiência bom,0,0,0,1,0,0,0,0
+suculenta saboroso,0,0,1,0,0,0,0,0
+vinho ótima,0,1,0,0,0,0,0,0
+restaurante temático atendimento diferenciar comer nordestino maravilhoso suco delicioso música diversificar,1,1,1,1,0,0,0,1
+bom lugar comer,0,0,0,1,0,0,0,0
+restaurante top,0,0,0,1,0,0,0,0
+bonito prato bebida excelente principal problema fila imenso conseguir mesa,1,0,1,0,0,0,0,0
+excelente restaurante bom,0,0,0,1,0,0,0,0
+comida excelente atendimento alto padrão agradecimento especial atender,0,0,1,0,0,0,0,1
+Bares badalar mesmo rua perder atendimento,0,0,0,1,0,0,0,1
+restaurante bom atendimento recepcionista disposto auxiliar comer excelente atendimento rápido prático disposto atender prático rápido atencioso,0,0,1,0,0,0,0,1
+restaurante esposo linda,0,0,0,1,0,0,0,0
+bar agitado valer pena passar noite karaoke amigo cantar divertir,1,0,0,0,0,0,0,0
+dica sabor serviço custo benefício bom,0,0,1,0,0,0,1,1
+muitooo top,0,0,0,0,0,1,0,0
+excelente opção,0,0,1,0,0,0,0,0
+restaurante degustar legítimo comida manauaro associação prato lembrança,0,0,1,0,0,0,0,0
+forte variedade prato incrível,0,0,1,0,0,0,0,0
+interessante decoração ambiente engano rede cachaçaria ficar shopping típica gourmetl ótimas menu famoso joelho porco alemão tb,1,0,1,1,0,0,0,0
+prato variar fruto mar kids deixar criança,1,0,1,0,0,0,0,0
+atendimento top,0,0,0,0,0,0,0,1
+familiar,0,0,0,1,0,0,0,0
+surpreendente restaurante capital amazonense,0,0,0,1,0,0,0,0
+atendimento excelente atencioso comer delicioso ambiente agradável música vivo,1,0,1,0,0,0,0,1
+negativo escolher carne garçom apressados retirada prato bebida caro,0,0,0,0,0,0,1,1
+cordialidade Cerveja gelar Música agradável gosto,1,1,0,0,0,0,0,1
+aconchegante comida excelente,0,0,1,1,0,0,0,0
+restaurante churrascaria visitar,0,0,0,1,0,0,0,0
+recomendar querer passar raiva ficar chatear bom,0,0,0,1,0,0,0,0
+palavra quão gostoso picanha bafo restaurante,0,0,1,0,0,0,0,0
+bebida petisco prato quente frio ambiente bom ruim ficar conta banheiro apertar cheiroso preço elevar,1,1,1,0,0,0,1,0
+,0,0,0,1,0,0,0,0
+comida,0,0,1,0,0,0,0,0
+Péssima experiência buffetr pobre carne duro guarnição recomendar preço caro custo benefício,0,0,1,1,0,0,1,0
+ambiente super agradável atendimento simpático simples carne excelente paladar custo benefício atrativo,1,0,1,0,0,0,1,1
+único negativo justificar escala funcionário perder facilidade pedido demor compensar qualidade apresentar preço justo valer investimento,0,0,1,0,0,0,1,1
+preço justo comida excelente valer centavo,0,0,1,0,0,0,1,0
+ter próprio experiência valer retorno restaurante gostar puder voltarar,0,0,0,1,0,0,0,0
+agradável musica comida excelente,1,0,1,1,0,0,0,0
+atendender excelente,0,0,1,0,0,0,0,1
+ambiente agradável musica destacar atendimento excelente garçom diferença experiência ótimo postura educar bom atendimento voltaremos,1,0,0,0,0,0,0,1
+excelente escutar música beber drink barato,1,0,0,0,0,0,1,0
+querer conhecer ser companhia familiar amigo namorar sozinho,0,0,0,1,0,0,0,0
+atendimento excelente,1,0,0,0,0,0,0,1
+Carnes saboroso variedade,0,0,1,0,0,0,0,0
+custo benefício,0,0,0,0,0,0,1,0
+restaurante português excelente qualidade preço caro,0,0,0,1,0,0,1,0
+assunto comida encontrei perfeito,0,0,1,0,0,0,0,0
+excelente restaurante,0,0,0,1,0,0,0,0
+ambiente familiar comida fazer atendimento maravilhoso humano incrível voltaremos,1,0,1,0,0,0,1,1
+coco bambu bom,0,0,0,1,0,0,0,0
+churrasco qualidade buffet sorter cerveja gelar ambiente agradável ideal confraternização negócio reunir turma amigo,1,1,1,0,0,0,0,0
+branco alantejano perfeito,0,1,0,0,0,0,0,0
+bom pizzaria,0,0,0,1,0,0,0,0
+bom ambiente valer apenar,1,0,0,1,0,0,0,0
+adorar restaurante charmoso familiar jovial atendimento qualidade prato maravilhoso,0,0,1,1,0,0,0,1
+boM carne sol,0,0,1,0,0,0,0,0
+ambiente bom,1,0,0,0,0,0,0,0
+ideal reunir amigo confraternização levar família saborear delicioso carne,0,0,1,1,0,0,0,0
+restaurante super acolhedor bom ambiente comida sensacional agradecer atender super prestativo atencioso profissional mãe noite deixo,1,0,1,1,0,0,0,1
+excelente restaurante,0,0,0,1,0,0,0,0
+bom pizza há ano,0,0,1,0,0,0,0,0
+excelente profissional,0,0,0,0,0,0,0,1
+divertir amigo música simples história carnaval comentário,1,0,0,1,0,0,0,0
+carne delicioso salada maravilhosa música atendimento excelente,1,0,1,0,0,0,0,1
+ótimo localização atendimento preço justo cardápio excepcional recomendar costela tambaqui empanar farinha levo amigo conhecer iguaria,0,0,1,0,1,0,1,1
+bom comida regional requinte,0,0,1,0,0,0,0,0
+único ressalva estacionamento possuir vaga frente rua cheio veiculo estacionar destaque parede vivo frente loja,0,0,0,0,1,0,0,0
+excelente atendimento preço justo,0,0,0,0,0,0,1,1
+preço alto,0,0,0,0,0,0,1,0
+preço tá alto qualidade quantidade porção deprimente carne quilo gordura derramar óleo ignor cliente pedir tristir último experiência,0,0,1,1,0,0,1,0
+excelente conhecer peixe atendimento excelente maravilhoso,0,0,1,0,0,0,0,1
+parabéns excelente ambiente familiar,1,0,0,1,0,0,0,0
+Ótimo sair rotina ambiente agradável pessoa bonito,1,0,0,1,0,0,0,0
+ambiente,1,0,0,0,0,0,0,0
+Ótima churrascaria variedade prato,0,0,1,1,0,0,0,0
+recepção atencioso ambiente,1,0,0,0,0,0,0,1
+excelente atendimento,0,0,0,0,0,0,0,1
+ambiente excelente picanha top atendimento pessoal atencioso cordial familia sozinho fornecer servico transfer cliente,1,0,1,0,0,0,0,1
+restaurante,0,0,0,1,0,0,0,0
+Deveria regional preço acessível,0,0,0,0,0,0,1,0
+restaurante agradável serviço atencioso,0,0,0,1,0,0,0,1
+comida delicioso atendimento preço justo,0,0,1,0,0,0,1,1
+Ótimo atendimento música ambiente romântico familiar reunião amigo negócio,1,0,0,0,0,0,0,1
+perfeito reunir,0,0,0,1,0,0,0,0
+ambiente aconchegante agradável ideal pequeno grupo,1,0,0,0,0,0,0,0
+claro música ambiente,1,0,0,0,0,0,0,0
+agradável bom atendimento cardápio delicioso,1,0,1,0,0,0,0,1
+restaurante maravilhoso atendimento funcionário solícito educar ambiente lindíssimo confortável comer gostoso ruim estabelecimento preço verdadeiro assalto mão armar tigela arroz pequeno porção brócoli refogar pedaço pequeno bacalhau real gastar índico,1,0,1,1,0,0,0,1
+comida ótimo opção gostar carne bom picanha cidade,0,0,1,0,0,0,0,0
+comida maravilhosa preço caro depender comer,0,0,1,0,0,0,1,0
+Péssima experiência buffetr pobre carne duro guarnição recomendar preço caro custo benefício,0,0,1,1,0,0,1,0
+chopp restaurante ficar piso janela enorme ver,1,1,0,0,0,0,0,0
+isca tapioca típico região norte garçom explicar tapioca super durar horrível comer quebrar dente,0,0,1,0,0,0,0,0
+bom picanha bom carne nobr manau,0,0,1,0,0,0,0,0
+fico feliz perceber evolução serviço cidade,0,0,0,1,0,0,0,0
+restaurante espetacular mesclar culinária regional arte bom chef país localizar belíssimo prédio histórico vista privilegiar,1,0,1,1,0,0,0,1
+super saboroso acompanhamento delicioso preço acessível ambiente agradável,1,0,1,0,0,0,1,0
+estacionamento,0,0,0,0,1,0,0,0
+gelar petisco notar,0,1,1,0,0,0,0,0
+culinária amazônico qualidade preço moderar,0,0,1,0,0,0,1,0
+ambiente agradável música,1,0,0,0,0,0,0,0
+restaurante premiado preço justo qualidade,0,0,0,1,0,0,1,0
+limpo fazer hora preço,1,0,1,0,0,0,1,0
+excelente atendimento garçonete venezuelano excelente atendimento churrasqueiro delicioso pão alho ótimo variedade sabor comida self service haver detalhe negativo ilha salada frio descoberto haver mosca sobrevoar pousar verdura legume,0,0,1,0,0,0,0,1
+restaurante rústico prato degustar sensacional,0,0,1,1,0,0,0,0
+encontrar atendimento espaço amplo agradável criança divertir estacionamento principal comida excelente preço,1,0,1,0,1,0,1,1
+atendimento excelente comida toooopppr delícia voltarei,0,0,1,0,0,0,0,1
+excelente atendimento ambiente maravilhoso comida sensacional,1,0,1,0,0,0,0,1
+ambiente atendimento visual Rio lir prancha aluguel gastronomia verão perfeito,1,0,1,0,0,0,0,1
+achar agradável variedade comida conversar comer gente fechar ouve voz mundo,1,0,1,1,0,0,0,0
+chopes cerveja internacional,0,1,0,0,0,0,0,0
+repente bom opção,0,0,0,1,0,0,0,0
+maravilhoso pastel delicioso,0,0,1,1,0,0,0,0
+bom Carrés comi excelete carta vinho bom diversão garantir criança,1,1,1,0,0,0,0,0
+aconchegante funcionário atencioso poder proativo procurar cliente esperar procur conquistar coração atendimento bom,1,0,0,0,0,0,0,1
+agradável pessoal super atencioso,0,0,0,1,0,0,0,1
+ter ir haver 3ano bom condição atendimento hj voltar achar bagunçar atendente faltar educação ter ser educar faltar bom atendimento,0,0,0,0,0,0,0,1
+otimo impressão começar cheguei apo ficar abrir 23h forte chuva cidade parar dia transito ruim alagamento entender recepção hora tratar checar cozinha poder servir,0,0,0,1,0,0,0,1
+super indico medo feliz,0,0,0,1,0,0,0,0
+carta vinho enganação escolher caro,0,1,0,0,0,0,0,0
+gostoso comida ambiente familiar agradável,1,0,1,0,0,0,0,0
+,0,0,0,1,0,0,0,0
+mesa entalhar peixe amazônico deixar decoração super temático,1,0,0,0,0,0,0,0
+açaí delicioso atendimento,0,0,1,0,0,0,0,1
+ambiente agradável confortável,1,0,0,0,0,0,0,0
+ambiente,1,0,0,0,0,0,0,0
+comida,0,0,1,0,0,0,0,0
+ambiente aconchegante limpo culinária,1,0,1,0,0,0,0,0
+experiência maravilhoso,0,0,0,1,0,0,0,0
+excelente,0,0,0,1,0,0,0,0
+comida regional qualidade saboroso ambiente agradável atendimento,1,0,1,0,0,0,0,1
+dia cheio restaurante atendimento deplorável clienter implorar ser atender tratar,0,0,0,0,0,0,0,1
+excelente qualidade,0,0,1,0,0,0,0,0
+Localizar bom shopping,0,0,0,0,1,0,0,0
+pedi picanha nobre angu esperar cobrar,0,0,1,0,0,0,1,0
+serviço comida atendimento,0,0,1,0,0,0,0,1
+Ótimo ambiente excelente comer atendimento vip recomer,1,0,1,0,0,0,0,1
+pratar bom picanha,0,0,1,0,0,0,0,0
+excelente atendimento preço justo rodízio variado pizza delícia estacionamento,0,0,1,0,1,0,1,1
+Má atendimento bebida quente incluso,0,1,0,0,0,0,0,1
+atendimento bom,0,0,0,0,0,0,0,1
+restaurante carne,0,0,0,1,0,0,0,0
+restaurante estrela bom sentir casa almoçar jantar saborear vinho nacional importar delicioso licor,0,1,0,1,0,0,0,0
+bom tomar cerveja gelar passar amigo,0,1,0,1,0,0,0,0
+confortável preço,1,0,0,0,0,0,1,0
+ambiente agradável atendimento notar,1,0,0,0,0,0,0,1
+gaúcha apreciar carne churrasco,0,0,1,0,0,0,0,0
+atender excelente profissional atencioso cheio mimo cliente,0,0,0,0,0,0,0,1
+interno externo,1,0,0,0,0,0,0,0
+espaço significativo,1,0,0,1,0,0,0,0
+restaurante domingo atendimento,0,0,0,1,0,0,0,1
+churrascaria badalado atendimento excelente ambiente agradável ver panorâmico variedade carne opção cozinha japonês carta vinho simples longo bom rótulo,1,1,1,0,0,0,0,1
+restaurante típico português manter cardápio permanente alteração passar modificação estrutural oferecer conforto cliente,1,0,1,1,0,0,0,0
+adorar comida divino fogao fazer lir profissionalismo igual,0,0,1,0,0,0,0,1
+ambiente climatizar espaço kids monitora atendimento rápido cordial destaque atencioso super engraçar,1,0,0,0,0,0,0,1
+Vale conhecer histórico,0,0,0,1,0,0,0,0
+preço justo,0,0,1,0,0,0,1,0
+localização frente natureza comida,0,0,1,0,1,0,0,0
+dia pirarucu molho shimeji arroz negro purê mandioquinha,0,0,1,0,0,0,0,0
+excelente ambiente familiar música agradável,1,0,0,1,0,0,0,0
+geladinho muitooo,0,1,0,0,0,0,0,0
+atenção comer un delícia,0,0,0,0,0,1,0,0
+comida camar sobremesa sensacional ambiente agradável atendimento,1,0,1,0,0,0,0,1
+atendimento preço alto considerar justo server,0,0,1,0,0,0,1,1
+super aconchegante comida maravilhoso atendente energia sorrir pro cliente sentir recepcionista receber carisma excelente,1,0,1,0,0,0,0,1
+peixe temperado saboroso receita típico região,0,0,1,0,0,0,0,0
+comida excelente qualidade preço justo,0,0,1,0,0,0,1,0
+preço ótimo sabor,0,0,1,0,0,0,1,0
+Ótimo custo benefício,0,0,0,0,0,0,1,0
+manhã bom jantar gostar prato carne pequeno,0,0,1,0,0,0,1,0
+restaurante música vivo excelente atendimento prato fazer capricho sabor,1,0,1,1,0,0,0,1
+Recomendo dia movimentar,0,0,0,0,0,1,0,0
+bom completo churrascaria moderno trabalhar corte carne qualidade origem comprovar,0,0,1,1,0,0,0,0
+excelente opção prato preparar fogem básico experiência gastronômico excelente,0,1,0,0,0,0,0,0
+excelente opção café,0,0,1,0,0,0,0,0
+ambiente agradável cardápio variado excelente profissional,1,0,1,0,0,0,0,1
+aniversário bom,0,0,0,1,0,0,0,0
+massa levar sabor delicioso,0,0,1,0,0,0,0,0
+tom café regional,0,1,0,0,0,0,0,0
+ambiente agradável,1,0,0,0,0,0,0,0
+Aliado demor má vontade garçom último caso relatar face,0,0,0,0,0,0,0,1
+experiência horrível recomendar,0,0,0,1,0,0,0,0
+possuir estacionamento amplo contar brinquedoteca custo,0,0,0,0,1,0,0,0
+comer peixe variar custo beneficio acessível opção regional destaco costela tambaqui achar peço prato qualidade peixe regional destacar opção aproveitar,0,0,1,1,0,0,1,0
+custo benefício interessante dar melhorada,0,0,0,0,0,0,1,0
+restaurante top atendimento realizar,0,0,0,1,0,0,0,1
+atendimento contar mesa interior desfrutar contato jardim repleto árvore planta nativo sentir contato natureza rico região,1,0,0,0,0,0,0,1
+Ótimo atendimento,0,0,0,0,0,0,0,1
+recomendar café manhã regional excelente,0,0,1,0,0,0,0,0
+ketherin,0,0,0,0,0,0,0,1
+hambúrguer delicioso,0,0,1,0,0,0,0,0
+ambiente agradabilíssimo prato apresentar sevido,1,0,1,0,0,0,0,1
+atendimento comir exelente,0,0,1,0,0,0,0,1
+valer visita conhecer,0,0,0,1,0,0,0,0
+,0,0,0,1,0,0,0,0
+lazer,0,0,0,1,0,0,0,0
+bonito agradável comida garçom atencioso,1,0,1,0,0,0,0,1
+bom preço justo,0,0,0,1,0,0,1,0
+lotar gordelicia muotar bom,1,0,0,0,0,0,0,0
+atendimento excelente comer delicioso,0,0,1,0,0,0,0,1
+bom restaurante,0,0,0,1,0,0,0,0
+família divertir lotar valer pena esperar comer salgar atendente educar orientar realizar competição,1,0,1,1,0,0,0,1
+ambiente bom atendimento comida comum comer gostoso,1,0,1,0,0,0,1,1
+bom conversar,0,0,0,1,0,0,0,0
+atencioso dia bom japonês,0,0,0,1,0,0,0,1
+simples achar porção cara tamanho,0,0,0,1,0,0,1,0
+Ótimo ambiente,1,0,0,0,0,0,0,0
+super aconchegante opção fantástico,1,0,1,0,0,0,0,0
+paisagem linda ambiente acolhedor restaurante bom pessoa agradável,1,0,0,1,0,0,0,0
+cansado almoçar restaurante Merece almoçar preço justo bom atendimento,0,0,0,0,0,0,1,1
+cardápio prato basear culinária amazonense possuir diversidade peixe conteúdo,0,0,1,0,0,0,0,0
+super interessante,0,0,0,1,1,0,0,0
+interessante levar amigo criança,0,0,0,1,0,0,0,0
+Ótima localização atendimento qualidade pizza deixar desejar massa fino recheio péssimo oferecer salgado massa frito oleoso recheio péssimo experiência,0,0,1,0,1,0,0,1
+coco bambu proporcionar noite maravilhoso tar perfeito atendimento incrível garçom atento perguntar preocupar,0,0,0,1,0,0,0,1
+agradável apreciar café,0,1,0,1,0,0,0,0
+destaque drink sabor local,0,1,0,0,0,0,0,0
+Hambúrguer artesanal,0,0,1,0,0,0,0,0
+sobremeso porção extro acompanhamento valor normal restaurante,0,0,0,0,0,0,1,0
+ter experiência saborear bom carne especial costela,0,0,1,0,0,0,0,0
+comida saboroso natural delicioso recepção excelente limpo enfeitar atendente prestativo atencioso,0,1,1,0,0,0,0,1
+preço justo atendimento cordial comido delicioso,0,0,1,0,0,0,1,1
+barato,0,0,0,1,0,0,1,0
+atendimento excelente comer ótimo ambiente fenomenal,1,0,1,0,0,0,0,1
+comida ambiente agradável dia gente espaço ficar cheio,1,0,1,0,0,0,0,0
+comida gostoso carne tar seca,0,0,1,0,0,0,0,0
+Ótimo ambiente variedade opção prato,1,0,1,0,0,0,0,0
+restaurante sofisticar ar condicionado atendimento bom bebida variado cardápio comida regional,1,1,1,1,0,0,0,1
+ambiente lir atendimento impecável comer delicioso,1,0,1,0,0,0,0,1
+Melhor churrascaria,0,0,0,1,0,0,0,0
+restaurante espaço agradável vista bonito cardápio variado procurar modernizar prato,1,0,1,0,0,0,0,0
+infantil,0,0,0,0,0,1,0,0
+atendimento ambiente climatizar,1,0,0,0,0,0,0,1
+legal,0,0,0,0,0,1,0,0
+ambiente amplo música agradável,1,0,0,0,0,0,0,0
+possuir estacionamento rua usar seguro ficar avenida facil acesso,0,0,0,0,1,0,0,0
+Ótimo tomar bom café reunir amigo,0,1,0,1,0,0,0,0
+pastel massa meio encruar crocante café carioca aguar,0,1,1,0,0,0,0,0
+ambiente agradável espetacular excelente atendimento comida maravilhoso tradicional restaurante comida típica,1,0,1,1,0,0,0,1
+excelente atendimento maravilhoso acompanhamento ótimm sugestão,0,0,1,0,0,0,0,1
+comida excelente atendimento alto padrão agradecimento especial atender,0,0,1,0,0,0,0,1
+experiência ótimo comer atendimento vip,0,0,1,1,0,0,0,1
+excelentemente,0,0,0,0,0,1,0,0
+banho,0,0,0,0,0,1,0,0
+frequentador constante maravilhoso comida divino,0,0,1,1,0,0,0,0
+localização atendimento legal ambiente ventilar ar condicionado,1,0,0,0,1,0,0,1
+petisco ótimos cerveja geladissima,0,1,1,0,0,0,0,0
+altíssimo concorrência,0,0,0,0,0,0,1,0
+ambiente,1,0,0,0,0,0,0,0
+calçada alto chegar 11h cozinhar ser espera pequeno minuto prato dia imaginar prato trabalhar,0,0,0,0,0,0,0,1
+apreciar delicioso sanduíche amazônico,0,0,1,0,0,0,0,0
+restaurante tranquilo super bacalhau saboroso,1,0,1,1,0,0,0,0
+ambiente pequeno caro,1,0,0,0,0,0,1,0
+massa saboroso preço acessível,0,0,1,0,0,0,1,0
+Ótimo atendimento,0,0,0,0,0,0,0,1
+ambiente familiar música contato direto natureza amazônica,1,0,0,0,0,0,0,0
+Ótimo ambiente,1,0,0,0,0,0,0,0
+ambiente legal animar atendimento ótimo preço localizar,1,0,0,0,1,0,1,1
+opção comer peixe,0,0,1,0,0,0,0,0
+pizzar sabor excelente pedir receber,0,0,1,1,0,0,0,0
+comida maravilhoso,0,0,1,0,0,0,0,0
+jantar clássico autêntico cozinha português maravilhosa sensibilidade paladar brasileiro cardápio diversificar atender gosto,0,0,1,0,0,0,0,0
+benefício compatível restaurante,0,0,0,0,0,0,1,0
+feira volta chegueir ambiente amplo mesa ficar apertado haver gente barulho fiquei imaginar semana,1,0,0,0,0,0,0,0
+Excelente prato preço atrativo,0,0,1,0,0,0,1,0
+cardápio variado custo benefício compensa,0,0,1,0,0,0,1,0
+ter fazer reserva encarar espera hora maneira confortável atendente atencioso,0,0,0,0,0,0,0,1
+comida gostoso preço negativo ambiente agradável valer pena visitar,1,0,1,1,0,0,1,0
+trabalho hora almoço comer impossível atendimento perder saber atendir haver estrutura atender salão cheio conseguir manter mínimo atendimento,0,0,0,0,0,0,0,1
+Ótimo,0,0,0,1,0,0,0,0
+ambiente pegada rock roll comer gostoso hambúrguer artesanal bom atendimento,1,0,1,0,0,0,0,1
+excelente restaurante alto bom serviço ótimo comida considero estrela bom peixe,0,0,1,1,0,0,0,1
+Serviço impecável padrão prato ambiente agradável,1,0,1,0,0,0,0,1
+comida preço ambiente agradável,1,0,1,0,0,0,1,0
+pessoar educado nota,0,0,0,0,0,0,0,1
+Ótimo ambiente atendimento bom churrascaria,1,0,0,1,0,0,0,1
+cardápio excelente releitura prato típico regional,0,0,1,0,0,0,0,0
+Pizza fininhar delícia,0,0,1,0,0,0,0,0
+ambiente atendimento precisar melhorar positivo banheiro limpo cheiroso negativo pra recepcionista liber reserva fila,1,0,0,1,0,0,0,1
+sofisticar público excelente comer qualidade espaço kids música possibilidade ambiente lounge descolar tocar haver bom preço realidade bom opção,1,0,1,1,0,0,1,0
+ambiente oferecer espaço especial festa confraternização brinquedoteca,1,0,0,0,0,0,0,0
+Casario antigo reformar,1,0,0,0,0,0,0,0
+haver mesa ocupar fico imaginar bagunça dia movimentar ter restaurante fundo bagunça parecer escritório desorganizar passar péssimo impressão,0,0,0,1,0,0,0,0
+Ótimo atendimento carne saborosíssima ambiente agradável brinquedoteca opção pai filho pequeno,1,0,1,0,0,0,0,1
+Oferece comida regional qualidade requinte preço justo localizar areo,0,0,1,0,1,0,1,0
+excelente atendimento preço justo valer pena provar panelinha goiano,0,0,1,0,0,0,1,1
+comida excelente ambiente empório tipo bebida petisco produto regional,1,0,1,0,0,0,0,0
+Ótimo atendimento garçom comida saboroso,0,0,1,0,0,0,0,1
+Ótimo,0,0,0,1,0,0,0,0
+carne maravilhoso bom atendimento agradável,0,0,1,1,0,0,0,1
+atendimento rápido horário almoço cliente haver pequeno demora,0,0,0,0,0,0,0,1
+lir bom,1,0,0,1,0,0,0,0
+bom começo noite épico,0,0,0,1,0,0,0,0
+Ótimo atendimento ótimo comer preço justo,0,0,1,0,0,0,1,1
+preço alto,0,0,0,0,0,0,1,0
+ambiente agradável bom atendimento cardápio excelente qualidade,1,0,1,0,0,0,0,1
+frequento atendir deliciar comida servir bom qualidade,0,0,1,0,0,0,0,1
+Ótimo atendimento ambiente familiar agradável mt recebir parabéns otimo trabalho,1,0,0,0,0,0,0,1
+Ótimo atendimento sushi yakisoba maravilhoso,0,0,1,0,0,0,0,1
+excelente encontro familiar amigo interação criança,0,0,0,1,0,0,0,0
+ambiente,1,0,0,0,0,0,0,0
+simples cerveja gelar,0,1,0,1,0,0,0,0
+restaurante maravilhoso camar carne sol sobremeso delicioso música vivo,1,0,1,1,0,0,0,0
+Ótimo restaurante,0,0,0,1,0,0,0,0
+acessível,0,0,0,0,0,0,1,0
+comida típico peixe peixe,0,0,1,0,0,0,0,0
+comida excepcional sabor tradição comida paraense,0,0,1,0,0,0,0,0
+bom estabelecimento cidade conseguir comer atendir,0,0,1,1,0,0,0,1
+ser preço rodízio subir último dia excelente opção procurar rodízio qualidade,0,0,0,1,0,0,1,0
+gostar massa ótimo opção preço,0,0,1,0,0,0,1,0
+experiência inesquecível,0,0,0,1,0,0,0,0
+restaurante valer pena jantar tranquilo,0,0,0,1,0,0,0,0
+ambiente,1,0,0,0,0,0,0,0
+vinho preço regular,0,1,0,0,0,0,1,0
+Cerveja gelar meso calçada via esquenta chegar ouvir chorinho pena conhecer,1,1,0,1,0,0,0,0
+Ótimo atendimento espaço criança variedade sabor qualidade pizza bom,1,0,1,0,0,0,0,1
+atendimento,0,0,0,0,0,0,0,1
+atendimento pequeno aconchegante pode escolher entrar externo interno,1,0,0,1,0,0,0,1
+comida maravilhoso,1,0,1,0,0,0,0,0
+excelente restaurante,0,0,0,1,0,0,0,0
+excelente atendimento variedade preço justo,0,0,1,0,0,0,1,1
+variedade ambiente sensacional,1,0,1,0,0,0,0,0
+maravilhoso filha adorar temático perfeito,0,0,0,1,0,0,0,0
+custo benefício excelente,0,0,0,0,0,0,1,0
+Achei tempo pandemia mesa próximo vir garçom jovem insistir máscara incorreto deixar nariz respirar alimento louça servia solicitar usar máscara,0,0,0,1,0,0,0,0
+papo recomendar,0,0,0,0,0,1,0,0
+estabelecimento impressionar variedade produto empório história cachaçaria motivo brindar cachaça prato elaborar sabor,0,1,1,0,0,0,0,0
+servir diverso opção peixe região suco saboroso,0,1,1,0,0,0,0,0
+ambiente jardim inverno maravilhoso,1,0,0,0,0,0,0,0
+estacionamento possuir ambiente opinião externo opção ideal pressa sair,1,0,0,0,1,0,0,0
+preço justo comida serviço torno pessoa,0,0,1,0,0,0,1,1
+chef fugir sabor padr peixaria tradicional,0,0,1,0,0,0,0,0
+preço tbm mt,0,0,0,0,0,0,1,0
+costela tambaqui molho agridoce fazer comer mão beiço,0,0,1,0,0,0,0,0
+Ótimo ambiente limpo organizar excelente atendimento garçom super atencioso comer,1,0,1,0,0,0,0,1
+comida expressividade,0,0,1,0,0,0,0,0
+,1,0,0,0,0,0,0,0
+bom carne atendimento primeiro qualidade sobremesa deixar água boca,0,0,1,0,0,0,0,1
+semana prato executivo quantidade excelente preço moderar Pratos original saboroso,0,0,1,0,0,0,1,0
+promoção bacana acessível,0,0,0,0,0,0,1,0
+negativo ficar conta iluminação claro carta cerveja artesanal,1,1,0,0,0,0,0,0
+comida preço justo oferecer falar atendimento excelente garçom,0,0,1,0,0,0,1,1
+possuir preço abusivo padrão bom restaurante comida fraco,0,0,1,0,0,0,1,0
+comida maravilhoso bom domingo família,1,0,1,1,0,0,0,0
+desenvolver habilidade Boliche,1,0,0,0,0,0,0,0
+deixar gente confortável atender comer delicioso,0,0,1,0,0,0,0,1
+opção,0,0,0,1,0,0,0,0
+garçom servir salada mesmo colher,0,0,0,0,0,1,0,0
+atendimento,0,0,0,0,0,0,0,1
+atendimento excelente comida ambiente familiar,1,0,1,0,0,0,0,1
+estacionamento fácil rua frente noite,0,0,0,0,1,0,0,0
+recepcionista simpático atender super,0,0,0,0,0,0,0,1
+opção almoço casual opção amigo opção jantar opção levar amigo conhecer cidade ocasião opção satisfazer gosto,0,0,0,1,0,0,0,0
+Ótimo comer excelente,1,0,1,0,0,0,0,0
+Ótimo festejar aniversário jantar almoçar,0,0,0,1,0,0,0,0
+tradicional ótimo música samba raiz,1,0,0,1,0,0,0,0
+experiência hora espera fila entrar estar pessoa,0,0,0,0,0,0,0,1
+experiência sensacional,0,0,0,1,0,0,0,0
+comida excepcional preço justo,0,0,1,0,0,0,1,0
+atendimento café manhã bom,0,0,1,0,0,0,0,1
+atencioso,0,0,0,0,0,0,0,1
+Ótima opção pro fim semana,0,0,0,1,0,0,0,0
+depender dia semana hora barulhento agitar,1,0,0,0,0,0,0,0
+noite agradável degustar culinária japonês haver,0,0,1,0,0,0,0,0
+haver suco natural cerveja gelar,0,1,0,0,0,0,0,0
+excelente restaurante atendimento bom peixe valer pena conferir,0,0,1,1,0,0,0,1
+garçom atencioso poder haver rodízio passar esperar rodada,0,0,0,0,0,0,0,1
+experiência maravilhoso comemorar aniversário noivar,0,0,0,1,0,0,0,0
+pizza mussarela queijo vir borda largo sabor graça,0,0,1,0,0,0,0,0
+ambiente agradável comer delicioso atendimento,1,0,1,0,0,0,0,1
+astral bom petisco música precisar melhorar qualidade som,1,0,1,0,0,0,0,0
+deixar agradável ótimo comer ambiente retrô amei,1,0,1,1,0,0,0,0
+coxinhas sensacional,0,0,1,0,0,0,0,0
+cozinha agitação nome jovem chef fama utilizar elemento inusitar cozinha regional fincar pé capital paulista filial,0,0,0,0,0,0,0,1
+espaço maravilhoso comer delicioso bom atendimento,1,0,1,0,0,0,0,1
+recepcionar pessoal treinar educar pirarucu fantástico pena molho camar pouquinho salgar formidável Bons preço,0,0,1,0,0,0,1,1
+garçom coqueiro verde atendimento maravilhoso nota maravilhoso,0,0,0,0,0,0,0,1
+fiquei receoso surpreendi,0,0,0,1,0,0,0,0
+,1,0,0,0,0,0,0,0
+fino frequentar,1,0,0,0,0,0,0,0
+aconchegante,1,0,1,0,0,0,0,0
+agradável atendimento excelente,0,0,0,1,0,0,0,1
+Guardar fome churrasco bom cidade,0,0,0,1,0,0,0,0
+instagramável funcionário simpático ambiente espaço Kids externo rua showzinho vivo interno climatizar andar ter referência local série,1,0,0,1,0,0,0,1
+atendimento ficar localizar rua principal ruim estacionamento,0,0,0,0,1,0,0,1
+almoço rápido servir diverso espalhada,0,0,0,0,0,1,0,0
+Valores alto serviço mediano,0,0,0,0,0,0,1,1
+ambiente agradável,1,0,0,0,0,0,0,0
+procurar otimo carne custo otimo higienização otimo churrascaria,1,0,1,1,0,0,1,0
+custo benefício haver local bom imediação,0,0,0,1,0,0,1,0
+bom pizza comi vida,0,0,1,0,0,0,0,0
+ambiente amplo climatizar prato delicioso atendimento excelente,1,0,1,0,0,0,0,1
+excelente restaurante garçom atender comida gostoso,0,0,1,1,0,0,0,1
+Rever amigo morar cidade ótimo experiência excelente atendimento,0,0,0,1,0,0,0,1
+comer fazer agradavel,0,0,1,1,0,0,0,0
+comida externo agradável pedido demorar chegar,1,0,1,0,0,0,0,1
+atendimento razoável,0,0,0,0,0,0,0,1
+lindinho comida decoração lindo,1,0,1,0,0,0,0,0
+maravilhoso comer,0,0,1,1,0,0,0,0
+ambiente típico regional confortável estacionamento localizar,1,0,0,0,1,0,0,0
+pizza saboroso fazer hora,0,0,1,0,0,0,0,0
+experiência conta sair cara,0,0,0,1,0,0,1,0
+moça operar caixa domingo dia precisar reciclagem atender cliente,0,0,0,0,0,0,0,1
+C una piacere oggi,0,0,0,0,0,1,0,0
+custo benefício,0,0,0,0,0,0,1,0
+Ótimo preço acessível,0,0,0,0,0,0,1,0
+famoso picanha bafo manaus otimo ambiente otimo atendimento picanha gostoso suculentar,1,0,1,0,0,0,0,1
+Ótimo atendimento preço,0,0,0,0,0,0,1,1
+chopp restaurante ficar piso janela enorme ver,1,1,0,0,0,0,0,0
+Boa carne ambiente agradável pecar opção cardápio,1,0,1,0,0,0,0,0
+opinião bom restaurante regional comi pirarucu banana queijo coalho maravilhoso recomer vir medo,0,0,1,1,0,0,0,0
+bar temático,0,0,0,1,0,0,0,0
+comemorar data super especial incrível restaurante atendimento impecável comer saboroso bom preço justo,0,0,1,1,0,0,1,1
+bom churrascaria atualidade,0,0,0,1,0,0,0,0
+agravel,1,0,0,0,0,0,0,0
+Ótimo atendimento comer delicioso ambiente climatizar estacionamento,1,0,1,0,0,0,0,1
+ambiente familiar comida gostoso,1,0,1,0,0,0,0,0
+restaurante bom atendimento,0,0,0,0,0,0,0,1
+ótimo opção comer preço justo,0,0,1,0,0,0,1,0
+excelente falar bom sabor,0,0,1,1,0,0,0,0
+adorar divertido musica gente bonito atendente simpatico,1,0,0,0,0,0,0,1
+estabelecimento possuir atendimento péssimo,0,0,0,0,0,0,0,1
+frango calabrês assar maionese farofa arroz maionese batata cenoura duro arroz duro crer peço melhor qualidade comprar poder devolver chato,0,0,1,0,0,0,0,0
+Ótimo restaurante bom sushi,0,0,1,1,0,0,0,0
+pagar real saímor insatisfeito qualidade preocupação estar servir,0,0,1,0,0,0,1,0
+agradável original,0,0,0,0,0,1,0,0
+atendimento comer gostoso preço médio,0,0,1,0,0,0,1,1
+preço alto,0,0,0,0,0,0,1,0
+Ótimo ambiente bom garçom atendimento rápido trazer carne excelente carne recepção nota agradeço garçom ir vir,0,0,1,0,0,0,0,1
+Gostei rodízio massa pizza sabor diverso atendir funcionário cheio dia agradável alegre gostar baguncinha recomer,1,0,1,0,0,0,0,1
+ar condicionado tá render verão,1,0,0,0,0,0,0,0
+conjunto ambiente simpatia garçom carne especial servir tornar excelente confraternização almoço executivo,1,0,1,0,0,0,0,1
+cardápio,0,0,1,0,0,0,0,0
+opção ter interesse estar incluso rodízio,0,0,1,0,0,0,0,0
+atendimento,0,0,0,0,0,0,0,1
+maravilhoso atendimento super rápido eficiente bom atendimento cerveja geladinho comida petisco gostoso servir preço localização,1,1,1,1,0,0,1,1
+cerveja chope gelar,0,1,0,0,0,0,0,0
+comida típico hambúrguer americano normal gritar,0,0,0,0,0,1,0,0
+bom ambiente,1,0,0,0,0,0,0,0
+bar lembrar boemia manaus,0,0,0,1,0,0,0,0
+bolinho bacalhau pastelzinho bacalhau bom fazer preço acessível,0,0,1,0,0,0,1,0
+excelente atendimento comida qualidade utilizar planta alimentício convencional inteligente saboroso,0,0,1,0,0,0,0,1
+comida delicioso atendimento notar prato fartar apresentação prato excelente separar arrumadinho,0,0,1,0,0,0,0,1
+pizza massa petisco maravilhoso atendimento bom,0,1,0,0,0,0,0,0
+dever variedade sobremesa,0,0,1,1,0,0,0,0
+pessoal maravilhoso pizza,0,0,1,0,0,0,0,1
+dono finíssimo,0,0,0,0,0,0,0,1
+carta vinho ótim opção,0,1,0,0,0,0,0,0
+atendimento cervejir super gelar,0,1,0,0,0,0,0,1
+restaurante otimo familia varios orato comida regional assar,0,0,1,1,0,0,0,0
+atendimento,0,0,0,0,0,0,0,1
+Melhor churrascaria,0,0,0,1,0,0,0,0
+bacano bom desestressar apreciar beleza natural,1,0,0,1,0,0,0,0
+ambiente top atendimento prato fruto mar delicioso acompanhar vinho,1,1,1,0,0,0,0,1
+Gostei ambiente ficar região alto,1,0,0,0,0,0,0,0
+agradeço peixe tambaqui recomer,0,0,1,1,0,0,0,0
+atendimento excelente criança kids brinquedo opção pro pequeno,1,0,0,0,0,0,0,1
+comida excelente atendimento bom,0,0,1,0,0,0,0,1
+cozinha agitação nome jovem chef fama utilizar elemento inusitar cozinha regional fincar pé capital paulista filial,0,0,0,0,0,0,0,1
+Gostei super indico,0,0,0,1,0,0,0,0
+prato executivo preço acessível,0,0,0,0,0,0,1,0
+comida atendimento preço justo viabilizar estacionamento cliente,0,0,1,0,1,0,1,1
+combinação sabor regional,0,0,1,0,0,0,0,0
+haver produto importar refrigerante peruano,0,1,0,0,0,0,0,0
+ir banzeiro bom comer comida regional sinal prato preparar,0,0,1,1,0,0,0,0
+prato variar elaborar bom drinque ambiente climatizar preço justo qualidade,1,1,1,0,0,0,1,0
+atendimento incrível comer saboroso,0,0,1,0,0,0,0,1
+comida delicioso caro comparar bom restaurante português,0,0,1,0,0,0,0,0
+Ótimo comer bom carne sol manau preparar qualidade preço atrativo,0,0,1,0,0,0,1,0
+restaurante excelente degustaçãor peixe regional típico requinte toque recomendar muqueca molho camarão,0,0,1,1,0,0,0,0
+atendimento otimo comer bom qualidade,0,0,1,0,0,0,0,1
+saboroso prato variar preço justo atendimento,0,0,1,0,0,0,1,1
+atendimento deixar desejar pessoal mau humorar servir estar paciencia valer pena vista teatro otimo cadeira,1,0,0,0,0,0,0,1
+bom ambiente ótimo comer,1,0,1,0,0,0,0,0
+sobremesa pedir petit gateau pedir demorar diminuir nota atendente educar deixar ocorrer atraso atendimento camuflar eventual acontecimento,0,0,1,0,0,0,0,1
+incrível,0,0,0,1,0,0,0,0
+pastelaria temático adoro lugar linr foto viajar comer super,1,0,1,0,0,0,0,0
+flutuante rio negro praticar belo sol,1,0,0,0,0,0,0,0
+agradável carne qualidade ótimo preparação,0,0,1,1,0,0,0,0
+cozinha agitação nome jovem chef fama utilizar elemento inusitar cozinha regional fincar pé capital paulista filial,0,0,0,0,0,0,0,1
+restaurante,0,0,0,1,0,0,0,0
+excelente atendimento,0,0,0,0,0,0,0,1
+comida maravilhoso,0,0,1,0,0,0,0,0
+bom atendimento experiência incrível super recomer,0,0,0,1,0,0,0,1
+opção saboroso custo benefício rodízio,0,0,1,0,0,0,1,0
+gentis,0,0,0,0,0,0,0,1
+torto servi quanto pessoa,0,0,0,0,0,1,0,0
+sol bom,0,0,1,0,0,0,0,0
+pizzario avaliação site experiência pizza cruo molho massa tempero pepperoni gosto marca genérico,0,1,0,0,0,0,0,0
+bom happy hour amigo cerveja drink gostoso comidinho delicioso deixar comer carne sol pedido favorito acompanhar queijo bolinho,0,1,1,1,0,0,0,0
+excelente restaurante atendimento ótimo,0,0,0,1,0,0,0,1
+Boas cerveja artesanal cachaça degustar acompanhamento famoso petisco,0,1,1,0,0,0,0,0
+boM atendimento bom hambúrguere batata rústico ambiente agradável bom quadrinho amo,1,0,1,0,0,0,0,1
+comida maravilhoso,0,0,1,0,0,0,0,0
+comida preço,0,0,1,0,0,0,1,0
+restaurante comida regional variar adequado reunião Vips preço alto,0,0,1,0,0,0,0,0
+restaurante maravilhoso,0,0,0,1,0,0,0,0
+mesmo experiência,0,0,0,1,0,0,0,0
+comida agradável atendimento,0,0,1,1,0,0,0,1
+elogio restaurante resolver comemorar aniversário família arrepender reserva fazer telefone atendente super atencioso chegada restaurante solícito sorridente,0,0,0,0,0,0,0,1
+opção carne assar guarnição salão comportar meso barulho ser contar televisão alto impossibilitar frequentador conversar,1,0,1,0,0,0,0,0
+bom petisco manau,0,0,1,0,0,0,0,0
+restaurante peixe típico região prato saboroso atendimento excelente porção bom,0,0,1,0,0,0,0,1
+top música atendimento rápido casa aconchegante,1,0,0,1,0,0,0,1
+pizzaria qualidade variedade ambiente criança,1,0,1,1,0,0,0,0
+atendimento excelente localizar opção vegetariano,0,0,1,0,1,0,0,1
+gostar taco rua ótimo escolha,0,0,1,0,0,0,0,0
+ambiente limpo agradável,1,0,0,0,0,0,0,0
