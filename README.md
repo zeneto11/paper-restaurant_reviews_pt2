@@ -32,6 +32,7 @@ Este repositório contém os arquivos e diretórios relacionados ao estudo de ca
 
   - **folds-4000sentencas/**: Datasets divididos em 5 folds com diferentes técnicas de pré-processamento.
     - **Lemmatization/**: Datasets pré-processados com lematização.
+    - **Lemmatization/**: Datasets com apenas verbos, substantivos e adjetivos uasndo a biblioteca spaCy.
     - **Stemming/**: Datasets pré-processados com stemming.
     - **Stopwords/**: Datasets com stopwords removidas.
 
